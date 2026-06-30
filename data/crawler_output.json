@@ -1,8 +1,1030 @@
 {
-  "gerado_em_utc": "2026-06-26T00:00:00Z",
+  "gerado_em_utc": "2026-06-30T12:29:03.728897Z",
   "total_instituicoes": 20,
-  "ok": 0,
-  "com_erro": 0,
-  "observacao": "Este é um arquivo SEED inicial. Os dados reais serão substituídos automaticamente na primeira execução do GitHub Actions (.github/workflows/crawler.yml). Até lá, o site usa apenas os links oficiais cadastrados em data/instituicoes.json.",
-  "resultados": []
+  "ok": 8,
+  "com_erro": 12,
+  "resultados": [
+    {
+      "id": "ufmg",
+      "sigla": "UFMG",
+      "url_vestibular_consultada": "https://site.copeve.ufmg.br/",
+      "status": "erro",
+      "pdfs_encontrados": [],
+      "trechos_com_data": [],
+      "paginas_visitadas": [],
+      "timestamp_utc": "2026-06-30T12:26:47.631033Z",
+      "erro": "Não foi possível acessar a página principal do vestibular."
+    },
+    {
+      "id": "ufjf",
+      "sigla": "UFJF",
+      "url_vestibular_consultada": "https://www2.ufjf.br/copese/",
+      "status": "ok",
+      "pdfs_encontrados": [
+        {
+          "url": "https://www2.ufjf.br/copese/wp-content/uploads/sites/42/2026/06/11_2026-Edital-Vestibular-de-Musica-2027_Retificado-13-2026.pdf",
+          "texto_ancora": "Edital 11/2026 – Vestibular de Música – Retificado",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www2.ufjf.br/copese/wp-content/uploads/sites/42/2026/06/13_Edital-13-2026_Retifica-edital-11-2026_Vestibular-de-Musica-2027.pdf",
+          "texto_ancora": "Edital 13/2026 – Retifica 11/2026",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www2.ufjf.br/copese/wp-content/uploads/sites/42/2026/06/10_Edital_10_2026_PISM_2027_retificado-pelo-12-2026.pdf",
+          "texto_ancora": "Edital 10/2026 – Edital do PISM 2027 – Retificado",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www2.ufjf.br/copese/wp-content/uploads/sites/42/2026/06/12_Edital-12-2026_Retifica-edital-10-2026_PISM-2027.pdf",
+          "texto_ancora": "Edital 12/2026 – Retifica Edital 10/2026",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www2.ufjf.br/copese/wp-content/uploads/sites/42/2025/05/Conte%C3%BAdo-Program%C3%A1tico-PISM-UFJF.pdf",
+          "texto_ancora": "Conteúdo programático para os candidatos que farão os módulos: I (Triênio 2026-2028), II (Triênio 2025-2027) e III (Triênio 2024-2026)",
+          "relevante_por_palavra_chave": false
+        }
+      ],
+      "trechos_com_data": [
+        ">>> Provas de todos os módulos: 05 e 06 de dezembro de 2026 <<<"
+      ],
+      "paginas_visitadas": [
+        "https://www2.ufjf.br/copese/",
+        "https://www2.ufjf.br/copese/vestibular-pism-2/",
+        "https://www2.ufjf.br/copese/vestibular-pism-2/vestibular-de-musica-2027/",
+        "https://www2.ufjf.br/copese/vestibular-pism-2/pism-2027/"
+      ],
+      "timestamp_utc": "2026-06-30T12:26:51.138405Z",
+      "erro": null
+    },
+    {
+      "id": "ufv",
+      "sigla": "UFV",
+      "url_vestibular_consultada": "https://www.vestibular.ufv.br/",
+      "status": "erro",
+      "pdfs_encontrados": [],
+      "trechos_com_data": [],
+      "paginas_visitadas": [],
+      "timestamp_utc": "2026-06-30T12:27:01.813645Z",
+      "erro": "Não foi possível acessar a página principal do vestibular."
+    },
+    {
+      "id": "ufu",
+      "sigla": "UFU",
+      "url_vestibular_consultada": "https://www.ingresso.ufu.br/",
+      "status": "erro",
+      "pdfs_encontrados": [],
+      "trechos_com_data": [],
+      "paginas_visitadas": [],
+      "timestamp_utc": "2026-06-30T12:27:03.675377Z",
+      "erro": "Não foi possível acessar a página principal do vestibular."
+    },
+    {
+      "id": "ufop",
+      "sigla": "UFOP",
+      "url_vestibular_consultada": "https://www.ufop.br/vestibular",
+      "status": "erro",
+      "pdfs_encontrados": [],
+      "trechos_com_data": [],
+      "paginas_visitadas": [],
+      "timestamp_utc": "2026-06-30T12:27:06.457281Z",
+      "erro": "Não foi possível acessar a página principal do vestibular."
+    },
+    {
+      "id": "ufsj",
+      "sigla": "UFSJ",
+      "url_vestibular_consultada": "https://www.ufsj.edu.br/coordenacao_de_processos_seletivos/",
+      "status": "erro",
+      "pdfs_encontrados": [],
+      "trechos_com_data": [],
+      "paginas_visitadas": [],
+      "timestamp_utc": "2026-06-30T12:27:10.487693Z",
+      "erro": "Não foi possível acessar a página principal do vestibular."
+    },
+    {
+      "id": "uemg",
+      "sigla": "UEMG",
+      "url_vestibular_consultada": "https://www.uemg.br/vestibular",
+      "status": "erro",
+      "pdfs_encontrados": [],
+      "trechos_com_data": [],
+      "paginas_visitadas": [],
+      "timestamp_utc": "2026-06-30T12:27:12.775404Z",
+      "erro": "Não foi possível acessar a página principal do vestibular."
+    },
+    {
+      "id": "puc-minas",
+      "sigla": "PUC Minas",
+      "url_vestibular_consultada": "https://vestibular.pucminas.br/",
+      "status": "erro",
+      "pdfs_encontrados": [],
+      "trechos_com_data": [],
+      "paginas_visitadas": [],
+      "timestamp_utc": "2026-06-30T12:27:15.166280Z",
+      "erro": "Não foi possível acessar a página principal do vestibular."
+    },
+    {
+      "id": "fumec",
+      "sigla": "FUMEC",
+      "url_vestibular_consultada": "https://www.fumec.br/vestibular",
+      "status": "ok",
+      "pdfs_encontrados": [
+        {
+          "url": "http://www.fumec.br/wp-content/uploads/2023/07/EDITAL-EXTENSAO-FUMEC-No-01-2023.pdf",
+          "texto_ancora": "Edital ProExt N° 01/2023",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.fumec.br/wp-content/uploads/2023/04/Edital_ProExt_01_2019.pdf",
+          "texto_ancora": "Edital ProExt Nº 01/2019​",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.fumec.br/wp-content/uploads/2023/04/edital_01-2017_1.pdf",
+          "texto_ancora": "Edital ProExt Nº 01/2017",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.fumec.br/wp-content/uploads/2023/04/EDITAL_ProExt_N._01-2016r.pdf",
+          "texto_ancora": "Edital ProExt​ Nº 01 /201​6​",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.fumec.br/wp-content/uploads/2023/04/Termo_aditivo_ao_edital_01-2016.pdf",
+          "texto_ancora": "Termo Aditivo ao Edital Nº 01/2016",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.fumec.br/wp-content/uploads/2023/04/edital_alunos_02-2016_anexos_I-II-III.pdf",
+          "texto_ancora": "Edital dos alunos 02-2016 e anexos I, II e III",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "http://www.fumec.br/wp-content/uploads/2024/01/MANUAL-BOLSAS-1-2024.pdf",
+          "texto_ancora": "Manual Unificado",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.fumec.br/wp-content/uploads/2026/04/Manua_FUMEC_2025.pdf",
+          "texto_ancora": "Manual de Aplicação da Marca",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.fumec.br/wp-content/uploads/2023/04/Portaria_N_011_2020_CoEXT.pdf",
+          "texto_ancora": "Portaria 011/2020​ (Projetos Integradores)",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.fumec.br/wp-content/uploads/2023/04/Financiar_Premio_3M_para_Estudantes.pdf",
+          "texto_ancora": "Prêmio 3M para estudantes",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.fumec.br/wp-content/uploads/2023/04/Financiar_Natura.pdf",
+          "texto_ancora": "Financiar Natura",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.fumec.br/wp-content/uploads/2023/04/Financiar_Premio_Hugo_Werneck.pdf",
+          "texto_ancora": "Financiar Premio Hugo Werneck",
+          "relevante_por_palavra_chave": false
+        }
+      ],
+      "trechos_com_data": [],
+      "paginas_visitadas": [
+        "https://www.fumec.br/vestibular-fumec/",
+        "https://www.fumec.br/extensao/editais/"
+      ],
+      "timestamp_utc": "2026-06-30T12:27:16.924265Z",
+      "erro": null
+    },
+    {
+      "id": "uniptan-afya",
+      "sigla": "UNIPTAN/Afya",
+      "url_vestibular_consultada": "https://faca.afya.com.br/",
+      "status": "erro",
+      "pdfs_encontrados": [],
+      "trechos_com_data": [],
+      "paginas_visitadas": [],
+      "timestamp_utc": "2026-06-30T12:27:23.008847Z",
+      "erro": "Não foi possível acessar a página principal do vestibular."
+    },
+    {
+      "id": "ufrj",
+      "sigla": "UFRJ",
+      "url_vestibular_consultada": "https://www.acessounificado.ufrj.br/",
+      "status": "erro",
+      "pdfs_encontrados": [],
+      "trechos_com_data": [],
+      "paginas_visitadas": [],
+      "timestamp_utc": "2026-06-30T12:27:24.672798Z",
+      "erro": "Não foi possível acessar a página principal do vestibular."
+    },
+    {
+      "id": "uerj",
+      "sigla": "UERJ",
+      "url_vestibular_consultada": "https://www.vestibular.uerj.br/",
+      "status": "erro",
+      "pdfs_encontrados": [],
+      "trechos_com_data": [],
+      "paginas_visitadas": [],
+      "timestamp_utc": "2026-06-30T12:27:26.867941Z",
+      "erro": "Não foi possível acessar a página principal do vestibular."
+    },
+    {
+      "id": "uff",
+      "sigla": "UFF",
+      "url_vestibular_consultada": "https://www.ingresso.uff.br/",
+      "status": "erro",
+      "pdfs_encontrados": [],
+      "trechos_com_data": [],
+      "paginas_visitadas": [],
+      "timestamp_utc": "2026-06-30T12:27:29.086653Z",
+      "erro": "Não foi possível acessar a página principal do vestibular."
+    },
+    {
+      "id": "ufrrj",
+      "sigla": "UFRRJ",
+      "url_vestibular_consultada": "https://portal.ufrrj.br/vestibular/",
+      "status": "ok",
+      "pdfs_encontrados": [
+        {
+          "url": "http://cederj.edu.br/vestibular/wp-content/uploads/2015/10/Manual-do-candidato-2016.pdf",
+          "texto_ancora": "manual do candidato",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "http://cederj.edu.br/vestibular/wp-content/uploads/2015/10/Edital_2016.pdf",
+          "texto_ancora": "acesse o edital",
+          "relevante_por_palavra_chave": true
+        }
+      ],
+      "trechos_com_data": [
+        "A Fundação Cecierj / Consórcio Cederj – Centro de Ciências e Educação Superior à Distância do Estado do Rio de Janeiro – estão com inscrições abertas, até o próximo dia 15 de novembro, para o Vestibular 2016. São 7.749 vagas para as instituições: UFRRJ, UERJ, UFF, UniRio, UENF, UFRJ e Cefet-RJ.",
+        "A prova será realizada no dia 19 de dezembro, com início às 9h e duração de cinco horas. Será eliminado do concurso, o candidato que chegar ao local de prova após 8h50. O conteúdo será baseado no",
+        ". Ao final da inscrição, o candidato deve imprimir boleto no valor de R$65 e efetuar o pagamento até o dia 16 de novembro.  O participante deve acompanhar, através do site do Cederj, a confirmação do processamento de seu boleto, cujo prazo máximo previsto é de dois dias úteis após a data do pagamento."
+      ],
+      "paginas_visitadas": [
+        "https://portal.ufrrj.br/vestibular-2016-do-cederj-oferece-mais-de-7-mil-vagas-pra-graduacao-a-distancia/"
+      ],
+      "timestamp_utc": "2026-06-30T12:27:30.925936Z",
+      "erro": null
+    },
+    {
+      "id": "puc-rio",
+      "sigla": "PUC-Rio",
+      "url_vestibular_consultada": "https://www.puc-rio.br/vestibular/",
+      "status": "ok",
+      "pdfs_encontrados": [
+        {
+          "url": "https://www.puc-rio.br/vestibular/202607/pdf/EDITAL-PUC-202607.pdf?v=1",
+          "texto_ancora": "MANUAL DO CANDIDATO",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.puc-rio.br/vestibular/202607/pdf/relacao-de-classificados-via-vest-20260618.pdf",
+          "texto_ancora": "Via Vestibulararrow_outward",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.puc-rio.br/vestibular/202512/pdf/EDITAL-PUC-202512.pdf?v=1",
+          "texto_ancora": "MANUAL DO CANDIDATO",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.puc-rio.br/vestibular/202512/pdf/Relacao-de-classificados-por-curso-via-Vestibular-vestibular2026-v2.pdf",
+          "texto_ancora": "Via Vestibulararrow_outward",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.puc-rio.br/vestibular/202607/pdf/relacao-de-classificados-via-enem-20260618.pdf",
+          "texto_ancora": "Via ENEMarrow_outward",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.puc-rio.br/vestibular/202607/pdf/relacao-de-classificados-via-ex-intern-20260618.pdf",
+          "texto_ancora": "Via exames internacionaisarrow_outward",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.puc-rio.br/vestibular/202512/pdf/Relatorio-de-Classificados-por-curso-via-Enem-Vestibular-2026-v2.pdf",
+          "texto_ancora": "Via ENEMarrow_outward",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.puc-rio.br/vestibular/202512/pdf/Relacao-de-classificados-por-curso-via-Exames-Internacionais-vestibular2026.pdf",
+          "texto_ancora": "Via exames internacionaisarrow_outward",
+          "relevante_por_palavra_chave": false
+        }
+      ],
+      "trechos_com_data": [
+        "O Desafio Nicolau Saldanha estÃ¡ com inscriÃ§Ãµes abertas de 22 de maio a 9 de julho de 2026.",
+        "PoderÃ¡ ser baixado no site da inscriÃ§Ã£o a partir de 26/09/2025.",
+        "No dia 07/11/2025 estarÃ£o disponÃ­veis as notas das provas.",
+        "No dia 25/11/2025 serÃ¡ divulgado o resultado do Vestibular e ocorrerÃ¡ a 1Âª convocaÃ§Ã£o Ã  matrÃ­cula."
+      ],
+      "paginas_visitadas": [
+        "https://www.puc-rio.br/vestibular/",
+        "https://www.puc-rio.br/vestibular/index.html",
+        "https://www.puc-rio.br/vestibular/202607/",
+        "https://www.puc-rio.br/vestibular/202512/"
+      ],
+      "timestamp_utc": "2026-06-30T12:27:36.401033Z",
+      "erro": null
+    },
+    {
+      "id": "usp",
+      "sigla": "USP",
+      "url_vestibular_consultada": "https://www.fuvest.br/",
+      "status": "ok",
+      "pdfs_encontrados": [
+        {
+          "url": "https://www.fuvest.br/wp-content/uploads/fuvest2027-programa-vestibular.pdf",
+          "texto_ancora": "Programa do Vestibular 2027",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.fuvest.br/wp-content/uploads/fuvest2027-resolucao.pdf",
+          "texto_ancora": "Leia atentamente a Resolução do CoG Nº XXXX! Fique por dentro das normas para garantir sua futura vaga na",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.fuvest.br/wp-content/uploads/2026-01-30_RH-001-2026_edital_abertura_aux_lab.pdf",
+          "texto_ancora": "Edital do Processo Seletivo – Publicado em 30/01/2026",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.fuvest.br/wp-content/uploads/2026-02-02_RH-001-2026_retificacao_CNH_B_aux_lab.pdf",
+          "texto_ancora": "Retificações do Edital – Publicado em 02/02/2026",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.fuvest.br/wp-content/uploads/2025-10-08-RH-63-2025_edital_abetura_auxiliar_lab_fitoterio.pdf",
+          "texto_ancora": "Edital do Processo Seletivo – Publicado em 08/10/2025",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.fuvest.br/wp-content/uploads/2025-11-24_RH-63-2025_retificacao_cronograma_recursos_inscritos_auxiliar_lab_fitoterio.pdf",
+          "texto_ancora": "Retificações do Edital – Publicado em 24/11/2025",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.fuvest.br/wp-content/uploads/2025-12-08_RH-63-2025_retificacao_texto_auxiliar_lab_fitoterio.pdf",
+          "texto_ancora": "Retificações do Edital – Publicado em 08/12/2025",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.fuvest.br/wp-content/uploads/2025-02-03_RH-003-2025_edital_abertura_auxiliar_laboratorio.pdf",
+          "texto_ancora": "Edital do Processo Seletivo",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.fuvest.br/wp-content/uploads/2025-02-18_RH-003-2025_retific_cidades_auxiliar_laboratorio.pdf",
+          "texto_ancora": "Retificações do Edital",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.fuvest.br/wp-content/uploads/2025-03-19_RH-003-2025_retific_periodo_inscricao_auxiliar_laboratorio.pdf",
+          "texto_ancora": "Retificações do Edital",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.fuvest.br/wp-content/uploads/2025-10-15_RH-003-2025_retif_correcao_texto_prova_pratica_auxiliar_laboratorio.pdf",
+          "texto_ancora": "Retificações do Edital",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.fuvest.br/wp-content/uploads/2026-06-16_RH_012-2026_Abertura_Aux_Manutencao_Obras.pdf",
+          "texto_ancora": "Edital do Processo Seletivo – Publicado em 16/06/2026",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.fuvest.br/wp-content/uploads/2026-06-29_RH012-2026_Retificação_Abertura_Aux_Manutencao_Obras.pdf",
+          "texto_ancora": "Retificações do Edital – Publicado em 29/06/2026",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.fuvest.br/wp-content/uploads/2025-06-02_RH-035-2025_edital_abertura_auxiliar_manut_obras.pdf",
+          "texto_ancora": "Edital do Processo Seletivo – Publicado em 02/06/2025",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.fuvest.br/wp-content/uploads/2025-07-07_RH-035-2025_retific_auxiliar_manut_obras.pdf",
+          "texto_ancora": "Retificações do Edital – Publicado em 07/07/2025",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.fuvest.br/wp-content/uploads/2025-09-15-RH-035-2025_retific_auxiliar_manut_obras.pdf",
+          "texto_ancora": "Retificações do Edital – Publicado em 15/09/2025",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.fuvest.br/wp-content/uploads/2025-09-23-RH-035-2025_retific_datas_provaerecurso_auxiliar_manut_obras.pdf",
+          "texto_ancora": "Retificações do Edital – Publicado em 23/09/2025",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.fuvest.br/wp-content/uploads/2025-10-15-RH-035-2025_retif_datas_nota_provapratica_recurso_finalpreliminar_auxiliar_manut_obras.pdf",
+          "texto_ancora": "Retificações do Edital – Publicado em 15/10/2025",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.fuvest.br/wp-content/uploads/2025-10-24-RH-035-2025_retif_Datas_resultadoFinal_recursos_auxiliar_manut_obras.pdf",
+          "texto_ancora": "Retificações do Edital – Publicado em 24/10/2025",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.fuvest.br/wp-content/uploads/provao2026-resolucao.pdf",
+          "texto_ancora": "Instrução Normativa – USP",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.fuvest.br/wp-content/uploads/provao2026_chamada_1.pdf",
+          "texto_ancora": "Convocados para a 1ª matrícula",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.fuvest.br/wp-content/uploads/provao2026_chamada_2.pdf",
+          "texto_ancora": "Convocados para a 2ª matrícula",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.fuvest.br/wp-content/uploads/provao2026_chamada_3.pdf",
+          "texto_ancora": "Convocados para a 3ª matrícula",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.fuvest.br/wp-content/uploads/provao2026-chamada-4.pdf",
+          "texto_ancora": "Convocados para a 4ª matrícula – 1ª Chamada da Lista de Espera",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.fuvest.br/wp-content/uploads/provao2026-chamada-5.pdf",
+          "texto_ancora": "Convocados para a 5ª matrícula – 2ª Chamada da Lista de Espera",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.fuvest.br/wp-content/uploads/provao2026-chamada-6.pdf",
+          "texto_ancora": "Convocados para a 6ª matrícula – 3ª Chamada da Lista de Espera",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.fuvest.br/wp-content/uploads/fuvest2027-regulamento-isencao-reducao.pdf",
+          "texto_ancora": "Regulamento para Isenção ou Redução de Taxa de Inscrição – Publicado em 04/05/2026",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.fuvest.br/wp-content/uploads/fuvest2027-guia-inclusao.pdf",
+          "texto_ancora": "Guia de Inclusão – Publicado em 04/05/2026",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.fuvest.br/wp-content/uploads/Formulario-de-Documentacao-Comprobatoria.pdf",
+          "texto_ancora": "aqui",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.fuvest.br/wp-content/uploads/2026-02-11_RH-001-2026_comunic_result_isencao_inscricao_aux_lab.pdf",
+          "texto_ancora": "Resultado da Isenção/Redução de Taxa de Inscrição – Publicado em 11/02/2026",
+          "relevante_por_palavra_chave": false
+        }
+      ],
+      "trechos_com_data": [
+        "Proficiência em Línguas Estrangeiras – Enunciados e gabaritos das provas serão divulgados em 22/06",
+        "FMRP/USP – FUVEST divulga em 22/06 resultado final do processo seletivo",
+        "EACH 2027 – Inscrições para a pós em Estudos Culturais poderão ser feitas a partir de 18/06",
+        "Concursos USP 2026 – Termina em 19/06 prazo para solicitação de redução da taxa de inscrição",
+        "IRI 2027 – Pedidos de redução da taxa de inscrição para a Pós-Graduação em Relações Internacionais podem ser feitos até 18/06",
+        "FUVEST 2027 – Pedidos de isenção e redução da taxa de inscrição começam em 11 de maio",
+        "Inscrição: das 12h de 17/08/2026 até as 12h de 09/10/2026",
+        "Regulamento para Isenção ou Redução de Taxa de Inscrição – Publicado em 04/05/2026",
+        "Concurso Auxiliar de Laboratório – FUVEST divulga, em 20/03, os locais da prova objetiva",
+        "Concurso Auxiliar de Laboratório – Aviso das inscrições efetivadas será publicado no DOE em 11/03",
+        "Concurso Auxiliar de Laboratório – Período de inscrições termina em 06/03",
+        "Concursos USP 2026 – Inscrições para Auxiliar, Especialista e Técnico de Laboratório, Médico e Orientador de Arte Dramática serão abertas em 11/02",
+        "Inscrição: das 12h de 11/02/2026 até as 12h de 06/03/2026",
+        "Edital do Processo Seletivo – Publicado em 30/01/2026",
+        "Retificações do Edital – Publicado em 02/02/2026",
+        "Resultado da Isenção/Redução de Taxa de Inscrição – Publicado em 11/02/2026",
+        "Resultado dos Recursos da Isenção/Redução de taxa de inscrição – Publicado em 25/02/2026",
+        "Lista de Inscritos – Publicado em 11/03/2026",
+        "Resultado dos Recursos da Lista de Inscritos – Publicado em 20/03/2026",
+        "Prova e Gabarito – Publicado em 30/03/2026",
+        "Resultado da Prova Objetiva – Publicado em 15/04/2026",
+        "Resultado dos Recursos da Prova Objetiva – Publicado em 27/04/2026",
+        "Resultado da Prova Objetiva e Divulgação dos Parâmetros dos Cálculos da Pontuação Diferenciada PPI – Publicado em 27/04/2026",
+        "Resultado Final / Classificação – Preliminar – Publicado em 28/04/2026",
+        "Resultado dos Recursos contra o Resultado Final Preliminar – Publicado em 15/05/2026",
+        "Convocação para o procedimento de Análise da Autodeclaração como PPI – Publicado em 15/05/2026",
+        "Resultado da Análise da Autodeclaração como PPI – Publicado em 02/06/2026",
+        "Resultado dos Recursos da Análise da Autodeclaração como PPI – Publicado em 19/06/2026",
+        "Resultado Final / Classificação – Definitivo – Publicado em 23/06/2026",
+        "Concursos USP 2025 – Lista de inscritos será publicada no DOE em 24/11",
+        "Concursos USP 2025 – Inscrições para cargos de ensinos fundamental, técnico e superior terminam em 11/11",
+        "Inscrição: das 12h de 13/10/2025 até as 12h de 11/11/2025",
+        "Edital do Processo Seletivo – Publicado em 08/10/2025",
+        "Resultado da Isenção/Redução de Taxa de Inscrição – Publicado em 22/10/2025",
+        "Resultado dos Recursos da Isenção/Redução de taxa de inscrição – Publicado em 03/11/2025",
+        "Lista de Inscritos – Publicado em 24/11/2025",
+        "Retificações do Edital – Publicado em 24/11/2025",
+        "Resultado dos Recursos da Lista de Inscritos – Publicado em 28/11/2025",
+        "Prova, Gabarito e Respostas Esperadas – Publicado em 08/12/2025",
+        "Retificações do Edital – Publicado em 08/12/2025"
+      ],
+      "paginas_visitadas": [
+        "https://www.fuvest.br/",
+        "https://www.fuvest.br/vestibular-da-usp",
+        "https://www.fuvest.br/auxiliar-laboratorio-2026/",
+        "https://www.fuvest.br/auxiliar-laboratorio-2025-2/",
+        "https://www.fuvest.br/acervo-concursos-2025-auxiliar-de-laboratorio/",
+        "https://www.fuvest.br/auxiliar-manutencao-obras-2026",
+        "https://www.fuvest.br/auxiliar-manutencao-obras-2025-2"
+      ],
+      "timestamp_utc": "2026-06-30T12:27:46.777614Z",
+      "erro": null
+    },
+    {
+      "id": "unicamp",
+      "sigla": "UNICAMP",
+      "url_vestibular_consultada": "https://www.comvest.unicamp.br/",
+      "status": "ok",
+      "pdfs_encontrados": [
+        {
+          "url": "https://www.comvest.unicamp.br/wp-content/uploads/2025/06/Manual-Programa_provas_VU2026.pdf",
+          "texto_ancora": "nas provas do Vestibular Unicamp 2026",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.comvest.unicamp.br/wp-content/uploads/2026/01/Prova-VI-2026.pdf",
+          "texto_ancora": "Prova Vestibular Indígena 2026",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.comvest.unicamp.br/wp-content/uploads/2026/01/gabarito_Indigena_2026_Retificado.pdf",
+          "texto_ancora": "Gabarito Vestibular Indígena 2026 (Retificado em 16/01/2026)",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.comvest.unicamp.br/wp-content/uploads/2026/05/15-2026-Edital_Isencao_2027_16032026_CDC_para-GR-assinado.pdf",
+          "texto_ancora": "Edital Isenção 2027",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.comvest.unicamp.br/wp-content/uploads/2025/10/Vestibular-Indigena-2026-Edital-Unicamp.pdf",
+          "texto_ancora": "Edital (Unicamp)",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.ingresso.ufscar.br/pt-br/assets/arquivos/2026/vestibular_indigena/vestibular_indigena26-edital.pdf",
+          "texto_ancora": "Edital (UFSCAR)",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.comvest.unicamp.br/wp-content/uploads/2024/01/gabarito_Indigena_2024_retificado.pdf",
+          "texto_ancora": "Gabarito do Vestibular Indígena 2024",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.comvest.unicamp.br/wp-content/uploads/2024/04/Prova_Vest_Indigena2024.pdf",
+          "texto_ancora": "Prova do Vestibular Indígena 2024",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.comvest.unicamp.br/wp-content/uploads/2023/01/Prova_VI_2023.pdf",
+          "texto_ancora": "Prova Vestibular Indígena 2023",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.comvest.unicamp.br/wp-content/uploads/2025/05/Diretrizes-de-Avaliacao-da-Redacao-site.pdf",
+          "texto_ancora": "Diretrizes de avaliação da Redação",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.comvest.unicamp.br/wp-content/uploads/2025/10/Q_X-gabarito.pdf",
+          "texto_ancora": "Provas Q e X",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.comvest.unicamp.br/wp-content/uploads/2025/10/R_Y-gabarito.pdf",
+          "texto_ancora": "Provas R e Y",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.comvest.unicamp.br/wp-content/uploads/2025/10/S_Z-gabarito.pdf",
+          "texto_ancora": "Provas S e Z",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.comvest.unicamp.br/wp-content/uploads/2025/10/T_W-gabarito.pdf",
+          "texto_ancora": "Provas T e W",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.comvest.unicamp.br/vest2026/F1/f12026Q_X.pdf",
+          "texto_ancora": "Provas Q e X",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.comvest.unicamp.br/vest2026/F1/f12026R_Y.pdf",
+          "texto_ancora": "Provas R e Y",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.comvest.unicamp.br/vest2026/F1/f12026S_Z.pdf",
+          "texto_ancora": "Provas S e Z",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.comvest.unicamp.br/vest2026/F1/f12026T_W.pdf",
+          "texto_ancora": "Provas T e W",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.comvest.unicamp.br/vest2026/F1/Freq26f1Cidades.pdf",
+          "texto_ancora": "Índice de abstenção da primeira fase",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.comvest.unicamp.br/wp-content/uploads/2026/01/VI2026_Expectativas-da-Banca-de-Redacao.pdf",
+          "texto_ancora": "Expectativas da Banca de Redação",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.comvest.unicamp.br/wp-content/uploads/2026/03/Orientacoes-VI26_CH5.pdf",
+          "texto_ancora": "Orientações para matrícula – UFSCar",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.comvest.unicamp.br/wp-content/uploads/2026/03/2.VI2026-UNICAMP-CH5.pdf",
+          "texto_ancora": "Lista de aprovados 5ª Chamada – Unicamp",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.comvest.unicamp.br/wp-content/uploads/2026/03/3.VI2026-ListaUFSCar-CH5.pdf",
+          "texto_ancora": "Lista de aprovados 5ª Chamada – UFSCar",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.comvest.unicamp.br/wp-content/uploads/2026/03/1.VI2026-ListaUnificada-CH5.pdf",
+          "texto_ancora": "Lista Unificada",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.comvest.unicamp.br/wp-content/uploads/2026/03/Vestibular-Indigena-Classificacao-ultimos-convocados-por-chamada.pdf",
+          "texto_ancora": "Classificação dos últimos convocados por chamada",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.comvest.unicamp.br/wp-content/uploads/2026/03/2.VI2026-UNICAMP-CH4.pdf",
+          "texto_ancora": "Lista de aprovados 4ªChamada – Unicamp",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.comvest.unicamp.br/wp-content/uploads/2026/03/3.VI2026-ListaUFSCar-CH4.pdf",
+          "texto_ancora": "Lista de aprovados 4ªChamada – UFSCar",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.comvest.unicamp.br/wp-content/uploads/2026/02/2.VI2026-UNICAMP-CH3.pdf",
+          "texto_ancora": "Lista de aprovados 3ªChamada – Unicamp",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.comvest.unicamp.br/wp-content/uploads/2026/02/3.VI2026-ListaUFSCar-CH3.pdf",
+          "texto_ancora": "Lista de aprovados 3ªChamada – UFSCar",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.comvest.unicamp.br/wp-content/uploads/2026/02/2.VI2026-UNICAMP-CH2.pdf",
+          "texto_ancora": "Lista de aprovados 2ªChamada – Unicamp",
+          "relevante_por_palavra_chave": false
+        }
+      ],
+      "trechos_com_data": [
+        "Prrorogado prazo para solicitar Isenção da Taxa de Inscrição até 26 de junho.",
+        "Comvest prorroga, até 19 de junho, o prazo para solicitar isenção da taxa de inscrição do Vestibular Unicamp 2027.",
+        "Os pedidos de isenção da taxa de inscrição devem ser feitos de 11 de maio a 26 de junho. Consulte as orientações e veja quem pode solicitar.",
+        ". Antes da primeira fase, haverá provas de Habilidades Específicas para candidatos aos cursos de Música, em setembro. Para os demais cursos que exigem provas específicas (Artes Cênicas, Artes Visuais e Dança), elas ocorrerão entre os dias 02 e 04 de dezembro, ou seja, após a segunda fase. A Comvest vai divulgar a",
+        ", no dia 25 de janeiro de 2027, para matrícula online nos dias 26 e 27 de janeiro de 2027.",
+        "11 de maio de 2026 – Abertura para Isenções de Taxa de Inscrição para o Vestibular Unicamp 2027 até 05 de junho 202",
+        "05 de junho de 2026 – Prazo final para solicitação de Isenções da Taxa de Inscrição do Vestibular Unicamp 202",
+        "03 de agosto de 2026 – Abertura para inscrições e pagamento da Taxa de Inscrição do Vestibular Unicamp 2027",
+        "31 de agosto de 2026 – Prazo final para inscrições e pagamento da Taxa de Inscrição do Vestibular Unicamp 2027",
+        "02, 03 e 04 de Dezembro de 2026 – Provas de Habilidades Específicas (exceto Música)",
+        "25 de Janeiro de 2027 – Divulgação dos aprovados em 1ª chamada",
+        "26 e 27 de Janeiro de 2027 – Matrícula virtual da 1ª chamada",
+        "As solicitações de isenções da taxa de inscrição deverão ser feitas no período de 11 de maio a 5 de junho, nesta página.",
+        "A Comvest registrou 2.037 inscritos para o Vestibular Indígena 2026, que pela quinta vez está unificado entre a Unicamp e a UFSCar, para o ingresso de estudantes indígenas, em diferentes cursos de graduação das duas universidades. A prova foi realizada no dia 11 de janeiro, nas seguintes cidades: Campinas (SP), Recife (PE), Santarém (PA), São Gabriel da Cachoeira (AM) e Tabatinga (AM).",
+        "Comvest prorroga, até 19 de junho, o prazo para solicitar isenção da taxa de inscrição do Vestibular Unicamp 2027. - COMVEST",
+        ",no dia 25 de janeiro de 2027, para matrícula online nos dias 26 e 27 de janeiro de 2027. São oferecidas 69 opções de cursos.",
+        "A Comissão Permanente para os Vestibulares da Unicamp (Comvest) abriu, nesta segunda-feira (11/05), o período para solicitar isenção da taxa de inscrição, que valerá tanto para o Vestibular Unicamp 2027 quanto para a modalidade Enem-Unicamp 2027.Os pedidos deverão ser realizados",
+        "Divulgada a quinta chamada do Vestibular Indígena 2026! Matrícula online, no dia 10 de março.",
+        "Gabarito Vestibular Indígena 2026 (Retificado em 16/01/2026)",
+        "09 de março de 2026, até as 23h59 – Divulgação dos(as) convocados(as) para matrícula em 5ª chamada, feita exclusivamente pela internet, nesta página."
+      ],
+      "paginas_visitadas": [
+        "https://www.comvest.unicamp.br/",
+        "https://www.comvest.unicamp.br/ingresso-2027/vestibular-2027/",
+        "https://www.comvest.unicamp.br/ingresso-2027/vestibular-indigena-2027/",
+        "https://www.comvest.unicamp.br/comvest-comemora-40-anos-inaugura-memorial-e-lanca-documentario-evento-reuniu-ex-diretores-e-colaboradores-do-vestibular/",
+        "https://www.comvest.unicamp.br/comvest-prorroga-ate-19-de-junho-o-prazo-para-solicitar-isencao-da-taxa-de-inscricao-do-vestibular-unicamp-2027/",
+        "https://www.comvest.unicamp.br/aberto-o-periodo-para-solicitar-isencao-da-taxa-de-inscricao-do-vestibular-e-enem-unicamp-2027/",
+        "https://www.comvest.unicamp.br/ingresso-2026/vestibular-indigena-2026/"
+      ],
+      "timestamp_utc": "2026-06-30T12:28:05.828363Z",
+      "erro": null
+    },
+    {
+      "id": "unesp",
+      "sigla": "UNESP",
+      "url_vestibular_consultada": "https://www.vunesp.com.br/",
+      "status": "erro",
+      "pdfs_encontrados": [],
+      "trechos_com_data": [],
+      "paginas_visitadas": [],
+      "timestamp_utc": "2026-06-30T12:28:26.768093Z",
+      "erro": "Não foi possível acessar a página principal do vestibular."
+    },
+    {
+      "id": "mackenzie",
+      "sigla": "Mackenzie",
+      "url_vestibular_consultada": "https://vestibular.mackenzie.br/",
+      "status": "ok",
+      "pdfs_encontrados": [
+        {
+          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/2-processos-seletivos/upm/VESTIBULAR_REGULAR/2026/IN_RE_053_Edital_Processo_Seletivo_Transfer%C3%AAncia_Externa_2026_2_sem_MEDICINA_SCA_Assinada__1_.pdf",
+          "texto_ancora": "EDITAL IN-RE-053/2026",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/2-processos-seletivos/upm/VESTIBULAR_REGULAR/2026/2026_1/Prova_-_Medicina_-_2026_1__semestre_-_30.10.25.pdf",
+          "texto_ancora": "PROVA VESTIBULAR MEDICINA 2026/1º - 30/10/2025",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/2-processos-seletivos/upm/VESTIBULAR_REGULAR/2026/2026_1/Gabarito_-_Medicina_-_2026_1__semestre_-_30.10.25.pdf",
+          "texto_ancora": "GABARITO VESTIBULAR MEDICINA 2026/1º - 30/10/2025",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/8-ead/graduacao/2026/Edital_Tecn%C3%B3logo_2026.2.pdf",
+          "texto_ancora": "EDITAL EAD-IN-RE-042/2026 - TECNÓLOGO E BACHAREL",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/8-ead/graduacao/2026/Edital_Licenciatura_2026.2.pdf",
+          "texto_ancora": "EDITAL EAD-IN-RE-043/2026 - LICENCIATURA SEMIPRESENCIAL",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/OI-DG_15-2026_Edital_Vestibular_Agendado_2026.2__1_.pdf",
+          "texto_ancora": "Edital",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/OI-DG_12-2026_Edital_ENEM_2026.2__2_.pdf",
+          "texto_ancora": "Edital",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/OI-DG_14-2026_Edital_Transf_2_Grad_2026.2__1_.pdf",
+          "texto_ancora": "Edital",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/OI-DG_13-2026_Edital_Passaporte_Mackenzie_2026.2__1_.pdf",
+          "texto_ancora": "Edital",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/top/biblioteca/2018/documentos/Regulamento_biblioteca.pdf",
+          "texto_ancora": "Regulamento",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/1-mackenzie/faculdades/curitiba/institucional/CODIGO_ETICA_IPM.pdf",
+          "texto_ancora": "Código de Ética",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/1-mackenzie/codigo-de-etica/C%c3%b3digo_de_%c3%89tica_2024.pdf",
+          "texto_ancora": "Código de Ética",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.mackenzie.br/fileadmin/user_upload/ebook_extensao.pdf",
+          "texto_ancora": "Projetos de Extensão - Caderno",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.mackenzie.br/fileadmin/user_upload/Ensino_Fundamental_I.pdf",
+          "texto_ancora": "Ensino Fundamental I",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.mackenzie.br/fileadmin/user_upload/Ensino_Fundamental_II.pdf",
+          "texto_ancora": "Ensino Fundamental II",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.mackenzie.br/fileadmin/user_upload/Ensino_Medio.pdf",
+          "texto_ancora": "Ensino Médio",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.mackenzie.br/fileadmin/Editais-Colegios/DC-COJUR-474_-_Edital_de_novas_matrícula_-_2_semestre_de_2026.pdf",
+          "texto_ancora": "Matrícula 2026 - Alunos novos",
+          "relevante_por_palavra_chave": false
+        }
+      ],
+      "trechos_com_data": [
+        "INSCRIÇÕES DE 16/06 A 22/06/2026",
+        "PROVA VESTIBULAR MEDICINA 2026/1º - 30/10/2025",
+        "GABARITO VESTIBULAR MEDICINA 2026/1º - 30/10/2025"
+      ],
+      "paginas_visitadas": [
+        "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao/",
+        "https://www.mackenzie.br/faculdades/rio",
+        "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao",
+        "https://www.mackenzie.br/colegios/aeja/processo-seletivo",
+        "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao/medicina",
+        "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao/ead",
+        "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao/brasilia"
+      ],
+      "timestamp_utc": "2026-06-30T12:28:28.515580Z",
+      "erro": null
+    },
+    {
+      "id": "puc-sp",
+      "sigla": "PUC-SP",
+      "url_vestibular_consultada": "https://www.pucsp.br/vestibular",
+      "status": "ok",
+      "pdfs_encontrados": [
+        {
+          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2026/inverno/Edital-PUCSP-Vestibular-Inverno-2026-Novo-Calendario.pdf",
+          "texto_ancora": "Edital 01/2026(leitura obrigatÃ³ria)",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.fundasp.org.br/downloads/politica_privacidade_vestibular.pdf",
+          "texto_ancora": "PolÃ­tica de Privacidade - Vestibular",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://nucvest.com.br/downloads/vestibulares-externos/unisalesiano/2026/inverno/Relacao-candidato-e-vaga-UniSalesiano-Processo-Seletivo-do-curso-de-Medicina-2o-2026.pdf",
+          "texto_ancora": "Vestibular UniSALESIANO - Medicina Inverno 2026",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://nucvest.com.br/downloads/vestibulares-externos/unisalesiano/2026/inverno/Edital-no-08-2026-Proc-Seletivo-Medicina-2o-Semestre-2026.pdf",
+          "texto_ancora": "Edital 08/2026(leitura obrigatÃ³ria)",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://nucvest.com.br/downloads/vestibulares-externos/faculdade-direito-franca/2026/relacao-candidato-vaga-franca2026-em-22122025.pdf",
+          "texto_ancora": "RelaÃ§Ã£o Vestibular FDF 2026",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://nucvest.com.br/downloads/vestibulares-externos/faculdade-direito-franca/2026/Edital-054-2025-VESTIBULAR-2026-FDF.pdf",
+          "texto_ancora": "Edital 54/2025(leitura obrigatÃ³ria)",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://nucvest.com.br/downloads/vestibulares-externos/faculdade-direito-franca/2026/RerratificacaoN02Edital_0542025.pdf",
+          "texto_ancora": "RerratificaÃ§Ã£o do Edital nÂº02 do edital nÂº054/2025(leitura obrigatÃ³ria)",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://nucvest.com.br/downloads/vestibulares-externos/faculdade-direito-franca/2026/1_RERRATIFICACAO_DE_EDITAL_01.pdf",
+          "texto_ancora": "RerratificaÃ§Ã£o do Edital nÂº 054/2025(leitura obrigatÃ³ria)",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://matricula.pucsp.br/doc/chamadas/1a-chamada/classificados_geral_2026inverno_Prova_11062026.pdf",
+          "texto_ancora": "Modalidade I - SeleÃ§Ã£o por Prova Presencial",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://matricula.pucsp.br/doc/chamadas/1a-chamada/classificados_geral_2026inverno_ENEM_11062026.pdf",
+          "texto_ancora": "Modalidade II - SeleÃ§Ã£o pela Nota do ENEM",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://matricula.pucsp.br/doc/chamadas/1a-chamada/chamada1_2026inverno_481_convocados_Prova_12062026.pdf",
+          "texto_ancora": "Modalidade I:SeleÃ§Ã£o por prova Presencial (Convocados: Por nÃºmero de inscriÃ§Ã£o)",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://matricula.pucsp.br/doc/chamadas/1a-chamada/chamada1_2026inverno_303_convocados_ENEM_15062026_1.pdf",
+          "texto_ancora": "Modalidade II:SeleÃ§Ã£o pela nota do Enem (Convocados: Por nÃºmero de inscriÃ§Ã£o)",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://matricula.pucsp.br/doc/chamadas/2a-chamada/chamada2-2026-inverno-prova.pdf",
+          "texto_ancora": "Modalidade I:SeleÃ§Ã£o por prova Presencial (Convocados: Por nÃºmero de inscriÃ§Ã£o)",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://matricula.pucsp.br/doc/chamadas/1a-chamada/TREINEIRO_PROVA_2026inv_CLASS_E_ORDEM_11062026.pdf",
+          "texto_ancora": "Modalidade I:SeleÃ§Ã£o por Prova Presencial",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://matricula.pucsp.br/doc/chamadas/1a-chamada/TREINEIRO_ENEM_2026inv_CLASS_E_ORDEM_11062026.pdf",
+          "texto_ancora": "Modalidade II:SeleÃ§Ã£o pela Nota do ENEM",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://matricula.pucsp.br/doc/chamadas/2a-chamada/VR-cursos-disponiveis-puc2026inverno.pdf",
+          "texto_ancora": "Clique aqui",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2026/inverno/Quadro-de-Vagas-Processo-Seletivo-de-Inverno-2o-semestre-de-2026-prova-presencial-e-ENEM.pdf",
+          "texto_ancora": "Acesse aqui",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2026/inverno/Manual-Candidato-PUCSP-Inverno-2026.pdf",
+          "texto_ancora": "Manual do(a) Candidato(a)(leitura obrigatÃ³ria)",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2026/inverno/gabarito-e-prova/PUC-Inverno-2026-Gabarito.pdf",
+          "texto_ancora": "Gabarito",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2026/inverno/gabarito-e-prova/PUCSP-inverno-2026-A4-v2-direito-autoral-dig.pdf",
+          "texto_ancora": "Caderno de QuestÃµes",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2026/verao/gabarito-e-prova/PUC-SP-Verao-2026-A4-v2-direito-autoral-digital.pdf",
+          "texto_ancora": "",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2026/verao/gabarito-e-prova/PUC-Verao-2026-Gabarito.pdf",
+          "texto_ancora": "",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2025/inverno/PUCSP-inverno-2025-A4-v2-direito-autoral-digital.pdf",
+          "texto_ancora": "",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2025/inverno/PUC-Inverno-2025-Gabarito.pdf",
+          "texto_ancora": "",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2025/verao/gabarito-e-prova/PUC-SP-verao-2025-A4-DIREITO-AUTORAL.pdf",
+          "texto_ancora": "",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2025/verao/gabarito-e-prova/PUC-Verao-2025-Gabarito-Republicado.pdf",
+          "texto_ancora": "",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2024/inverno/PUCSP-INVERNO-2024-A4-v1-direito-autoral.pdf",
+          "texto_ancora": "",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2024/inverno/PUCSP-Inverno-2024-Gabarito-Retificado.pdf",
+          "texto_ancora": "",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2024/verao/PUC-SP-Verao-2024-A4-v1.pdf",
+          "texto_ancora": "",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2024/verao/PUC-SP-Verao-2024-Gabarito.pdf",
+          "texto_ancora": "",
+          "relevante_por_palavra_chave": false
+        }
+      ],
+      "trechos_com_data": [
+        "03 a 17/03/2026 (Chamadas)",
+        "PROVA Presencial â 31/05/2026"
+      ],
+      "paginas_visitadas": [
+        "https://nucvest.com.br",
+        "https://nucvest.com.br/pucsp/vestibular/2026/inverno/index.html",
+        "https://nucvest.com.br/vestibular/unisalesiano/2026/inverno/index.html",
+        "https://nucvest.com.br/vestibular/faculdade-direito-franca/2026/index.html"
+      ],
+      "timestamp_utc": "2026-06-30T12:28:53.002887Z",
+      "erro": null
+    }
+  ]
 }
