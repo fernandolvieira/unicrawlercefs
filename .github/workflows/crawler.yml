@@ -1,0 +1,56 @@
+name: Atualizar dados do Unicrawler
+
+on:
+  schedule:
+    # Roda todos os dias às 06:00 UTC (≈ 03:00 horário de Brasília)
+    - cron: "0 6 * * *"
+  workflow_dispatch: {}   # permite rodar manualmente pela aba Actions
+  push:
+    branches: [main]
+    paths:
+      - "data/instituicoes.json"
+      - "data/calendario_curado.json"
+      - "scripts/crawler.py"
+
+permissions:
+  contents: write
+
+jobs:
+  crawl-e-publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependências
+        run: pip install -r scripts/requirements.txt
+
+      - name: Executar crawler
+        run: python scripts/crawler.py
+        continue-on-error: true
+        # continue-on-error: se o crawler falhar parcialmente (ex.: um site fora do ar),
+        # ainda assim queremos publicar o que foi coletado com sucesso até agora.
+
+      - name: Sincronizar dados para docs/data (GitHub Pages)
+        run: |
+          mkdir -p docs/data
+          cp data/instituicoes.json docs/data/instituicoes.json
+          cp data/calendario_curado.json docs/data/calendario_curado.json
+          cp data/crawler_output.json docs/data/crawler_output.json
+
+      - name: Commitar alterações (se houver)
+        run: |
+          git config user.name "unicrawler-bot"
+          git config user.email "actions@github.com"
+          git add data/crawler_output.json docs/data/
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteração nos dados. Nada para commitar."
+          else
+            git commit -m "chore: atualização automática do crawler [skip ci]"
+            git push
+          fi

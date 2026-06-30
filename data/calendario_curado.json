@@ -1,0 +1,67 @@
+{
+  "observacao_geral": "Datas mantidas manualmente como complemento de confiança ao crawler automático. Sempre confira a data exata no edital oficial antes de tomar qualquer decisão — vestibulares frequentemente publicam retificações de calendário.",
+  "ultima_revisao_manual": "2026-06-26",
+  "eventos": [
+    {
+      "instituicao_id": "ufmg",
+      "processo": "Seriado UFMG 2026 (1ª etapa)",
+      "tipo": "seriado",
+      "evento": "Inscrições",
+      "data_inicio": "2026-06-15",
+      "data_fim": "2026-07-22",
+      "fonte": "Copeve/UFMG",
+      "confianca": "alta"
+    },
+    {
+      "instituicao_id": "ufmg",
+      "processo": "Seriado UFMG 2026 (1ª etapa)",
+      "tipo": "seriado",
+      "evento": "Provas",
+      "data_inicio": "2026-12-12",
+      "data_fim": "2026-12-13",
+      "fonte": "Copeve/UFMG",
+      "confianca": "alta"
+    },
+    {
+      "instituicao_id": "usp",
+      "processo": "FUVEST 2027",
+      "tipo": "convencional",
+      "evento": "Inscrições",
+      "data_inicio": "2026-08-17",
+      "data_fim": "2026-10-09",
+      "fonte": "FUVEST",
+      "confianca": "alta"
+    },
+    {
+      "instituicao_id": "usp",
+      "processo": "FUVEST 2027",
+      "tipo": "convencional",
+      "evento": "Pedido de isenção/redução de taxa",
+      "data_inicio": null,
+      "data_fim": "2026-07-10",
+      "fonte": "FUVEST",
+      "confianca": "alta"
+    },
+    {
+      "instituicao_id": "unicamp",
+      "processo": "Vestibular Unicamp 2027",
+      "tipo": "convencional",
+      "evento": "Isenção da taxa de inscrição",
+      "data_inicio": "2026-05-11",
+      "data_fim": "2026-06-05",
+      "fonte": "Comvest/Unicamp",
+      "confianca": "alta"
+    },
+    {
+      "instituicao_id": "unicamp",
+      "processo": "Vestibular Unicamp 2027",
+      "tipo": "convencional",
+      "evento": "Inscrições",
+      "data_inicio": "2026-08-03",
+      "data_fim": "2026-08-31",
+      "fonte": "Comvest/Unicamp",
+      "confianca": "alta"
+    }
+  ],
+  "nota_metodologica": "Esta lista inicial é deliberadamente curta e cobre apenas datas confirmadas em fontes oficiais no momento da criação do projeto. Ela deve ser expandida por colaboradores humanos (via Pull Request) e/ou por uma futura etapa de revisão que cruze os trechos extraídos pelo crawler (data/crawler_output.json) com confirmação manual, antes de ser exibida como 'confirmada' no site."
+}

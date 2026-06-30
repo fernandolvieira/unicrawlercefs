@@ -1,0 +1,8 @@
+{
+  "gerado_em_utc": "2026-06-26T00:00:00Z",
+  "total_instituicoes": 20,
+  "ok": 0,
+  "com_erro": 0,
+  "observacao": "Este é um arquivo SEED inicial. Os dados reais serão substituídos automaticamente na primeira execução do GitHub Actions (.github/workflows/crawler.yml). Até lá, o site usa apenas os links oficiais cadastrados em data/instituicoes.json.",
+  "resultados": []
+}

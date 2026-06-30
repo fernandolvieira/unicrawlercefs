@@ -1,0 +1,19 @@
+# Configuração do Cloudflare Worker — Unicrawler CEFS
+# Documentação: https://developers.cloudflare.com/workers/wrangler/configuration/
+
+name = "unicrawler-cefs-trigger"
+main = "worker.js"
+compatibility_date = "2024-09-01"
+
+# As variáveis abaixo NÃO são secrets - são públicas/identificadoras (nome do
+# repositório, branch). Podem ficar aqui ou ser movidas para secrets se preferir.
+[vars]
+GITHUB_OWNER = "fernandolvieira"
+GITHUB_REPO = "unicrawlercefs"
+WORKFLOW_FILENAME = "crawler.yml"
+GITHUB_REF = "main"
+ALLOWED_ORIGIN = "https://fernandolvieira.github.io"
+
+# O GITHUB_TOKEN é um SECRET e nunca deve ir neste arquivo.
+# Configure-o via terminal (não pelo painel web, para não deixar log) com:
+#   npx wrangler secret put GITHUB_TOKEN

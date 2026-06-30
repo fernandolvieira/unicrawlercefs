@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Unicrawler — CEFS | Frei Seráfico</title>
+<meta name="description" content="Unicrawler do Colégio Frei Seráfico (CEFS): calendário e editais dos principais processos seletivos de universidades públicas e particulares de Minas Gerais, Rio de Janeiro e São Paulo.">
+<link rel="icon" href="assets/img/logo-frei-serafico.png">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<div class="masthead">
+  <div class="masthead__inner">
+    <img class="masthead__logo" src="assets/img/logo-frei-serafico.png" alt="Colégio Frei Seráfico">
+    <div class="masthead__title">
+      <p class="masthead__eyebrow">Edição contínua — atualizado automaticamente</p>
+      <h1>Unicrawler <span class="masthead__org">— CEFS</span></h1>
+      <p class="masthead__subtitle">Minas Gerais · Rio de Janeiro · São Paulo</p>
+    </div>
+    <div class="masthead__meta">
+      <span class="masthead__date" id="data-atual"></span>
+      <span class="masthead__update" id="ultima-atualizacao">verificando atualização…</span>
+      <button class="update-btn" id="btn-atualizar" type="button">
+        <span class="update-btn__icon" aria-hidden="true">⟳</span>
+        <span class="update-btn__label">Atualizar agora</span>
+      </button>
+      <span class="update-btn__feedback" id="update-feedback" role="status" aria-live="polite"></span>
+    </div>
+  </div>
+  <nav class="masthead__nav" aria-label="Navegação principal">
+    <a href="#calendario">Calendário</a>
+    <a href="#instituicoes">Instituições</a>
+    <a href="#estados">Por estado</a>
+    <a href="#metodologia">Como isto funciona</a>
+  </nav>
+</div>
+
+<main>
+
+  <section class="lede" aria-label="Resumo">
+    <p>
+      O <strong>Unicrawler</strong> é a ferramenta do <strong>Colégio Frei Seráfico (CEFS)</strong> para
+      acompanhar, em um só lugar, o <strong>calendário</strong>, os <strong>links oficiais</strong> e os
+      <strong>documentos exigidos</strong> dos principais processos seletivos — seriados ou convencionais —
+      de <strong>20 instituições</strong> públicas e particulares de MG, RJ e SP, incluindo o
+      Afya São João del-Rei (ex-UNIPTAN).
+    </p>
+    <div class="lede__filters" role="group" aria-label="Filtrar por estado">
+      <button class="chip is-active" data-filter-estado="todos">Todos os estados</button>
+      <button class="chip" data-filter-estado="MG">Minas Gerais</button>
+      <button class="chip" data-filter-estado="RJ">Rio de Janeiro</button>
+      <button class="chip" data-filter-estado="SP">São Paulo</button>
+    </div>
+  </section>
+
+  <section id="calendario" class="section">
+    <div class="section__head">
+      <span class="section__eyebrow">01 — Cronograma</span>
+      <h2>Próximas datas</h2>
+    </div>
+    <p class="section__note">
+      Datas confirmadas manualmente a partir de fontes oficiais. Sempre confirme no edital antes de agir —
+      retificações de calendário são comuns.
+    </p>
+    <div id="lista-calendario" class="calendar-list">
+      <p class="loading">Carregando calendário…</p>
+    </div>
+  </section>
+
+  <section id="instituicoes" class="section">
+    <div class="section__head">
+      <span class="section__eyebrow">02 — Instituições</span>
+      <h2>Editais e páginas oficiais</h2>
+    </div>
+    <p class="section__note">
+      Cada cartão traz o link oficial do processo seletivo, documentos normalmente exigidos e,
+      quando disponíveis, PDFs de edital localizados automaticamente pelo crawler.
+    </p>
+    <div id="grade-instituicoes" class="card-grid">
+      <p class="loading">Carregando instituições…</p>
+    </div>
+  </section>
+
+  <section id="estados" class="section section--quiet">
+    <div class="section__head">
+      <span class="section__eyebrow">03 — Cobertura</span>
+      <h2>Distribuição por estado</h2>
+    </div>
+    <div id="resumo-estados" class="state-summary">
+      <p class="loading">Calculando…</p>
+    </div>
+  </section>
+
+  <section id="metodologia" class="section section--metodologia">
+    <div class="section__head">
+      <span class="section__eyebrow">04 — Metodologia</span>
+      <h2>Como este painel é mantido</h2>
+    </div>
+    <div class="methodology-grid">
+      <article>
+        <h3>Crawler automático</h3>
+        <p>
+          Um robô em Python roda periodicamente via GitHub Actions, visita o site oficial de cada
+          processo seletivo e procura links para PDFs de editais e trechos de texto que combinem datas
+          com palavras como "inscrições", "prova" ou "resultado".
+        </p>
+      </article>
+      <article>
+        <h3>Curadoria manual</h3>
+        <p>
+          Datas marcadas como <span class="tag tag--alta">confiança alta</span> foram confirmadas manualmente
+          em fontes oficiais. O que vem só do crawler aparece marcado como
+          <span class="tag tag--auto">extração automática</span> — útil como pista, não como certeza.
+        </p>
+      </article>
+      <article>
+        <h3>Como contribuir</h3>
+        <p>
+          O projeto é público no GitHub. Para corrigir um link, atualizar uma data ou adicionar uma
+          instituição, edite os arquivos em <code>data/</code> e abra um Pull Request.
+        </p>
+      </article>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <p>
+    Unicrawler — ferramenta de apoio do Colégio Frei Seráfico (CEFS). Painel comunitário e não-oficial:
+    as informações finais sempre prevalecem nos editais publicados pelas próprias instituições.
+    Verifique sempre a fonte oficial antes de tomar decisões.
+  </p>
+</footer>
+
+<script src="assets/js/app.js"></script>
+</body>
+</html>
