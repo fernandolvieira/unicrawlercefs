@@ -14,7 +14,7 @@ const DATA_PATHS = {
 // TODO: depois de publicar o Worker (ver worker/README.md), cole aqui a URL gerada
 // pelo `wrangler deploy`, por exemplo:
 // "https://unicrawler-cefs-trigger.SEU-SUBDOMINIO.workers.dev"
-const WORKER_URL = "";
+const WORKER_URL = "https://unicrawler-cefs-trigger.fernandolvieira-cefs.workers.dev";
 
 const POLL_INTERVAL_MS = 8000;     // intervalo entre checagens de status
 const POLL_TIMEOUT_MS = 6 * 60_000; // desiste de checar após 6 minutos
