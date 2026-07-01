@@ -1,8 +1,8 @@
 {
-  "gerado_em_utc": "2026-07-01T13:36:08.588944Z",
+  "gerado_em_utc": "2026-07-01T13:48:07.179226Z",
   "total_instituicoes": 20,
-  "ok": 8,
-  "com_erro": 12,
+  "ok": 7,
+  "com_erro": 13,
   "resultados": [
     {
       "id": "ufmg",
@@ -12,7 +12,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-01T13:33:47.100616Z",
+      "timestamp_utc": "2026-07-01T13:45:50.247961Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -56,7 +56,7 @@
         "https://www2.ufjf.br/copese/vestibular-pism-2/vestibular-de-musica-2027/",
         "https://www2.ufjf.br/copese/vestibular-pism-2/pism-2027/"
       ],
-      "timestamp_utc": "2026-07-01T13:33:49.365670Z",
+      "timestamp_utc": "2026-07-01T13:45:53.608334Z",
       "erro": null
     },
     {
@@ -67,7 +67,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-01T13:33:58.751073Z",
+      "timestamp_utc": "2026-07-01T13:46:03.213727Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -78,7 +78,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-01T13:34:00.391868Z",
+      "timestamp_utc": "2026-07-01T13:46:05.008928Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -89,7 +89,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-01T13:34:02.450796Z",
+      "timestamp_utc": "2026-07-01T13:46:07.466661Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -100,7 +100,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-01T13:34:20.402520Z",
+      "timestamp_utc": "2026-07-01T13:46:11.214666Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -111,7 +111,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-01T13:34:22.677854Z",
+      "timestamp_utc": "2026-07-01T13:46:13.283341Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -122,83 +122,19 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-01T13:34:25.044463Z",
+      "timestamp_utc": "2026-07-01T13:46:15.489047Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
       "id": "fumec",
       "sigla": "FUMEC",
       "url_vestibular_consultada": "https://www.fumec.br/vestibular",
-      "status": "ok",
-      "pdfs_encontrados": [
-        {
-          "url": "http://www.fumec.br/wp-content/uploads/2023/07/EDITAL-EXTENSAO-FUMEC-No-01-2023.pdf",
-          "texto_ancora": "Edital ProExt N° 01/2023",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.fumec.br/wp-content/uploads/2023/04/Edital_ProExt_01_2019.pdf",
-          "texto_ancora": "Edital ProExt Nº 01/2019​",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.fumec.br/wp-content/uploads/2023/04/edital_01-2017_1.pdf",
-          "texto_ancora": "Edital ProExt Nº 01/2017",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.fumec.br/wp-content/uploads/2023/04/EDITAL_ProExt_N._01-2016r.pdf",
-          "texto_ancora": "Edital ProExt​ Nº 01 /201​6​",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.fumec.br/wp-content/uploads/2023/04/Termo_aditivo_ao_edital_01-2016.pdf",
-          "texto_ancora": "Termo Aditivo ao Edital Nº 01/2016",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.fumec.br/wp-content/uploads/2023/04/edital_alunos_02-2016_anexos_I-II-III.pdf",
-          "texto_ancora": "Edital dos alunos 02-2016 e anexos I, II e III",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "http://www.fumec.br/wp-content/uploads/2024/01/MANUAL-BOLSAS-1-2024.pdf",
-          "texto_ancora": "Manual Unificado",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://www.fumec.br/wp-content/uploads/2026/04/Manua_FUMEC_2025.pdf",
-          "texto_ancora": "Manual de Aplicação da Marca",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://www.fumec.br/wp-content/uploads/2023/04/Portaria_N_011_2020_CoEXT.pdf",
-          "texto_ancora": "Portaria 011/2020​ (Projetos Integradores)",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://www.fumec.br/wp-content/uploads/2023/04/Financiar_Premio_3M_para_Estudantes.pdf",
-          "texto_ancora": "Prêmio 3M para estudantes",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://www.fumec.br/wp-content/uploads/2023/04/Financiar_Natura.pdf",
-          "texto_ancora": "Financiar Natura",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://www.fumec.br/wp-content/uploads/2023/04/Financiar_Premio_Hugo_Werneck.pdf",
-          "texto_ancora": "Financiar Premio Hugo Werneck",
-          "relevante_por_palavra_chave": false
-        }
-      ],
+      "status": "erro",
+      "pdfs_encontrados": [],
       "trechos_com_data": [],
-      "paginas_visitadas": [
-        "https://www.fumec.br/vestibular-fumec/",
-        "https://www.fumec.br/extensao/editais/"
-      ],
-      "timestamp_utc": "2026-07-01T13:34:26.816753Z",
-      "erro": null
+      "paginas_visitadas": [],
+      "timestamp_utc": "2026-07-01T13:46:17.176614Z",
+      "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
       "id": "uniptan-afya",
@@ -208,7 +144,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-01T13:34:32.275983Z",
+      "timestamp_utc": "2026-07-01T13:46:38.857479Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -219,7 +155,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-01T13:34:34.054740Z",
+      "timestamp_utc": "2026-07-01T13:46:40.403571Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -230,7 +166,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-01T13:34:36.496073Z",
+      "timestamp_utc": "2026-07-01T13:46:42.193683Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -241,7 +177,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-01T13:34:38.801030Z",
+      "timestamp_utc": "2026-07-01T13:46:44.165965Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -269,7 +205,7 @@
       "paginas_visitadas": [
         "https://portal.ufrrj.br/vestibular-2016-do-cederj-oferece-mais-de-7-mil-vagas-pra-graduacao-a-distancia/"
       ],
-      "timestamp_utc": "2026-07-01T13:34:40.980855Z",
+      "timestamp_utc": "2026-07-01T13:46:45.939006Z",
       "erro": null
     },
     {
@@ -331,7 +267,7 @@
         "https://www.puc-rio.br/vestibular/202607/",
         "https://www.puc-rio.br/vestibular/202512/"
       ],
-      "timestamp_utc": "2026-07-01T13:34:48.775723Z",
+      "timestamp_utc": "2026-07-01T13:46:50.435464Z",
       "erro": null
     },
     {
@@ -542,7 +478,7 @@
         "https://www.fuvest.br/auxiliar-manutencao-obras-2026",
         "https://www.fuvest.br/auxiliar-manutencao-obras-2025-2"
       ],
-      "timestamp_utc": "2026-07-01T13:34:58.265982Z",
+      "timestamp_utc": "2026-07-01T13:47:00.199129Z",
       "erro": null
     },
     {
@@ -734,7 +670,7 @@
         "https://www.comvest.unicamp.br/aberto-o-periodo-para-solicitar-isencao-da-taxa-de-inscricao-do-vestibular-e-enem-unicamp-2027/",
         "https://www.comvest.unicamp.br/ingresso-2026/vestibular-indigena-2026/"
       ],
-      "timestamp_utc": "2026-07-01T13:35:15.426794Z",
+      "timestamp_utc": "2026-07-01T13:47:17.091359Z",
       "erro": null
     },
     {
@@ -745,7 +681,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-01T13:35:36.930940Z",
+      "timestamp_utc": "2026-07-01T13:47:36.596675Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -853,7 +789,7 @@
         "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao/ead",
         "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao/brasilia"
       ],
-      "timestamp_utc": "2026-07-01T13:35:38.664571Z",
+      "timestamp_utc": "2026-07-01T13:47:38.449632Z",
       "erro": null
     },
     {
@@ -1023,7 +959,7 @@
         "https://nucvest.com.br/vestibular/unisalesiano/2026/inverno/index.html",
         "https://nucvest.com.br/vestibular/faculdade-direito-franca/2026/index.html"
       ],
-      "timestamp_utc": "2026-07-01T13:35:59.091212Z",
+      "timestamp_utc": "2026-07-01T13:47:57.522431Z",
       "erro": null
     }
   ]
