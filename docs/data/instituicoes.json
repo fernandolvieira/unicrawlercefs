@@ -1,0 +1,908 @@
+{
+  "versao_schema": 1,
+  "instituicoes": [
+    {
+      "id": "belas_artes_vestibular",
+      "nome": "Centro Universitário Belas Artes de São Paulo (Vestibular)",
+      "sigla": "Belas Artes",
+      "estado": "SP",
+      "tipo": "privada",
+      "cidade": "São Paulo",
+      "url_oficial": "https://www.belasartes.br",
+      "url_vestibular": "https://www.belasartes.br/vestibular",
+      "orgao_executor": "Próprio",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["edital de processo seletivo", "manual do candidato", "contrato de prestação de serviços"],
+      "documentos_exigidos_padrao": [
+        "Documento oficial de identidade com foto (RG)",
+        "CPF do candidato e responsável financeiro",
+        "Certificado de Conclusão do Ensino Médio",
+        "Histórico Escolar do Ensino Médio",
+        "Comprovante de residência"
+      ]
+    },
+    {
+      "id": "espm_vestibular",
+      "nome": "Escola Superior de Propaganda e Marketing (Vestibular)",
+      "sigla": "ESPM",
+      "estado": "SP",
+      "tipo": "privada",
+      "cidade": "São Paulo",
+      "url_oficial": "https://www.espm.br",
+      "url_vestibular": "https://www.espm.br/processo-seletivo/",
+      "orgao_executor": "Próprio",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["edital", "manual do candidato", "cronograma"],
+      "documentos_exigidos_padrao": [
+        "Documento oficial de identidade com foto e CPF",
+        "Histórico Escolar",
+        "Certificado de Conclusão do Ensino Médio",
+        "Certidão de Nascimento ou Casamento",
+        "Comprovante de Endereço"
+      ]
+    },
+    {
+      "id": "faap_vestibular",
+      "nome": "Fundação Armando Alvares Penteado (Vestibular)",
+      "sigla": "FAAP",
+      "estado": "SP",
+      "tipo": "privada",
+      "cidade": "São Paulo",
+      "url_oficial": "https://www.faap.br",
+      "url_vestibular": "https://www.faap.br/processo-seletivo/",
+      "orgao_executor": "Próprio",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["edital", "guia do processo seletivo", "cronograma"],
+      "documentos_exigidos_padrao": [
+        "RG e CPF",
+        "Certificado de Conclusão do Ensino Médio",
+        "Histórico do Ensino Médio",
+        "Duas fotos 3x4 recentes"
+      ]
+    },
+    {
+      "id": "fgv_vestibular",
+      "nome": "Fundação Getulio Vargas (Vestibular)",
+      "sigla": "FGV",
+      "estado": "SP",
+      "tipo": "privada",
+      "cidade": "São Paulo",
+      "url_oficial": "https://portal.fgv.br",
+      "url_vestibular": "https://conhecimento.fgv.br/processos-seletivos",
+      "orgao_executor": "FGV Conhecimento",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["edital do vestibular", "manual do candidato", "anexos de isenção"],
+      "documentos_exigidos_padrao": [
+        "Documento de identidade original com foto atualizada",
+        "CPF",
+        "Certificado de Conclusão do Ensino Médio",
+        "Histórico Escolar"
+      ]
+    },
+    {
+      "id": "fumec_vestibular",
+      "nome": "Universidade FUMEC (Vestibular)",
+      "sigla": "FUMEC",
+      "estado": "MG",
+      "tipo": "privada",
+      "cidade": "Belo Horizonte",
+      "url_oficial": "https://www.fumec.br",
+      "url_vestibular": "https://processoseletivo.fumec.br/",
+      "orgao_executor": "Próprio",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["edital", "regulamento", "cronograma"],
+      "documentos_exigidos_padrao": [
+        "RG e CPF",
+        "Histórico escolar ou declaração de conclusão",
+        "Boletim de desempenho do ENEM (quando utilizado para ingresso)"
+      ]
+    },
+    {
+      "id": "mackenzie_vestibular",
+      "nome": "Universidade Presbiteriana Mackenzie (Vestibular)",
+      "sigla": "Mackenzie",
+      "estado": "SP",
+      "tipo": "privada",
+      "cidade": "São Paulo",
+      "url_oficial": "https://www.mackenzie.br",
+      "url_vestibular": "https://www.mackenzie.br/processos-seletivos/graduacao",
+      "orgao_executor": "Próprio",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["edital", "manual do candidato", "lista de aprovados"],
+      "documentos_exigidos_padrao": [
+        "Cédula de Identidade e CPF",
+        "Certificado de Conclusão do Ensino Médio",
+        "Histórico Escolar do Ensino Médio",
+        "Foto 3x4 recente"
+      ]
+    },
+    {
+      "id": "puc_minas_vestibular",
+      "nome": "Pontifícia Universidade Católica de Minas Gerais (Vestibular/ENEM)",
+      "sigla": "PUC Minas",
+      "estado": "MG",
+      "tipo": "privada",
+      "cidade": "Belo Horizonte",
+      "url_oficial": "https://www.pucminas.br",
+      "url_vestibular": "https://www.pucminas.br/vestibular",
+      "orgao_executor": "FUMARC / Próprio",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["edital", "cronograma", "documentos para matrícula"],
+      "documentos_exigidos_padrao": [
+        "Documento de Identidade e CPF",
+        "Certificado e Histórico do Ensino Médio",
+        "Comprovante de endereço",
+        "Certidão de Nascimento ou Casamento"
+      ]
+    },
+    {
+      "id": "puc_campinas_vestibular",
+      "nome": "Pontifícia Universidade Católica de Campinas (Vestibular)",
+      "sigla": "PUC-Campinas",
+      "estado": "SP",
+      "tipo": "privada",
+      "cidade": "Campinas",
+      "url_oficial": "https://www.puc-campinas.edu.br",
+      "url_vestibular": "https://www.puc-campinas.edu.br/ingresso/",
+      "orgao_executor": "Próprio",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["edital do processo seletivo", "manual do candidato"],
+      "documentos_exigidos_padrao": [
+        "RG e CPF",
+        "Certificado de Conclusão do Ensino Médio",
+        "Histórico Escolar",
+        "Comprovante de pagamento de taxa (ou isenção)"
+      ]
+    },
+    {
+      "id": "puc_rio_vestibular",
+      "nome": "Pontifícia Universidade Católica do Rio de Janeiro (Vestibular)",
+      "sigla": "PUC-Rio",
+      "estado": "RJ",
+      "tipo": "privada",
+      "cidade": "Rio de Janeiro",
+      "url_oficial": "https://www.puc-rio.br",
+      "url_vestibular": "https://www.puc-rio.br/vestibular",
+      "orgao_executor": "Coordenação de Admissão e Registro (CAR)",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["manual do candidato", "edital", "normas para matrícula"],
+      "documentos_exigidos_padrao": [
+        "Identidade e CPF",
+        "Histórico Escolar",
+        "Certificado de Conclusão do Ensino Médio",
+        "Boletim do ENEM (se aplicável)"
+      ]
+    },
+    {
+      "id": "puc_sp_vestibular",
+      "nome": "Pontifícia Universidade Católica de São Paulo (Vestibular)",
+      "sigla": "PUC-SP",
+      "estado": "SP",
+      "tipo": "privada",
+      "cidade": "São Paulo",
+      "url_oficial": "https://www.pucsp.br",
+      "url_vestibular": "https://nucvest.com.br/",
+      "orgao_executor": "Fundação Vunesp",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["edital unificado", "manual do candidato", "cronograma"],
+      "documentos_exigidos_padrao": [
+        "RG e CPF",
+        "Certificado de Conclusão do Ensino Médio",
+        "Histórico do Ensino Médio",
+        "Duas fotos 3x4 recentes"
+      ]
+    },
+    {
+      "id": "ucam_vestibular",
+      "nome": "Universidade Candido Mendes (Vestibular)",
+      "sigla": "UCAM",
+      "estado": "RJ",
+      "tipo": "privada",
+      "cidade": "Rio de Janeiro",
+      "url_oficial": "https://www.candidomendes.edu.br",
+      "url_vestibular": "https://www.candidomendes.edu.br/vestibular/",
+      "orgao_executor": "Próprio",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["edital", "manual do candidato", "cronograma"],
+      "documentos_exigidos_padrao": [
+        "Documento oficial de identidade com foto e CPF",
+        "Histórico escolar / declaração de conclusão do Ensino Médio",
+        "Comprovante de residência"
+      ]
+    },
+    {
+      "id": "ucp_vestibular",
+      "nome": "Universidade Católica de Petrópolis (Vestibular)",
+      "sigla": "UCP",
+      "estado": "RJ",
+      "tipo": "privada",
+      "cidade": "Petrópolis",
+      "url_oficial": "https://www.ucp.br",
+      "url_vestibular": "https://www.ucp.br/vestibular",
+      "orgao_executor": "Próprio",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["edital", "manual do candidato", "cronograma"],
+      "documentos_exigidos_padrao": [
+        "Documento oficial de identidade com foto e CPF",
+        "Histórico escolar / declaração de conclusão do Ensino Médio",
+        "Comprovante de pagamento da taxa de inscrição"
+      ]
+    },
+    {
+      "id": "ufabc_sisu",
+      "nome": "Universidade Federal do ABC (SiSU)",
+      "sigla": "UFABC",
+      "estado": "SP",
+      "tipo": "publica_federal",
+      "cidade": "Santo André",
+      "url_oficial": "https://www.ufabc.edu.br",
+      "url_vestibular": "https://prograd.ufabc.edu.br/sisu",
+      "orgao_executor": "MEC / INEP / PROGRAD-UFABC",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["edital de ingresso sisu", "termo de adesão sisu", "cronograma de matrículas"],
+      "documentos_exigidos_padrao": [
+        "RG e CPF",
+        "Certificado de Conclusão e Histórico do Ensino Médio",
+        "Título de Eleitor e comprovante de quitação eleitoral",
+        "Certificado de Reservista (masculino)",
+        "Comprovantes específicos para cotistas (renda, etnia, escola pública)"
+      ]
+    },
+    {
+      "id": "uff_sisu",
+      "nome": "Universidade Federal Fluminense (SiSU)",
+      "sigla": "UFF",
+      "estado": "RJ",
+      "tipo": "publica_federal",
+      "cidade": "Niterói",
+      "url_oficial": "https://www.uff.br",
+      "url_vestibular": "https://app.uff.br/sisu",
+      "orgao_executor": "MEC / COSEAC",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["edital", "comunicado oficial", "relação de documentos para matrícula"],
+      "documentos_exigidos_padrao": [
+        "RG e CPF",
+        "Histórico Escolar do Ensino Médio",
+        "Certificado de Conclusão do Ensino Médio",
+        "Quitação Eleitoral e Militar",
+        "Documentações de cotas (se aplicável)"
+      ]
+    },
+    {
+      "id": "ufjf_sisu",
+      "nome": "Universidade Federal de Juiz de Fora (SiSU)",
+      "sigla": "UFJF",
+      "estado": "MG",
+      "tipo": "publica_federal",
+      "cidade": "Juiz de Fora",
+      "url_oficial": "https://www.ufjf.br",
+      "url_vestibular": "https://www.ufjf.br/cdara/sisu/",
+      "orgao_executor": "MEC / CDARA",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["edital sisu", "cronograma de reclassificações", "orientações para matrícula"],
+      "documentos_exigidos_padrao": [
+        "RG, CPF, Certidão de Nascimento/Casamento",
+        "Certificado e Histórico do Ensino Médio",
+        "Quitação eleitoral e militar",
+        "Comprovantes de reserva de vaga (cotas)"
+      ]
+    },
+    {
+      "id": "ufjf_pism",
+      "nome": "Universidade Federal de Juiz de Fora (Seriado / PISM)",
+      "sigla": "UFJF",
+      "estado": "MG",
+      "tipo": "publica_federal",
+      "cidade": "Juiz de Fora",
+      "url_oficial": "https://www.ufjf.br",
+      "url_vestibular": "https://www.ufjf.br/copese/vestibular-pism/",
+      "orgao_executor": "COPESE",
+      "possui_seriado": true,
+      "nome_seriado": "PISM - Programa de Ingresso Seletivo Misto",
+      "documentos_busca": ["edital pism", "conteúdo programático", "resultado dos módulos"],
+      "documentos_exigidos_padrao": [
+        "RG e CPF do candidato (obrigatório para prova)",
+        "Declaração de matrícula na respectiva série do Ensino Médio (Módulos I e II)",
+        "Histórico Escolar e Certificado de Conclusão (para matrícula - Módulo III)"
+      ]
+    },
+    {
+      "id": "ufla_sisu",
+      "nome": "Universidade Federal de Lavras (SiSU)",
+      "sigla": "UFLA",
+      "estado": "MG",
+      "tipo": "publica_federal",
+      "cidade": "Lavras",
+      "url_oficial": "https://ufla.br",
+      "url_vestibular": "https://cops.ufla.br/sisu",
+      "orgao_executor": "MEC / COPS-UFLA",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["edital", "termo de adesão", "convocação"],
+      "documentos_exigidos_padrao": [
+        "RG, CPF, Título de Eleitor, Reservista",
+        "Certificado e Histórico do Ensino Médio",
+        "Formulários e laudos para cotistas"
+      ]
+    },
+    {
+      "id": "ufla_pas",
+      "nome": "Universidade Federal de Lavras (Seriado / PAS)",
+      "sigla": "UFLA",
+      "estado": "MG",
+      "tipo": "publica_federal",
+      "cidade": "Lavras",
+      "url_oficial": "https://ufla.br",
+      "url_vestibular": "https://cops.ufla.br/pas",
+      "orgao_executor": "COPS",
+      "possui_seriado": true,
+      "nome_seriado": "PAS - Processo de Avaliação Seriada",
+      "documentos_busca": ["edital pas", "programa das provas", "cronograma"],
+      "documentos_exigidos_padrao": [
+        "RG e CPF do candidato",
+        "Atestado de matrícula escolar (1ª e 2ª etapas)",
+        "Histórico e Certificado do Ensino Médio (matrícula da 3ª etapa)"
+      ]
+    },
+    {
+      "id": "ufmg_sisu",
+      "nome": "Universidade Federal de Minas Gerais (SiSU)",
+      "sigla": "UFMG",
+      "estado": "MG",
+      "tipo": "publica_federal",
+      "cidade": "Belo Horizonte",
+      "url_oficial": "https://www.ufmg.br",
+      "url_vestibular": "https://ufmg.br/sisu",
+      "orgao_executor": "MEC / DRCA",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["edital sisu", "escala de matrículas", "instruções para registro acadêmico"],
+      "documentos_exigidos_padrao": [
+        "Carteira de Identidade e CPF",
+        "Certificado de Conclusão e Histórico do Ensino Médio",
+        "Certidão de Quitação Eleitoral e Documento Militar",
+        "Comprovação de Cotas (renda, etnia, escola pública)"
+      ]
+    },
+    {
+      "id": "ufmg_habilidades",
+      "nome": "Universidade Federal de Minas Gerais (Habilidades Específicas)",
+      "sigla": "UFMG",
+      "estado": "MG",
+      "tipo": "publica_federal",
+      "cidade": "Belo Horizonte",
+      "url_oficial": "https://www.ufmg.br",
+      "url_vestibular": "https://site.copeve.ufmg.br/",
+      "orgao_executor": "COPEVE",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["edital habilidades", "cronograma", "instruções de gravação de vídeo"],
+      "documentos_exigidos_padrao": [
+        "RG e CPF",
+        "Nota do ENEM do ano correspondente",
+        "Portfólio ou vídeo prático (dependendo do curso)"
+      ]
+    },
+    {
+      "id": "ufop_sisu",
+      "nome": "Universidade Federal de Ouro Preto (SiSU)",
+      "sigla": "UFOP",
+      "estado": "MG",
+      "tipo": "publica_federal",
+      "cidade": "Ouro Preto",
+      "url_oficial": "https://www.ufop.br",
+      "url_vestibular": "https://vestibular.ufop.br/",
+      "orgao_executor": "Coordenadoria de Processos Seletivos (CPS)",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["edital", "manual do candidato", "cronograma"],
+      "documentos_exigidos_padrao": [
+        "Documento oficial de identidade com foto",
+        "CPF",
+        "Histórico escolar e Certificado de conclusão",
+        "Comprovantes de reserva de vaga (cotas)"
+      ]
+    },
+    {
+      "id": "ufrj_sisu",
+      "nome": "Universidade Federal do Rio de Janeiro (SiSU)",
+      "sigla": "UFRJ",
+      "estado": "RJ",
+      "tipo": "publica_federal",
+      "cidade": "Rio de Janeiro",
+      "url_oficial": "https://www.ufrj.br",
+      "url_vestibular": "https://acesso.ufrj.br/",
+      "orgao_executor": "MEC / PR-1 UFRJ",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["edital acesso sisu", "quadro de vagas", "documentação para matrícula"],
+      "documentos_exigidos_padrao": [
+        "Documentação oficial de identidade civil (RG) e CPF",
+        "Certificado e Histórico do Ensino Médio",
+        "Situação eleitoral e militar regularizadas",
+        "Documentação comprobatória de cota"
+      ]
+    },
+    {
+      "id": "ufrj_the",
+      "nome": "Universidade Federal do Rio de Janeiro (THE)",
+      "sigla": "UFRJ",
+      "estado": "RJ",
+      "tipo": "publica_federal",
+      "cidade": "Rio de Janeiro",
+      "url_oficial": "https://www.ufrj.br",
+      "url_vestibular": "https://acesso.ufrj.br/",
+      "orgao_executor": "PR-1 UFRJ",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["edital the", "cartão de confirmação", "resultados"],
+      "documentos_exigidos_padrao": [
+        "RG e CPF (para realização da prova prática)",
+        "Inscrição no ENEM do ano vigente"
+      ]
+    },
+    {
+      "id": "ufrrj_sisu",
+      "nome": "Universidade Federal Rural do Rio de Janeiro (SiSU)",
+      "sigla": "UFRRJ",
+      "estado": "RJ",
+      "tipo": "publica_federal",
+      "cidade": "Seropédica",
+      "url_oficial": "https://portal.ufrrj.br/",
+      "url_vestibular": "https://r1.ufrrj.br/graduacao/",
+      "orgao_executor": "MEC / PROGRAD",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["edital", "anexos de cotas", "calendário de pré-matrícula"],
+      "documentos_exigidos_padrao": [
+        "RG, CPF, Título de Eleitor e Certificado Militar",
+        "Certificado de Conclusão do Ensino Médio",
+        "Histórico Escolar completo",
+        "Comprovações de ações afirmativas"
+      ]
+    },
+    {
+      "id": "ufsj_sisu",
+      "nome": "Universidade Federal de São João del-Rei (SiSU)",
+      "sigla": "UFSJ",
+      "estado": "MG",
+      "tipo": "publica_federal",
+      "cidade": "São João del-Rei",
+      "url_oficial": "https://www.ufsj.edu.br",
+      "url_vestibular": "https://www.ufsj.edu.br/vestibular/",
+      "orgao_executor": "COPESE / UFSJ",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["edital", "manual do candidato", "cronograma"],
+      "documentos_exigidos_padrao": [
+        "RG e CPF",
+        "Histórico escolar / declaração de conclusão do Ensino Médio",
+        "Comprovações de ações afirmativas e documentos eleitorais/militares"
+      ]
+    },
+    {
+      "id": "ufscar_sisu",
+      "nome": "Universidade Federal de São Carlos (SiSU)",
+      "sigla": "UFSCar",
+      "estado": "SP",
+      "tipo": "publica_federal",
+      "cidade": "São Carlos",
+      "url_oficial": "https://www.ufscar.br",
+      "url_vestibular": "https://www.ingresso.ufscar.br/",
+      "orgao_executor": "Coordenadoria de Ingresso na Graduação (CIG)",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["edital", "cronograma de chamadas", "orientações de matrícula"],
+      "documentos_exigidos_padrao": [
+        "Documento oficial de identidade com foto",
+        "CPF",
+        "Histórico escolar e certificado de conclusão",
+        "Documentação de cotas (renda, etnia)"
+      ]
+    },
+    {
+      "id": "uftm_sisu",
+      "nome": "Universidade Federal do Triângulo Mineiro (SiSU)",
+      "sigla": "UFTM",
+      "estado": "MG",
+      "tipo": "publica_federal",
+      "cidade": "Uberaba",
+      "url_oficial": "https://www.uftm.edu.br",
+      "url_vestibular": "https://www.uftm.edu.br/graduacao/processos-seletivos",
+      "orgao_executor": "Coordenação de Processos Seletivos (COPS)",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["edital sisu", "cronograma", "documentos para matrícula"],
+      "documentos_exigidos_padrao": [
+        "RG e CPF",
+        "Histórico escolar / declaração de conclusão do Ensino Médio",
+        "Documentos comprobatórios para cotistas"
+      ]
+    },
+    {
+      "id": "ufu_sisu",
+      "nome": "Universidade Federal de Uberlândia (SiSU)",
+      "sigla": "UFU",
+      "estado": "MG",
+      "tipo": "publica_federal",
+      "cidade": "Uberlândia",
+      "url_oficial": "https://www.ufu.br",
+      "url_vestibular": "https://www.portalselecao.ufu.br/",
+      "orgao_executor": "MEC / DIRPS",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["edital sisu", "orientações de matrícula"],
+      "documentos_exigidos_padrao": [
+        "RG e CPF",
+        "Histórico e Certificado de Ensino Médio",
+        "Regularidade eleitoral e militar",
+        "Documentos do sistema de cotas (renda, racial, PPI)"
+      ]
+    },
+    {
+      "id": "ufu_vestibular",
+      "nome": "Universidade Federal de Uberlândia (Vestibular)",
+      "sigla": "UFU",
+      "estado": "MG",
+      "tipo": "publica_federal",
+      "cidade": "Uberlândia",
+      "url_oficial": "https://www.ufu.br",
+      "url_vestibular": "https://www.portalselecao.ufu.br/",
+      "orgao_executor": "DIRPS - Diretoria de Processos Seletivos",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["edital do vestibular", "obras literárias", "cronograma"],
+      "documentos_exigidos_padrao": [
+        "Documento de identificação com foto e CPF",
+        "Certificado e Histórico do Ensino Médio (matrícula)",
+        "Documentos eleitorais e militares",
+        "Comprovantes de reserva de vaga"
+      ]
+    },
+    {
+      "id": "ufv_sisu",
+      "nome": "Universidade Federal de Viçosa (SiSU)",
+      "sigla": "UFV",
+      "estado": "MG",
+      "tipo": "publica_federal",
+      "cidade": "Viçosa",
+      "url_oficial": "https://www.ufv.br",
+      "url_vestibular": "https://www.pse.ufv.br/",
+      "orgao_executor": "Diretoria de Vestibular e Exames (DVE)",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["edital", "orientações sisu", "cronograma de chamadas"],
+      "documentos_exigidos_padrao": [
+        "Documento oficial de identidade com foto",
+        "CPF",
+        "Histórico escolar / declaração de conclusão do Ensino Médio",
+        "Documentação para cotistas"
+      ]
+    },
+    {
+      "id": "ufvjm_sisu",
+      "nome": "Universidade Federal dos Vales do Jequitinhonha e Mucuri (SiSU)",
+      "sigla": "UFVJM",
+      "estado": "MG",
+      "tipo": "publica_federal",
+      "cidade": "Diamantina",
+      "url_oficial": "https://portal.ufvjm.edu.br",
+      "url_vestibular": "https://copese.ufvjm.edu.br/",
+      "orgao_executor": "MEC / COPESE",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["edital sisu", "quadro de vagas", "instruções para matrícula"],
+      "documentos_exigidos_padrao": [
+        "RG, CPF, Título e Reservista",
+        "Certificado e Histórico de Ensino Médio",
+        "Documentação comprobatória de cota (L1 a L14)"
+      ]
+    },
+    {
+      "id": "ufvjm_sasi",
+      "nome": "Universidade Federal dos Vales do Jequitinhonha e Mucuri (Seriado / SASI)",
+      "sigla": "UFVJM",
+      "estado": "MG",
+      "tipo": "publica_federal",
+      "cidade": "Diamantina",
+      "url_oficial": "https://portal.ufvjm.edu.br",
+      "url_vestibular": "https://copese.ufvjm.edu.br/",
+      "orgao_executor": "COPESE",
+      "possui_seriado": true,
+      "nome_seriado": "SASI - Seleção Avaliada Seriada",
+      "documentos_busca": ["edital sasi", "cronograma", "conteúdo programático"],
+      "documentos_exigidos_padrao": [
+        "Identidade e CPF do candidato",
+        "Declaração escolar (fases 1 e 2)",
+        "Nota do ENEM vigente (fase 3)"
+      ]
+    },
+    {
+      "id": "uit_vestibular",
+      "nome": "Universidade de Itaúna (Vestibular)",
+      "sigla": "UIT",
+      "estado": "MG",
+      "tipo": "privada",
+      "cidade": "Itaúna",
+      "url_oficial": "https://www.uit.br",
+      "url_vestibular": "https://www.uit.br/vestibular",
+      "orgao_executor": "Próprio",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["edital", "manual do candidato", "cronograma"],
+      "documentos_exigidos_padrao": [
+        "Documento oficial de identidade com foto",
+        "CPF",
+        "Histórico escolar e certificado de conclusão",
+        "Comprovante de pagamento da taxa de inscrição"
+      ]
+    },
+    {
+      "id": "unifal_sisu",
+      "nome": "Universidade Federal de Alfenas (SiSU)",
+      "sigla": "UNIFAL",
+      "estado": "MG",
+      "tipo": "publica_federal",
+      "cidade": "Alfenas",
+      "url_oficial": "https://www.unifal-mg.edu.br",
+      "url_vestibular": "https://www.unifal-mg.edu.br/ingresso/",
+      "orgao_executor": "COPEVE / UNIFAL",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["edital sisu", "documentação para matrícula", "cronograma"],
+      "documentos_exigidos_padrao": [
+        "Documento oficial de identidade com foto",
+        "CPF",
+        "Histórico escolar e certificado de conclusão",
+        "Comprovantes de reserva de vaga (renda e PPI)"
+      ]
+    },
+    {
+      "id": "unifenas_vestibular",
+      "nome": "Universidade José do Rosário Vellano (Vestibular)",
+      "sigla": "UNIFENAS",
+      "estado": "MG",
+      "tipo": "privada",
+      "cidade": "Alfenas",
+      "url_oficial": "https://www.unifenas.br",
+      "url_vestibular": "https://www.unifenas.br/vestibular",
+      "orgao_executor": "Próprio",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["edital", "manual do candidato", "cronograma"],
+      "documentos_exigidos_padrao": [
+        "Documento oficial de identidade com foto e CPF",
+        "Histórico escolar / declaração de conclusão do Ensino Médio",
+        "Comprovante de pagamento da taxa de inscrição"
+      ]
+    },
+    {
+      "id": "unifesp_sisu",
+      "nome": "Universidade Federal de São Paulo (SiSU)",
+      "sigla": "UNIFESP",
+      "estado": "SP",
+      "tipo": "publica_federal",
+      "cidade": "São Paulo",
+      "url_oficial": "https://www.unifesp.br",
+      "url_vestibular": "https://ingresso.unifesp.br/",
+      "orgao_executor": "MEC / UNIFESP",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["edital sisu", "cronograma de matrículas", "lista de documentos"],
+      "documentos_exigidos_padrao": [
+        "RG, CPF, Título de Eleitor, Reservista",
+        "Histórico Escolar e Certificado de Conclusão",
+        "Comprovações de ações afirmativas (cotas)"
+      ]
+    },
+    {
+      "id": "unifesp_misto",
+      "nome": "Universidade Federal de São Paulo (Vestibular Misto)",
+      "sigla": "UNIFESP",
+      "estado": "SP",
+      "tipo": "publica_federal",
+      "cidade": "São Paulo",
+      "url_oficial": "https://www.unifesp.br",
+      "url_vestibular": "https://ingresso.unifesp.br/",
+      "orgao_executor": "VUNESP",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["edital misto", "conteúdo programático", "resultado"],
+      "documentos_exigidos_padrao": [
+        "RG original com foto recente e CPF",
+        "Inscrição obrigatória no ENEM do ano vigente",
+        "Certificado de Ensino Médio e Histórico (Matrícula)"
+      ]
+    },
+    {
+      "id": "unifei_sisu",
+      "nome": "Universidade Federal de Itajubá (SiSU)",
+      "sigla": "UNIFEI",
+      "estado": "MG",
+      "tipo": "publica_federal",
+      "cidade": "Itajubá",
+      "url_oficial": "https://unifei.edu.br",
+      "url_vestibular": "https://unifei.edu.br/ingresso/",
+      "orgao_executor": "Pró-Reitoria de Graduação (PRG)",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["edital", "cronograma de ingresso", "documentos para matrícula"],
+      "documentos_exigidos_padrao": [
+        "Documento oficial de identidade com foto",
+        "CPF",
+        "Histórico escolar e certificado de conclusão",
+        "Documentação para cotistas (renda, etnia, deficiência)"
+      ]
+    },
+    {
+      "id": "uniptan_vestibular",
+      "nome": "Afya Centro Universitário São João del-Rei (Vestibular)",
+      "sigla": "Uniptan/Afya",
+      "estado": "MG",
+      "tipo": "privada",
+      "cidade": "São João del-Rei",
+      "url_oficial": "https://saojoaodelrei.afya.com.br",
+      "url_vestibular": "https://facamedicina.afya.com.br/ingressar/sao-joao-del-rei",
+      "orgao_executor": "Vestibular Unificado Afya",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["edital", "manual do candidato", "cronograma"],
+      "documentos_exigidos_padrao": [
+        "Documento oficial de identidade com foto e CPF",
+        "Histórico escolar e declaração de conclusão do Ensino Médio",
+        "Comprovante de pagamento da taxa de inscrição"
+      ]
+    },
+    {
+      "id": "unirio_sisu",
+      "nome": "Universidade Federal do Estado do Rio de Janeiro (SiSU)",
+      "sigla": "UNIRIO",
+      "estado": "RJ",
+      "tipo": "publica_federal",
+      "cidade": "Rio de Janeiro",
+      "url_oficial": "https://www.unirio.br",
+      "url_vestibular": "https://www.unirio.br/prograd/sisu",
+      "orgao_executor": "SISU / UNIRIO",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["edital sisu", "relação de documentos", "cronograma"],
+      "documentos_exigidos_padrao": [
+        "Documento oficial de identidade com foto e CPF",
+        "Histórico escolar / declaração de conclusão do Ensino Médio",
+        "Quitação eleitoral e militar",
+        "Documentação de ações afirmativas"
+      ]
+    },
+    {
+      "id": "uniube_vestibular",
+      "nome": "Universidade de Uberaba (Vestibular)",
+      "sigla": "UNIUBE",
+      "estado": "MG",
+      "tipo": "privada",
+      "cidade": "Uberaba",
+      "url_oficial": "https://uniube.br",
+      "url_vestibular": "https://uniube.br/processos-seletivos",
+      "orgao_executor": "Próprio",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["edital", "manual do candidato", "gabarito"],
+      "documentos_exigidos_padrao": [
+        "RG e CPF",
+        "Histórico e Certificado de Ensino Médio",
+        "Comprovante de Endereço"
+      ]
+    },
+    {
+      "id": "uniube_pias",
+      "nome": "Universidade de Uberaba (Seriado / PIAS)",
+      "sigla": "UNIUBE",
+      "estado": "MG",
+      "tipo": "privada",
+      "cidade": "Uberaba",
+      "url_oficial": "https://uniube.br",
+      "url_vestibular": "https://uniube.br/pias",
+      "orgao_executor": "Próprio",
+      "possui_seriado": true,
+      "nome_seriado": "PIAS - Programa de Ingresso de Avaliação Seriada",
+      "documentos_busca": ["edital do pias", "cronograma de avaliações"],
+      "documentos_exigidos_padrao": [
+        "RG e CPF do candidato",
+        "Comprovante de matrícula no ano correspondente do Ensino Médio (etapas 1 e 2)",
+        "Documentação completa de graduação (apenas para aprovados na 3ª etapa)"
+      ]
+    },
+    {
+      "id": "univale_vestibular",
+      "nome": "Universidade Vale do Rio Doce (Vestibular)",
+      "sigla": "UNIVALE",
+      "estado": "MG",
+      "tipo": "privada",
+      "cidade": "Governador Valadares",
+      "url_oficial": "https://www.univale.br",
+      "url_vestibular": "https://www.univale.br/vestibular",
+      "orgao_executor": "Próprio",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["edital", "manual do candidato", "cronograma"],
+      "documentos_exigidos_padrao": [
+        "Documento oficial de identidade com foto e CPF",
+        "Histórico escolar / declaração de conclusão do Ensino Médio",
+        "Comprovante de pagamento da taxa de inscrição"
+      ]
+    },
+    {
+      "id": "usf_vestibular",
+      "nome": "Universidade São Francisco (Vestibular)",
+      "sigla": "USF",
+      "estado": "SP",
+      "tipo": "privada",
+      "cidade": "Bragança Paulista",
+      "url_oficial": "https://www.usf.edu.br",
+      "url_vestibular": "https://www.usf.edu.br/vestibular",
+      "orgao_executor": "Próprio",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["edital", "manual do candidato", "cronograma"],
+      "documentos_exigidos_padrao": [
+        "Documento oficial de identidade com foto e CPF",
+        "Histórico escolar e certificado de conclusão",
+        "Comprovante de pagamento da taxa de inscrição"
+      ]
+    },
+    {
+      "id": "usu_vestibular",
+      "nome": "Universidade Santa Úrsula (Vestibular)",
+      "sigla": "USU",
+      "estado": "RJ",
+      "tipo": "privada",
+      "cidade": "Rio de Janeiro",
+      "url_oficial": "https://www.usu.edu.br",
+      "url_vestibular": "https://www.usu.edu.br/vestibular/",
+      "orgao_executor": "Próprio",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["edital", "manual do candidato", "cronograma"],
+      "documentos_exigidos_padrao": [
+        "Documento oficial de identidade com foto",
+        "CPF",
+        "Histórico escolar / declaração de conclusão do Ensino Médio",
+        "Comprovante de pagamento da taxa de inscrição"
+      ]
+    },
+    {
+      "id": "uva_vestibular",
+      "nome": "Universidade Veiga de Almeida (Vestibular)",
+      "sigla": "UVA",
+      "estado": "RJ",
+      "tipo": "privada",
+      "cidade": "Rio de Janeiro",
+      "url_oficial": "https://www.uva.br",
+      "url_vestibular": "https://www.uva.br/formas-de-ingresso",
+      "orgao_executor": "Próprio",
+      "possui_seriado": false,
+      "nome_seriado": null,
+      "documentos_busca": ["edital", "manual do candidato", "cronograma"],
+      "documentos_exigidos_padrao": [
+        "Documento oficial de identidade com foto",
+        "CPF",
+        "Histórico escolar / declaração de conclusão do Ensino Médio",
+        "Comprovante de pagamento da taxa de inscrição (ou isenção)"
+      ]
+    }
+  ]
+}
