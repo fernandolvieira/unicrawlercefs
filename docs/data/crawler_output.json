@@ -1,8 +1,8 @@
 {
-  "gerado_em_utc": "2026-07-02T09:29:28.056477Z",
+  "gerado_em_utc": "2026-07-03T09:33:09.781748Z",
   "total_instituicoes": 20,
-  "ok": 8,
-  "com_erro": 12,
+  "ok": 9,
+  "com_erro": 11,
   "resultados": [
     {
       "id": "ufmg",
@@ -12,7 +12,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-02T09:27:19.434799Z",
+      "timestamp_utc": "2026-07-03T09:31:01.671835Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -56,7 +56,7 @@
         "https://www2.ufjf.br/copese/vestibular-pism-2/vestibular-de-musica-2027/",
         "https://www2.ufjf.br/copese/vestibular-pism-2/pism-2027/"
       ],
-      "timestamp_utc": "2026-07-02T09:27:21.513254Z",
+      "timestamp_utc": "2026-07-03T09:31:03.955378Z",
       "erro": null
     },
     {
@@ -67,7 +67,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-02T09:27:31.010413Z",
+      "timestamp_utc": "2026-07-03T09:31:13.644044Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -78,7 +78,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-02T09:27:32.816390Z",
+      "timestamp_utc": "2026-07-03T09:31:15.469025Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -89,7 +89,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-02T09:27:34.963306Z",
+      "timestamp_utc": "2026-07-03T09:31:17.638912Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -100,19 +100,21 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-02T09:27:38.548780Z",
+      "timestamp_utc": "2026-07-03T09:31:21.363804Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
       "id": "uemg",
       "sigla": "UEMG",
       "url_vestibular_consultada": "https://www.uemg.br/vestibular",
-      "status": "erro",
+      "status": "ok",
       "pdfs_encontrados": [],
       "trechos_com_data": [],
-      "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-02T09:27:40.653432Z",
-      "erro": "Não foi possível acessar a página principal do vestibular."
+      "paginas_visitadas": [
+        "https://indisponivel.mg.gov.br/clientes/"
+      ],
+      "timestamp_utc": "2026-07-03T09:31:23.491909Z",
+      "erro": null
     },
     {
       "id": "puc-minas",
@@ -122,7 +124,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-02T09:27:42.956802Z",
+      "timestamp_utc": "2026-07-03T09:31:27.575886Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -197,7 +199,7 @@
         "https://www.fumec.br/vestibular-fumec/",
         "https://www.fumec.br/extensao/editais/"
       ],
-      "timestamp_utc": "2026-07-02T09:27:44.632607Z",
+      "timestamp_utc": "2026-07-03T09:31:29.234510Z",
       "erro": null
     },
     {
@@ -208,7 +210,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-02T09:27:50.617441Z",
+      "timestamp_utc": "2026-07-03T09:31:34.817619Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -219,7 +221,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-02T09:27:52.363657Z",
+      "timestamp_utc": "2026-07-03T09:31:36.591621Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -230,7 +232,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-02T09:27:54.018319Z",
+      "timestamp_utc": "2026-07-03T09:31:38.388444Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -241,7 +243,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-02T09:27:56.230860Z",
+      "timestamp_utc": "2026-07-03T09:31:40.656197Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -269,7 +271,7 @@
       "paginas_visitadas": [
         "https://portal.ufrrj.br/vestibular-2016-do-cederj-oferece-mais-de-7-mil-vagas-pra-graduacao-a-distancia/"
       ],
-      "timestamp_utc": "2026-07-02T09:27:58.191566Z",
+      "timestamp_utc": "2026-07-03T09:31:42.586906Z",
       "erro": null
     },
     {
@@ -331,7 +333,7 @@
         "https://www.puc-rio.br/vestibular/202607/",
         "https://www.puc-rio.br/vestibular/202512/"
       ],
-      "timestamp_utc": "2026-07-02T09:28:03.406871Z",
+      "timestamp_utc": "2026-07-03T09:31:47.845443Z",
       "erro": null
     },
     {
@@ -492,12 +494,12 @@
         }
       ],
       "trechos_com_data": [
+        "FAUUSP 2027 – Período de inscrições para a Pós em Design vai de 01/07 a 15/07",
         "FFLCH USP – Pós em História Social: inscrições devem ser feitas entre 01/07 e 15/07",
         "FFLCH USP – Inscrições para o Mestrado em Sociologia devem ser feitas entre 1ª e 15 de julho",
         "FSP 2027 – Inscrições para o Mestrado em Saúde Pública poderão ser feitas a partir de 01/07",
         "Simulado FUVEST 2027 – FUVEST estende para 10/07 prazo de inscrições para o segundo simulado do ano",
         "Simulado FUVEST 2027 – Período de inscrições para segundo simulado do ano termina sexta-feira, 03/07",
-        "Proficiência em Línguas Estrangeiras – Enunciados e gabaritos das provas serão divulgados em 22/06",
         "FUVEST 2027 – Pedidos de isenção e redução da taxa de inscrição começam em 11 de maio",
         "Inscrição: das 12h de 17/08/2026 até as 12h de 09/10/2026",
         "Regulamento para Isenção ou Redução de Taxa de Inscrição – Publicado em 04/05/2026",
@@ -542,7 +544,7 @@
         "https://www.fuvest.br/auxiliar-manutencao-obras-2026",
         "https://www.fuvest.br/auxiliar-manutencao-obras-2025-2"
       ],
-      "timestamp_utc": "2026-07-02T09:28:13.913471Z",
+      "timestamp_utc": "2026-07-03T09:31:57.708898Z",
       "erro": null
     },
     {
@@ -554,11 +556,6 @@
         {
           "url": "https://www.comvest.unicamp.br/wp-content/uploads/2026/05/15-2026-Edital_Isencao_2027_16032026_CDC_para-GR-assinado.pdf",
           "texto_ancora": "Edital Isenção 2027",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.comvest.unicamp.br/wp-content/uploads/2026/06/Manual-Programa_provas_VU2027.pdf",
-          "texto_ancora": "Vestibular Unicamp 2027",
           "relevante_por_palavra_chave": true
         },
         {
@@ -595,6 +592,11 @@
           "url": "https://www.comvest.unicamp.br/wp-content/uploads/2023/01/Prova_VI_2023.pdf",
           "texto_ancora": "Prova Vestibular Indígena 2023",
           "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.comvest.unicamp.br/wp-content/uploads/2026/06/Manual-Programa_provas_VU2027.pdf",
+          "texto_ancora": "Ver mais",
+          "relevante_por_palavra_chave": false
         },
         {
           "url": "https://www.comvest.unicamp.br/wp-content/uploads/2025/05/Diretrizes-de-Avaliacao-da-Redacao-site.pdf",
@@ -734,7 +736,7 @@
         "https://www.comvest.unicamp.br/aberto-o-periodo-para-solicitar-isencao-da-taxa-de-inscricao-do-vestibular-e-enem-unicamp-2027/",
         "https://www.comvest.unicamp.br/ingresso-2026/vestibular-indigena-2026/"
       ],
-      "timestamp_utc": "2026-07-02T09:28:31.824429Z",
+      "timestamp_utc": "2026-07-03T09:32:15.854586Z",
       "erro": null
     },
     {
@@ -745,7 +747,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-02T09:28:53.003469Z",
+      "timestamp_utc": "2026-07-03T09:32:35.600131Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -853,7 +855,7 @@
         "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao/ead",
         "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao/brasilia"
       ],
-      "timestamp_utc": "2026-07-02T09:28:54.785133Z",
+      "timestamp_utc": "2026-07-03T09:32:37.399893Z",
       "erro": null
     },
     {
@@ -1023,7 +1025,7 @@
         "https://nucvest.com.br/vestibular/unisalesiano/2026/inverno/index.html",
         "https://nucvest.com.br/vestibular/faculdade-direito-franca/2026/index.html"
       ],
-      "timestamp_utc": "2026-07-02T09:29:18.385048Z",
+      "timestamp_utc": "2026-07-03T09:32:59.732907Z",
       "erro": null
     }
   ]
