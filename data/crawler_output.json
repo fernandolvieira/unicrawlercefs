@@ -1,8 +1,8 @@
 {
-  "gerado_em_utc": "2026-07-15T13:57:17.630517Z",
+  "gerado_em_utc": "2026-07-16T08:28:15.307885Z",
   "total_instituicoes": 20,
-  "ok": 8,
-  "com_erro": 12,
+  "ok": 7,
+  "com_erro": 13,
   "resultados": [
     {
       "id": "ufmg",
@@ -12,7 +12,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-15T13:55:01.313388Z",
+      "timestamp_utc": "2026-07-16T08:26:08.568014Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -58,7 +58,7 @@
         "https://www2.ufjf.br/copese/vestibular-pism-2/pism-2027/",
         "https://www2.ufjf.br/noticias/2026/07/13/mais-de-15-mil-candidatos-tem-isencao-da-taxa-do-pism-2027-deferida/"
       ],
-      "timestamp_utc": "2026-07-15T13:55:03.442759Z",
+      "timestamp_utc": "2026-07-16T08:26:10.611202Z",
       "erro": null
     },
     {
@@ -69,7 +69,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-15T13:55:15.626901Z",
+      "timestamp_utc": "2026-07-16T08:26:22.102572Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -80,7 +80,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-15T13:55:17.438539Z",
+      "timestamp_utc": "2026-07-16T08:26:23.865918Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -91,7 +91,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-15T13:55:19.615443Z",
+      "timestamp_utc": "2026-07-16T08:26:25.925938Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -102,7 +102,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-15T13:55:23.304577Z",
+      "timestamp_utc": "2026-07-16T08:26:29.479912Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -113,7 +113,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-15T13:55:25.449396Z",
+      "timestamp_utc": "2026-07-16T08:26:31.490331Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -124,7 +124,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-15T13:55:27.787938Z",
+      "timestamp_utc": "2026-07-16T08:26:34.269663Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -199,7 +199,7 @@
         "https://www.fumec.br/vestibular-fumec/",
         "https://www.fumec.br/extensao/editais/"
       ],
-      "timestamp_utc": "2026-07-15T13:55:29.464442Z",
+      "timestamp_utc": "2026-07-16T08:26:35.892248Z",
       "erro": null
     },
     {
@@ -210,7 +210,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-15T13:55:35.229794Z",
+      "timestamp_utc": "2026-07-16T08:26:41.094458Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -221,7 +221,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-15T13:55:36.989369Z",
+      "timestamp_utc": "2026-07-16T08:26:42.754746Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -232,7 +232,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-15T13:55:38.798211Z",
+      "timestamp_utc": "2026-07-16T08:26:44.487265Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -243,7 +243,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-15T13:55:41.083410Z",
+      "timestamp_utc": "2026-07-16T08:26:46.590083Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -271,7 +271,7 @@
       "paginas_visitadas": [
         "https://portal.ufrrj.br/vestibular-2016-do-cederj-oferece-mais-de-7-mil-vagas-pra-graduacao-a-distancia/"
       ],
-      "timestamp_utc": "2026-07-15T13:55:43.033986Z",
+      "timestamp_utc": "2026-07-16T08:26:48.408973Z",
       "erro": null
     },
     {
@@ -336,7 +336,7 @@
         "https://www.puc-rio.br/vestibular/202607/",
         "https://www.puc-rio.br/vestibular/202512/"
       ],
-      "timestamp_utc": "2026-07-15T13:55:48.081404Z",
+      "timestamp_utc": "2026-07-16T08:26:53.324990Z",
       "erro": null
     },
     {
@@ -502,7 +502,6 @@
         "FFLCH USP – Pós em História Social: inscrições devem ser feitas entre 01/07 e 15/07",
         "FFLCH USP – Inscrições para o Mestrado em Sociologia devem ser feitas entre 1ª e 15 de julho",
         "FSP 2027 – Inscrições para o Mestrado em Saúde Pública poderão ser feitas a partir de 01/07",
-        "Simulado FUVEST 2027 – FUVEST estende para 10/07 prazo de inscrições para o segundo simulado do ano",
         "FUVEST 2027 – Pedidos de isenção e redução da taxa de inscrição começam em 11 de maio",
         "Inscrição: das 12h de 17/08/2026 até as 12h de 09/10/2026",
         "Regulamento para Isenção ou Redução de Taxa de Inscrição – Publicado em 04/05/2026",
@@ -536,7 +535,8 @@
         "Resultado dos Recursos da Isenção/Redução de taxa de inscrição – Publicado em 03/11/2025",
         "Lista de Inscritos – Publicado em 24/11/2025",
         "Retificações do Edital – Publicado em 24/11/2025",
-        "Resultado dos Recursos da Lista de Inscritos – Publicado em 28/11/2025"
+        "Resultado dos Recursos da Lista de Inscritos – Publicado em 28/11/2025",
+        "Prova, Gabarito e Respostas Esperadas – Publicado em 08/12/2025"
       ],
       "paginas_visitadas": [
         "https://www.fuvest.br/",
@@ -547,7 +547,7 @@
         "https://www.fuvest.br/auxiliar-manutencao-obras-2026",
         "https://www.fuvest.br/auxiliar-manutencao-obras-2025-2"
       ],
-      "timestamp_utc": "2026-07-15T13:56:01.034906Z",
+      "timestamp_utc": "2026-07-16T08:27:05.068981Z",
       "erro": null
     },
     {
@@ -739,7 +739,7 @@
         "https://www.comvest.unicamp.br/aberto-o-periodo-para-solicitar-isencao-da-taxa-de-inscricao-do-vestibular-e-enem-unicamp-2027/",
         "https://www.comvest.unicamp.br/ingresso-2026/vestibular-indigena-2026/"
       ],
-      "timestamp_utc": "2026-07-15T13:56:19.920257Z",
+      "timestamp_utc": "2026-07-16T08:27:22.328756Z",
       "erro": null
     },
     {
@@ -750,7 +750,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-15T13:56:41.111585Z",
+      "timestamp_utc": "2026-07-16T08:27:42.295251Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -858,178 +858,19 @@
         "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao/ead",
         "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao/brasilia"
       ],
-      "timestamp_utc": "2026-07-15T13:56:42.897036Z",
+      "timestamp_utc": "2026-07-16T08:27:43.967590Z",
       "erro": null
     },
     {
       "id": "puc-sp",
       "sigla": "PUC-SP",
       "url_vestibular_consultada": "https://www.pucsp.br/vestibular",
-      "status": "ok",
-      "pdfs_encontrados": [
-        {
-          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2026/inverno/Edital-PUCSP-Vestibular-Inverno-2026-Novo-Calendario.pdf",
-          "texto_ancora": "Edital 01/2026(leitura obrigatÃ³ria)",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.fundasp.org.br/downloads/politica_privacidade_vestibular.pdf",
-          "texto_ancora": "PolÃ­tica de Privacidade - Vestibular",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/vestibulares-externos/unisalesiano/2026/inverno/Relacao-candidato-e-vaga-UniSalesiano-Processo-Seletivo-do-curso-de-Medicina-2o-2026.pdf",
-          "texto_ancora": "Vestibular UniSALESIANO - Medicina Inverno 2026",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/vestibulares-externos/unisalesiano/2026/inverno/Edital-no-08-2026-Proc-Seletivo-Medicina-2o-Semestre-2026.pdf",
-          "texto_ancora": "Edital 08/2026(leitura obrigatÃ³ria)",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/vestibulares-externos/faculdade-direito-franca/2026/relacao-candidato-vaga-franca2026-em-22122025.pdf",
-          "texto_ancora": "RelaÃ§Ã£o Vestibular FDF 2026",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/vestibulares-externos/faculdade-direito-franca/2026/Edital-054-2025-VESTIBULAR-2026-FDF.pdf",
-          "texto_ancora": "Edital 54/2025(leitura obrigatÃ³ria)",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/vestibulares-externos/faculdade-direito-franca/2026/RerratificacaoN02Edital_0542025.pdf",
-          "texto_ancora": "RerratificaÃ§Ã£o do Edital nÂº02 do edital nÂº054/2025(leitura obrigatÃ³ria)",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/vestibulares-externos/faculdade-direito-franca/2026/1_RERRATIFICACAO_DE_EDITAL_01.pdf",
-          "texto_ancora": "RerratificaÃ§Ã£o do Edital nÂº 054/2025(leitura obrigatÃ³ria)",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://matricula.pucsp.br/doc/chamadas/1a-chamada/classificados_geral_2026inverno_Prova_11062026.pdf",
-          "texto_ancora": "Modalidade I - SeleÃ§Ã£o por Prova Presencial",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://matricula.pucsp.br/doc/chamadas/1a-chamada/classificados_geral_2026inverno_ENEM_11062026.pdf",
-          "texto_ancora": "Modalidade II - SeleÃ§Ã£o pela Nota do ENEM",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://matricula.pucsp.br/doc/chamadas/1a-chamada/chamada1_2026inverno_481_convocados_Prova_12062026.pdf",
-          "texto_ancora": "Modalidade I:SeleÃ§Ã£o por prova Presencial (Convocados: Por nÃºmero de inscriÃ§Ã£o)",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://matricula.pucsp.br/doc/chamadas/1a-chamada/chamada1_2026inverno_303_convocados_ENEM_15062026_1.pdf",
-          "texto_ancora": "Modalidade II:SeleÃ§Ã£o pela nota do Enem (Convocados: Por nÃºmero de inscriÃ§Ã£o)",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://matricula.pucsp.br/doc/chamadas/2a-chamada/chamada2-2026-inverno-prova.pdf",
-          "texto_ancora": "Modalidade I:SeleÃ§Ã£o por prova Presencial (Convocados: Por nÃºmero de inscriÃ§Ã£o)",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://matricula.pucsp.br/doc/chamadas/1a-chamada/TREINEIRO_PROVA_2026inv_CLASS_E_ORDEM_11062026.pdf",
-          "texto_ancora": "Modalidade I:SeleÃ§Ã£o por Prova Presencial",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://matricula.pucsp.br/doc/chamadas/1a-chamada/TREINEIRO_ENEM_2026inv_CLASS_E_ORDEM_11062026.pdf",
-          "texto_ancora": "Modalidade II:SeleÃ§Ã£o pela Nota do ENEM",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://matricula.pucsp.br/doc/chamadas/2a-chamada/VR-cursos-disponiveis-puc2026inverno.pdf",
-          "texto_ancora": "Clique aqui",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2026/inverno/Quadro-de-Vagas-Processo-Seletivo-de-Inverno-2o-semestre-de-2026-prova-presencial-e-ENEM.pdf",
-          "texto_ancora": "Acesse aqui",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2026/inverno/Manual-Candidato-PUCSP-Inverno-2026.pdf",
-          "texto_ancora": "Manual do(a) Candidato(a)(leitura obrigatÃ³ria)",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2026/inverno/gabarito-e-prova/PUC-Inverno-2026-Gabarito.pdf",
-          "texto_ancora": "Gabarito",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2026/inverno/gabarito-e-prova/PUCSP-inverno-2026-A4-v2-direito-autoral-dig.pdf",
-          "texto_ancora": "Caderno de QuestÃµes",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2026/verao/gabarito-e-prova/PUC-SP-Verao-2026-A4-v2-direito-autoral-digital.pdf",
-          "texto_ancora": "",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2026/verao/gabarito-e-prova/PUC-Verao-2026-Gabarito.pdf",
-          "texto_ancora": "",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2025/inverno/PUCSP-inverno-2025-A4-v2-direito-autoral-digital.pdf",
-          "texto_ancora": "",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2025/inverno/PUC-Inverno-2025-Gabarito.pdf",
-          "texto_ancora": "",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2025/verao/gabarito-e-prova/PUC-SP-verao-2025-A4-DIREITO-AUTORAL.pdf",
-          "texto_ancora": "",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2025/verao/gabarito-e-prova/PUC-Verao-2025-Gabarito-Republicado.pdf",
-          "texto_ancora": "",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2024/inverno/PUCSP-INVERNO-2024-A4-v1-direito-autoral.pdf",
-          "texto_ancora": "",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2024/inverno/PUCSP-Inverno-2024-Gabarito-Retificado.pdf",
-          "texto_ancora": "",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2024/verao/PUC-SP-Verao-2024-A4-v1.pdf",
-          "texto_ancora": "",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2024/verao/PUC-SP-Verao-2024-Gabarito.pdf",
-          "texto_ancora": "",
-          "relevante_por_palavra_chave": false
-        }
-      ],
-      "trechos_com_data": [
-        "03 a 17/03/2026 (Chamadas)",
-        "PROVA Presencial â 31/05/2026"
-      ],
-      "paginas_visitadas": [
-        "https://nucvest.com.br",
-        "https://nucvest.com.br/pucsp/vestibular/2026/inverno/index.html",
-        "https://nucvest.com.br/vestibular/unisalesiano/2026/inverno/index.html",
-        "https://nucvest.com.br/vestibular/faculdade-direito-franca/2026/index.html"
-      ],
-      "timestamp_utc": "2026-07-15T13:57:07.550256Z",
-      "erro": null
+      "status": "erro",
+      "pdfs_encontrados": [],
+      "trechos_com_data": [],
+      "paginas_visitadas": [],
+      "timestamp_utc": "2026-07-16T08:28:03.792514Z",
+      "erro": "Não foi possível acessar a página principal do vestibular."
     }
   ]
 }
