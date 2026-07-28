@@ -1,5 +1,5 @@
 {
-  "gerado_em_utc": "2026-07-27T10:06:51.656887Z",
+  "gerado_em_utc": "2026-07-28T08:48:51.859738Z",
   "total_instituicoes": 20,
   "ok": 8,
   "com_erro": 12,
@@ -12,7 +12,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-27T10:04:38.844452Z",
+      "timestamp_utc": "2026-07-28T08:46:47.747832Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -48,7 +48,7 @@
         }
       ],
       "trechos_com_data": [
-        "Inscrições acontecem de 27 de julho a 2 de setembro, pelo SigaX",
+        "Candidatos têm até 14 de agosto para se inscrever; provas serão aplicadas em dezembro em cinco cidades",
         ">>> Provas de todos os módulos: 05 e 06 de dezembro de 2026 <<<"
       ],
       "paginas_visitadas": [
@@ -57,7 +57,7 @@
         "https://www2.ufjf.br/copese/vestibular-pism-2/vestibular-de-musica-2027/",
         "https://www2.ufjf.br/copese/vestibular-pism-2/pism-2027/"
       ],
-      "timestamp_utc": "2026-07-27T10:04:41.150086Z",
+      "timestamp_utc": "2026-07-28T08:46:49.732656Z",
       "erro": null
     },
     {
@@ -68,7 +68,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-27T10:04:50.610848Z",
+      "timestamp_utc": "2026-07-28T08:46:58.737281Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -79,7 +79,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-27T10:04:52.443330Z",
+      "timestamp_utc": "2026-07-28T08:47:00.487470Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -90,7 +90,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-27T10:04:56.699705Z",
+      "timestamp_utc": "2026-07-28T08:47:02.530094Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -101,7 +101,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-27T10:05:00.439290Z",
+      "timestamp_utc": "2026-07-28T08:47:08.031888Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -112,7 +112,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-27T10:05:02.579652Z",
+      "timestamp_utc": "2026-07-28T08:47:10.023618Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -123,7 +123,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-27T10:05:04.896932Z",
+      "timestamp_utc": "2026-07-28T08:47:12.163314Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -198,7 +198,7 @@
         "https://www.fumec.br/vestibular-fumec/",
         "https://www.fumec.br/extensao/editais/"
       ],
-      "timestamp_utc": "2026-07-27T10:05:06.613701Z",
+      "timestamp_utc": "2026-07-28T08:47:13.778281Z",
       "erro": null
     },
     {
@@ -209,7 +209,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-27T10:05:12.412434Z",
+      "timestamp_utc": "2026-07-28T08:47:19.023554Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -220,7 +220,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-27T10:05:14.621732Z",
+      "timestamp_utc": "2026-07-28T08:47:20.855851Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -231,7 +231,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-27T10:05:16.446246Z",
+      "timestamp_utc": "2026-07-28T08:47:22.596371Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -242,7 +242,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-27T10:05:18.751639Z",
+      "timestamp_utc": "2026-07-28T08:47:24.712694Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -270,7 +270,7 @@
       "paginas_visitadas": [
         "https://portal.ufrrj.br/vestibular-2016-do-cederj-oferece-mais-de-7-mil-vagas-pra-graduacao-a-distancia/"
       ],
-      "timestamp_utc": "2026-07-27T10:05:20.564120Z",
+      "timestamp_utc": "2026-07-28T08:47:26.539095Z",
       "erro": null
     },
     {
@@ -326,10 +326,8 @@
         }
       ],
       "trechos_com_data": [
-        "As inscriÃ§Ãµes estarÃ£o abertas de 27 de julho a 07 de setembro. Provas: dias 11 e 15 de outubro.",
-        "As inscriÃ§Ãµes estarÃ£o abertas de 27 de julho atÃ© 07 de setembro",
-        "Provas: dias 11 e 15 de outubro.",
-        "As inscriÃ§Ãµes estarÃ£o abertas de 27/07 a 07/09/2026.",
+        "InscriÃ§Ãµes abertas de 27 de julho a 07 de setembro. Provas: dias 11 e 15 de outubro.",
+        "InscriÃ§Ãµes de 27/07 a 07/09/2026.",
         "PoderÃ¡ ser baixado no site da inscriÃ§Ã£o a partir de 25/09/2026.",
         "No dia 06/11/2026 estarÃ£o disponÃ­veis as notas das provas.",
         "No dia 24/11/2026 serÃ¡ divulgado o resultado do Vestibular e ocorrerÃ¡ a 1Âª convocaÃ§Ã£o Ã  matrÃ­cula.",
@@ -344,7 +342,7 @@
         "https://www.puc-rio.br/vestibular/202607/",
         "https://www.puc-rio.br/vestibular/202512/"
       ],
-      "timestamp_utc": "2026-07-27T10:05:24.488622Z",
+      "timestamp_utc": "2026-07-28T08:47:31.048593Z",
       "erro": null
     },
     {
@@ -416,6 +414,11 @@
         {
           "url": "https://www.fuvest.br/wp-content/uploads/2026-06-29_RH012-2026_Retificação_Abertura_Aux_Manutencao_Obras.pdf",
           "texto_ancora": "Retificações do Edital – Publicado em 29/06/2026",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.fuvest.br/wp-content/uploads/2026-07-27_RH012-2026-retificacao-texto-Aux-Manutencao-Obras.pdf",
+          "texto_ancora": "Retificações do Edital – Publicado em 27/07/2026",
           "relevante_por_palavra_chave": true
         },
         {
@@ -497,11 +500,6 @@
           "url": "https://www.fuvest.br/wp-content/uploads/Formulario-de-Documentacao-Comprobatoria.pdf",
           "texto_ancora": "aqui",
           "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://www.fuvest.br/wp-content/uploads/2026-02-11_RH-001-2026_comunic_result_isencao_inscricao_aux_lab.pdf",
-          "texto_ancora": "Resultado da Isenção/Redução de Taxa de Inscrição – Publicado em 11/02/2026",
-          "relevante_por_palavra_chave": false
         }
       ],
       "trechos_com_data": [
@@ -555,7 +553,7 @@
         "https://www.fuvest.br/auxiliar-manutencao-obras-2026",
         "https://www.fuvest.br/auxiliar-manutencao-obras-2025-2"
       ],
-      "timestamp_utc": "2026-07-27T10:05:37.333273Z",
+      "timestamp_utc": "2026-07-28T08:47:43.467737Z",
       "erro": null
     },
     {
@@ -728,7 +726,9 @@
         "31 de agosto de 2026 – Prazo final para inscrições e pagamento da Taxa de Inscrição do Vestibular Unicamp 2027",
         "02, 03 e 04 de Dezembro de 2026 – Provas de Habilidades Específicas (exceto Música)",
         "25 de Janeiro de 2027 – Divulgação dos aprovados em 1ª chamada",
+        "27 de Janeiro de 2027 – Banca Recursal da Averiguação dos convocados para vagas reservadas às cotas étnico-raciais da 1ª chamada",
         "26 e 27 de Janeiro de 2027 – Matrícula virtual da 1ª chamada",
+        "01 de Fevereiro de 2027 – Divulgação da lista de convocados em 2ª chamada",
         "A lista de contemplados com a Isenção da Taxa será divilgada no dia 31 de julho, nesta página.",
         "A Comvest registrou 2.037 inscritos para o Vestibular Indígena 2026, que pela quinta vez está unificado entre a Unicamp e a UFSCar, para o ingresso de estudantes indígenas, em diferentes cursos de graduação das duas universidades. A prova foi realizada no dia 11 de janeiro, nas seguintes cidades: Campinas (SP), Recife (PE), Santarém (PA), São Gabriel da Cachoeira (AM) e Tabatinga (AM).",
         "Comvest prorroga, até 19 de junho, o prazo para solicitar isenção da taxa de inscrição do Vestibular Unicamp 2027. - COMVEST",
@@ -747,7 +747,7 @@
         "https://www.comvest.unicamp.br/aberto-o-periodo-para-solicitar-isencao-da-taxa-de-inscricao-do-vestibular-e-enem-unicamp-2027/",
         "https://www.comvest.unicamp.br/ingresso-2026/vestibular-indigena-2026/"
       ],
-      "timestamp_utc": "2026-07-27T10:05:55.851104Z",
+      "timestamp_utc": "2026-07-28T08:48:00.179079Z",
       "erro": null
     },
     {
@@ -758,7 +758,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-07-27T10:06:17.365677Z",
+      "timestamp_utc": "2026-07-28T08:48:19.188617Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -866,7 +866,7 @@
         "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao/ead",
         "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao/brasilia"
       ],
-      "timestamp_utc": "2026-07-27T10:06:19.154036Z",
+      "timestamp_utc": "2026-07-28T08:48:20.883875Z",
       "erro": null
     },
     {
@@ -1036,7 +1036,7 @@
         "https://nucvest.com.br/vestibular/unisalesiano/2026/inverno/index.html",
         "https://nucvest.com.br/vestibular/faculdade-direito-franca/2026/index.html"
       ],
-      "timestamp_utc": "2026-07-27T10:06:39.549521Z",
+      "timestamp_utc": "2026-07-28T08:48:42.647195Z",
       "erro": null
     }
   ]
