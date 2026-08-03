@@ -1,8 +1,8 @@
 {
-  "gerado_em_utc": "2026-08-03T10:03:02.240197Z",
+  "gerado_em_utc": "2026-08-03T13:56:56.174059Z",
   "total_instituicoes": 20,
-  "ok": 8,
-  "com_erro": 12,
+  "ok": 7,
+  "com_erro": 13,
   "resultados": [
     {
       "id": "ufmg",
@@ -12,7 +12,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-03T10:00:15.964872Z",
+      "timestamp_utc": "2026-08-03T13:54:35.943808Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -57,7 +57,7 @@
         "https://www2.ufjf.br/copese/vestibular-pism-2/vestibular-de-musica-2027/",
         "https://www2.ufjf.br/copese/vestibular-pism-2/pism-2027/"
       ],
-      "timestamp_utc": "2026-08-03T10:00:37.989953Z",
+      "timestamp_utc": "2026-08-03T13:54:37.960649Z",
       "erro": null
     },
     {
@@ -68,7 +68,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-03T10:00:47.984742Z",
+      "timestamp_utc": "2026-08-03T13:54:47.772783Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -79,7 +79,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-03T10:00:49.849491Z",
+      "timestamp_utc": "2026-08-03T13:54:49.623741Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -90,7 +90,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-03T10:00:52.131957Z",
+      "timestamp_utc": "2026-08-03T13:54:51.837746Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -101,7 +101,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-03T10:00:56.756376Z",
+      "timestamp_utc": "2026-08-03T13:54:55.642877Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -112,7 +112,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-03T10:00:58.970869Z",
+      "timestamp_utc": "2026-08-03T13:54:58.968742Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -123,7 +123,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-03T10:01:01.389024Z",
+      "timestamp_utc": "2026-08-03T13:55:01.366735Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -198,7 +198,7 @@
         "https://www.fumec.br/vestibular-fumec/",
         "https://www.fumec.br/extensao/editais/"
       ],
-      "timestamp_utc": "2026-08-03T10:01:03.141412Z",
+      "timestamp_utc": "2026-08-03T13:55:03.080679Z",
       "erro": null
     },
     {
@@ -209,7 +209,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-03T10:01:09.065126Z",
+      "timestamp_utc": "2026-08-03T13:55:08.808468Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -220,7 +220,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-03T10:01:11.072263Z",
+      "timestamp_utc": "2026-08-03T13:55:10.789520Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -231,7 +231,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-03T10:01:17.523083Z",
+      "timestamp_utc": "2026-08-03T13:55:12.918404Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -242,7 +242,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-03T10:01:20.049856Z",
+      "timestamp_utc": "2026-08-03T13:55:15.254587Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -270,7 +270,7 @@
       "paginas_visitadas": [
         "https://portal.ufrrj.br/vestibular-2016-do-cederj-oferece-mais-de-7-mil-vagas-pra-graduacao-a-distancia/"
       ],
-      "timestamp_utc": "2026-08-03T10:01:22.050045Z",
+      "timestamp_utc": "2026-08-03T13:55:17.259811Z",
       "erro": null
     },
     {
@@ -342,7 +342,7 @@
         "https://www.puc-rio.br/vestibular/202607/",
         "https://www.puc-rio.br/vestibular/202512/"
       ],
-      "timestamp_utc": "2026-08-03T10:01:26.110228Z",
+      "timestamp_utc": "2026-08-03T13:55:23.180778Z",
       "erro": null
     },
     {
@@ -359,11 +359,6 @@
         {
           "url": "https://www.fuvest.br/wp-content/uploads/fuvest2027-resolucao-DOE.pdf",
           "texto_ancora": "Resolução CoG Nº 9008 – Publicado no DOE em 31/07/2026",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.fuvest.br/wp-content/uploads/fuvest2027-resolucao.pdf",
-          "texto_ancora": "Leia atentamente a Resolução do CoG Nº XXXX! Fique por dentro das normas para garantir sua futura vaga na",
           "relevante_por_palavra_chave": true
         },
         {
@@ -500,11 +495,17 @@
           "url": "https://www.fuvest.br/wp-content/uploads/fuvest2027-guia-inclusao.pdf",
           "texto_ancora": "Guia de Inclusão – Publicado em 04/05/2026",
           "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.fuvest.br/wp-content/uploads/Formulario-de-Documentacao-Comprobatoria.pdf",
+          "texto_ancora": "aqui",
+          "relevante_por_palavra_chave": false
         }
       ],
       "trechos_com_data": [
-        "IPUSP – Inscrições para a Pós em Psicologia Clínica devem ser feitas entre 20/07 e 22/07",
-        "Residência Profissional 2027 – Inscrições serão abertas a partir de 20/07",
+        "FFCLRP 2027 – Inscrições para ingresso na Pós em Psicologia de Ribeirão Preto estarão abertas até 01/08",
+        "Concurso Técnico de Laboratório – Notas da prova prática serão publicadas no DOE em 22/07",
+        "Concurso Especialista em Laboratório – Notas da prova de arguição de memorial serão publicadas no DOE em 22/07",
         "FUVEST 2027 – Pedidos de isenção e redução da taxa de inscrição começam em 11 de maio",
         "Inscrição: das 12h de 17/08/2026 até as 12h de 09/10/2026",
         "Regulamento para Isenção ou Redução de Taxa de Inscrição – Publicado em 04/05/2026",
@@ -541,8 +542,7 @@
         "Resultado dos Recursos da Lista de Inscritos – Publicado em 28/11/2025",
         "Prova, Gabarito e Respostas Esperadas – Publicado em 08/12/2025",
         "Retificações do Edital – Publicado em 08/12/2025",
-        "Gabarito – Retificado em 18/12/2025",
-        "Resultado da Prova Objetiva – Publicado em 07/01/2026"
+        "Gabarito – Retificado em 18/12/2025"
       ],
       "paginas_visitadas": [
         "https://www.fuvest.br/",
@@ -553,7 +553,7 @@
         "https://www.fuvest.br/auxiliar-manutencao-obras-2026",
         "https://www.fuvest.br/auxiliar-manutencao-obras-2025-2"
       ],
-      "timestamp_utc": "2026-08-03T10:01:40.050818Z",
+      "timestamp_utc": "2026-08-03T13:55:36.307129Z",
       "erro": null
     },
     {
@@ -570,6 +570,11 @@
         {
           "url": "https://www.comvest.unicamp.br/wp-content/uploads/2026/07/Resolucao-Vestibular-Unicamp-2027.pdf",
           "texto_ancora": "Edital – Vestibular Unicamp 2027",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.comvest.unicamp.br/wp-content/uploads/2026/08/Retificacao-Edital-VU-2027.pdf",
+          "texto_ancora": "Retificação do Edital 2027",
           "relevante_por_palavra_chave": true
         },
         {
@@ -706,19 +711,14 @@
           "url": "https://www.comvest.unicamp.br/wp-content/uploads/2026/03/3.VI2026-ListaUFSCar-CH5.pdf",
           "texto_ancora": "Lista de aprovados 5ª Chamada – UFSCar",
           "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://www.comvest.unicamp.br/wp-content/uploads/2026/03/1.VI2026-ListaUnificada-CH5.pdf",
-          "texto_ancora": "Lista Unificada",
-          "relevante_por_palavra_chave": false
         }
       ],
       "trechos_com_data": [
         "Prorrogado prazo para solicitar Isenção da Taxa de Inscrição até 26 de junho.",
         "Comvest prorroga, até 19 de junho, o prazo para solicitar isenção da taxa de inscrição do Vestibular Unicamp 2027.",
-        "Vestibular Unicamp 2027: inscrições serão realizadas de 3 a 31 de agosto!",
-        ". Antes da primeira fase, haverá provas de Habilidades Específicas para candidatos aos cursos de Música, em setembro. Para os demais cursos que exigem provas específicas (Artes Cênicas, Artes Visuais e Dança), elas ocorrerão entre os dias 02 e 04 de dezembro, ou seja, após a segunda fase. A Comvest vai divulgar a",
-        ", no dia 25 de janeiro de 2027, para matrícula online nos dias 26 e 27 de janeiro de 2027.",
+        "Vestibular Unicamp 2027: inscrições serão realizadas de 3 a 31 de agosto.",
+        "A Comissão Permanente para os Vestibulares da Unicamp (Comvest) abriu nessa segunda-feira, 3 de agosto, as inscrições para o",
+        ", com início às 9 horas. Antes da primeira fase, haverá provas de Habilidades Específicas para candidatos aos cursos de Música (com envio de vídeos pela internet, entre os dias 14 e 30 de setembro). Para os demais cursos que exigem provas específicas (Artes Cênicas, Artes Visuais e Dança), elas ocorrerão em dezembro, entre os dias 2 e 4/12.",
         "11 de maio de 2026 – Abertura para Isenções de Taxa de Inscrição para o Vestibular Unicamp 2027 até 05 de junho 202",
         "05 de junho de 2026 – Prazo final para solicitação de Isenções da Taxa de Inscrição do Vestibular Unicamp 202",
         "03 de agosto de 2026 – Abertura para inscrições e pagamento da Taxa de Inscrição do Vestibular Unicamp 2027",
@@ -733,6 +733,7 @@
         ". Antes da primeira fase, haverá provas de Habilidades Específicas para candidatos aos cursos de Música, em setembro (14 a 30/9). Para os demais cursos que exigem provas específicas (Artes Cênicas, Artes Visuais e Dança), elas ocorrerão entre os dias 02 e 04 de dezembro, ou seja, após a segunda fase. A Comvest vai divulgar a",
         ",no dia 25 de janeiro de 2027, para matrícula online nos dias 26 e 27 de janeiro de 2027. São oferecidas 70 opções de cursos.",
         "Comvest prorroga, até 19 de junho, o prazo para solicitar isenção da taxa de inscrição do Vestibular Unicamp 2027. - COMVEST",
+        ". Antes da primeira fase, haverá provas de Habilidades Específicas para candidatos aos cursos de Música, em setembro. Para os demais cursos que exigem provas específicas (Artes Cênicas, Artes Visuais e Dança), elas ocorrerão entre os dias 02 e 04 de dezembro, ou seja, após a segunda fase. A Comvest vai divulgar a",
         ",no dia 25 de janeiro de 2027, para matrícula online nos dias 26 e 27 de janeiro de 2027. São oferecidas 69 opções de cursos.",
         "Divulgada a quinta chamada do Vestibular Indígena 2026! Matrícula online, no dia 10 de março.",
         "Gabarito Vestibular Indígena 2026 (Retificado em 16/01/2026)",
@@ -747,7 +748,7 @@
         "https://www.comvest.unicamp.br/comvest-prorroga-ate-19-de-junho-o-prazo-para-solicitar-isencao-da-taxa-de-inscricao-do-vestibular-unicamp-2027/",
         "https://www.comvest.unicamp.br/ingresso-2026/vestibular-indigena-2026/"
       ],
-      "timestamp_utc": "2026-08-03T10:02:00.340207Z",
+      "timestamp_utc": "2026-08-03T13:55:57.668362Z",
       "erro": null
     },
     {
@@ -758,118 +759,19 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-03T10:02:22.493991Z",
+      "timestamp_utc": "2026-08-03T13:56:19.043461Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
       "id": "mackenzie",
       "sigla": "Mackenzie",
       "url_vestibular_consultada": "https://vestibular.mackenzie.br/",
-      "status": "ok",
-      "pdfs_encontrados": [
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/2-processos-seletivos/upm/VESTIBULAR_REGULAR/2026/2026_1/IN_RE_082_2026_Edital_Processo_Seletivo_Transfer%C3%AAncia_Externa_2.0_2026_2_sem_MEDICINA_SCA_Assinada.pdf",
-          "texto_ancora": "EDITAL IN-RE-082/2026",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/2-processos-seletivos/upm/VESTIBULAR_REGULAR/2026/2026_1/Prova_-_Medicina_-_2026_1__semestre_-_30.10.25.pdf",
-          "texto_ancora": "PROVA VESTIBULAR MEDICINA 2026/1º - 30/10/2025",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/2-processos-seletivos/upm/VESTIBULAR_REGULAR/2026/2026_1/Gabarito_-_Medicina_-_2026_1__semestre_-_30.10.25.pdf",
-          "texto_ancora": "GABARITO VESTIBULAR MEDICINA 2026/1º - 30/10/2025",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/8-ead/graduacao/2026/Edital_Tecn%C3%B3logo_2026.2.pdf",
-          "texto_ancora": "EDITAL EAD-IN-RE-042/2026 - TECNÓLOGO E BACHAREL",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/8-ead/graduacao/2026/Edital_Licenciatura_2026.2.pdf",
-          "texto_ancora": "EDITAL EAD-IN-RE-043/2026 - LICENCIATURA SEMIPRESENCIAL",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/OI-DG_15-2026_Edital_Vestibular_Agendado_2026.2__1_.pdf",
-          "texto_ancora": "Edital",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/OI-DG_12-2026_Edital_ENEM_2026.2__2_.pdf",
-          "texto_ancora": "Edital",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/OI-DG_14-2026_Edital_Transf_2_Grad_2026.2__1_.pdf",
-          "texto_ancora": "Edital",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/OI-DG_13-2026_Edital_Passaporte_Mackenzie_2026.2__1_.pdf",
-          "texto_ancora": "Edital",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/top/biblioteca/2018/documentos/Regulamento_biblioteca.pdf",
-          "texto_ancora": "Regulamento",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/1-mackenzie/faculdades/curitiba/institucional/CODIGO_ETICA_IPM.pdf",
-          "texto_ancora": "Código de Ética",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/1-mackenzie/codigo-de-etica/C%c3%b3digo_de_%c3%89tica_2024.pdf",
-          "texto_ancora": "Código de Ética",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/user_upload/ebook_extensao.pdf",
-          "texto_ancora": "Projetos de Extensão - Caderno",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/user_upload/Ensino_Fundamental_I.pdf",
-          "texto_ancora": "Ensino Fundamental I",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/user_upload/Ensino_Fundamental_II.pdf",
-          "texto_ancora": "Ensino Fundamental II",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/user_upload/Ensino_Medio.pdf",
-          "texto_ancora": "Ensino Médio",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/Editais-Colegios/DC-COJUR-474_-_Edital_de_novas_matrícula_-_2_semestre_de_2026.pdf",
-          "texto_ancora": "Matrícula 2026 - Alunos novos",
-          "relevante_por_palavra_chave": false
-        }
-      ],
-      "trechos_com_data": [
-        "INSCRIÇÕES DE 03/08/2026 À 06/08/2026",
-        "PROVA VESTIBULAR MEDICINA 2026/1º - 30/10/2025",
-        "GABARITO VESTIBULAR MEDICINA 2026/1º - 30/10/2025",
-        "Matrículas Prorrogadas para 16/08/2026"
-      ],
-      "paginas_visitadas": [
-        "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao/",
-        "https://www.mackenzie.br/faculdades/rio",
-        "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao",
-        "https://www.mackenzie.br/colegios/aeja/processo-seletivo",
-        "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao/medicina",
-        "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao/ead",
-        "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao/brasilia"
-      ],
-      "timestamp_utc": "2026-08-03T10:02:24.305124Z",
-      "erro": null
+      "status": "erro",
+      "pdfs_encontrados": [],
+      "trechos_com_data": [],
+      "paginas_visitadas": [],
+      "timestamp_utc": "2026-08-03T13:56:20.934107Z",
+      "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
       "id": "puc-sp",
@@ -1038,7 +940,7 @@
         "https://nucvest.com.br/vestibular/unisalesiano/2026/inverno/index.html",
         "https://nucvest.com.br/vestibular/faculdade-direito-franca/2026/index.html"
       ],
-      "timestamp_utc": "2026-08-03T10:02:51.647271Z",
+      "timestamp_utc": "2026-08-03T13:56:46.002437Z",
       "erro": null
     }
   ]
