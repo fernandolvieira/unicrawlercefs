@@ -1,5 +1,5 @@
 {
-  "gerado_em_utc": "2026-08-10T07:57:04.505989Z",
+  "gerado_em_utc": "2026-08-11T07:20:59.353852Z",
   "total_instituicoes": 20,
   "ok": 8,
   "com_erro": 12,
@@ -12,7 +12,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-10T07:55:00.968442Z",
+      "timestamp_utc": "2026-08-11T07:18:49.170025Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -33,7 +33,7 @@
         },
         {
           "url": "https://www2.ufjf.br/copese/wp-content/uploads/sites/42/2026/08/14_Edital_IngressoSeletivoEspecial_LetrasLibras_2026.pdf",
-          "texto_ancora": "Edital 07/2025",
+          "texto_ancora": "Edital 14/2026",
           "relevante_por_palavra_chave": true
         },
         {
@@ -52,6 +52,11 @@
           "relevante_por_palavra_chave": true
         },
         {
+          "url": "https://www2.ufjf.br/copese/wp-content/uploads/sites/42/2026/08/RESULTADO_Sele%C3%A7%C3%A3oEspecial2026-1.pdf",
+          "texto_ancora": "Resultado Final",
+          "relevante_por_palavra_chave": false
+        },
+        {
           "url": "https://www2.ufjf.br/copese/wp-content/uploads/sites/42/2025/05/Conte%C3%BAdo-Program%C3%A1tico-PISM-UFJF.pdf",
           "texto_ancora": "Conteúdo programático para os candidatos que farão os módulos: I (Triênio 2026-2028), II (Triênio 2025-2027) e III (Triênio 2024-2026)",
           "relevante_por_palavra_chave": false
@@ -67,7 +72,7 @@
         "https://www2.ufjf.br/copese/selecao-especial-2026/",
         "https://www2.ufjf.br/copese/vestibular-pism-2/pism-2027/"
       ],
-      "timestamp_utc": "2026-08-10T07:55:03.274163Z",
+      "timestamp_utc": "2026-08-11T07:18:51.381866Z",
       "erro": null
     },
     {
@@ -78,7 +83,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-10T07:55:14.596064Z",
+      "timestamp_utc": "2026-08-11T07:19:03.179115Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -89,7 +94,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-10T07:55:16.341655Z",
+      "timestamp_utc": "2026-08-11T07:19:04.966200Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -100,7 +105,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-10T07:55:18.663749Z",
+      "timestamp_utc": "2026-08-11T07:19:07.074821Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -111,7 +116,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-10T07:55:22.032399Z",
+      "timestamp_utc": "2026-08-11T07:19:11.026626Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -122,7 +127,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-10T07:55:24.036875Z",
+      "timestamp_utc": "2026-08-11T07:19:13.095870Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -133,7 +138,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-10T07:55:26.816407Z",
+      "timestamp_utc": "2026-08-11T07:19:15.331219Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -208,7 +213,7 @@
         "https://www.fumec.br/vestibular-fumec/",
         "https://www.fumec.br/extensao/editais/"
       ],
-      "timestamp_utc": "2026-08-10T07:55:28.483472Z",
+      "timestamp_utc": "2026-08-11T07:19:17.007407Z",
       "erro": null
     },
     {
@@ -219,7 +224,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-10T07:55:35.354901Z",
+      "timestamp_utc": "2026-08-11T07:19:24.207518Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -230,7 +235,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-10T07:55:37.003226Z",
+      "timestamp_utc": "2026-08-11T07:19:26.075425Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -241,7 +246,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-10T07:55:38.737242Z",
+      "timestamp_utc": "2026-08-11T07:19:27.844162Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -252,7 +257,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-10T07:55:40.808992Z",
+      "timestamp_utc": "2026-08-11T07:19:30.013584Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -280,7 +285,7 @@
       "paginas_visitadas": [
         "https://portal.ufrrj.br/vestibular-2016-do-cederj-oferece-mais-de-7-mil-vagas-pra-graduacao-a-distancia/"
       ],
-      "timestamp_utc": "2026-08-10T07:55:42.641238Z",
+      "timestamp_utc": "2026-08-11T07:19:31.779355Z",
       "erro": null
     },
     {
@@ -352,7 +357,7 @@
         "https://www.puc-rio.br/vestibular/202607/",
         "https://www.puc-rio.br/vestibular/202512/"
       ],
-      "timestamp_utc": "2026-08-10T07:55:46.222019Z",
+      "timestamp_utc": "2026-08-11T07:19:35.725529Z",
       "erro": null
     },
     {
@@ -374,6 +379,11 @@
         {
           "url": "https://www.fuvest.br/wp-content/uploads/fuvest2027-guia-carreiras.pdf",
           "texto_ancora": "Guia de Carreiras (versão em PDF) – Publicado em 03/08/2026",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.fuvest.br/wp-content/uploads/fuvest2027-guia-jornada.pdf",
+          "texto_ancora": "Guia de Jornada (versão em PDF) – Publicado em 10/08/2026",
           "relevante_por_palavra_chave": true
         },
         {
@@ -505,19 +515,12 @@
           "url": "https://www.fuvest.br/wp-content/uploads/fuvest2027-regulamento-isencao-reducao.pdf",
           "texto_ancora": "Regulamento para Isenção ou Redução de Taxa de Inscrição – Publicado em 04/05/2026",
           "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://www.fuvest.br/wp-content/uploads/fuvest2027-guia-inclusao.pdf",
-          "texto_ancora": "Guia de Inclusão – Publicado em 04/05/2026",
-          "relevante_por_palavra_chave": false
         }
       ],
       "trechos_com_data": [
         "Concurso Técnico de Laboratório – Resultado final do processo seletivo será divulgado em 05/08 no DOE",
         "Concurso Especialista em Laboratório – Candidatos devem conferir no DOE de 05/08 resultado final do processo seletivo",
         "FFLCH USP – Pós em História Social: candidatos devem ficar atento em 05/08 às inscrições homologadas",
-        "FAUUSP 2027 – FUVEST divulga em 05/08 as inscrições homologadas para a Pós em Design",
-        "FUVEST 2027 – Pedidos de isenção e redução da taxa de inscrição começam em 11 de maio",
         "Inscrição: das 12h de 17/08/2026 até as 12h de 09/10/2026",
         "Regulamento para Isenção ou Redução de Taxa de Inscrição – Publicado em 04/05/2026",
         "Concurso Auxiliar de Laboratório – FUVEST divulga, em 20/03, os locais da prova objetiva",
@@ -552,7 +555,9 @@
         "Retificações do Edital – Publicado em 24/11/2025",
         "Resultado dos Recursos da Lista de Inscritos – Publicado em 28/11/2025",
         "Prova, Gabarito e Respostas Esperadas – Publicado em 08/12/2025",
-        "Retificações do Edital – Publicado em 08/12/2025"
+        "Retificações do Edital – Publicado em 08/12/2025",
+        "Gabarito – Retificado em 18/12/2025",
+        "Resultado da Prova Objetiva – Publicado em 07/01/2026"
       ],
       "paginas_visitadas": [
         "https://www.fuvest.br/",
@@ -563,7 +568,7 @@
         "https://www.fuvest.br/auxiliar-manutencao-obras-2026",
         "https://www.fuvest.br/auxiliar-manutencao-obras-2025-2"
       ],
-      "timestamp_utc": "2026-08-10T07:55:58.071873Z",
+      "timestamp_utc": "2026-08-11T07:19:48.330494Z",
       "erro": null
     },
     {
@@ -694,15 +699,16 @@
         }
       ],
       "trechos_com_data": [
+        "Abertas as inscrições para o Vestibular sem Segredo, voltado a professores. O evento acontece no dia 12/9.",
         "Abertas as inscrições para o Vestibular Unicamp 2027, até 31 de agosto.",
         "Prorrogado prazo para solicitar Isenção da Taxa de Inscrição até 26 de junho.",
         "Vestibular Unicamp 2027: inscrições serão realizadas de 3 a 31 de agosto.",
-        "A Comissão Permanente para os Vestibulares da Unicamp (Comvest) abriu nessa segunda-feira, 3 de agosto, as inscrições para o",
         ", com início às 9 horas. Antes da primeira fase, haverá provas de Habilidades Específicas para candidatos aos cursos de Música (com envio de vídeos pela internet, entre os dias 14 e 30 de setembro). Para os demais cursos que exigem provas específicas (Artes Cênicas, Artes Visuais e Dança), elas ocorrerão em dezembro, entre os dias 2 e 4/12.",
-        ", a Comvest receberá solicitações de redução parcial da Taxa de Inscrição, prevista no artigo 15 do Edital, no valor de 50%, nos termos da Lei estadual nº12.782, de 20 de dezembro de 2007. A solicitação poderá ser feita em formulário eletrônico,",
         "11 de maio de 2026 – Abertura para Isenções de Taxa de Inscrição para o Vestibular Unicamp 2027 até 05 de junho 202",
         "05 de junho de 2026 – Prazo final para solicitação de Isenções da Taxa de Inscrição do Vestibular Unicamp 202",
         "03 de agosto de 2026 – Abertura para inscrições e pagamento da Taxa de Inscrição do Vestibular Unicamp 2027",
+        "05 a 07 de agosto de 2026 – Solicitação de Redução Parcial de Taxa de Inscrição",
+        "18 de agosto de 2026 – Divulgação dos candidatos beneficiados pela Redução Parcial da Taxa de Inscrição",
         "31 de agosto de 2026 – Prazo final para inscrições e pagamento da Taxa de Inscrição do Vestibular Unicamp 2027",
         "02, 03 e 04 de Dezembro de 2026 – Provas de Habilidades Específicas (exceto Música)",
         "25 de Janeiro de 2027 – Divulgação dos aprovados em 1ª chamada",
@@ -710,7 +716,11 @@
         "26 e 27 de Janeiro de 2027 – Matrícula virtual da 1ª chamada",
         "01 de Fevereiro de 2027 – Divulgação da lista de convocados em 2ª chamada",
         "A Comvest registrou 2.037 inscritos para o Vestibular Indígena 2026, que pela quinta vez está unificado entre a Unicamp e a UFSCar, para o ingresso de estudantes indígenas, em diferentes cursos de graduação das duas universidades. A prova foi realizada no dia 11 de janeiro, nas seguintes cidades: Campinas (SP), Recife (PE), Santarém (PA), São Gabriel da Cachoeira (AM) e Tabatinga (AM).",
+        "Abertas as inscrições para o Vestibular sem Segredo, voltado a professores. O evento acontece no dia 12/9. - COMVEST",
+        "A Comissão Permanente para os Vestibulares da Unicamp (Comvest) abriu hoje (10/8), as inscrições para o evento “Vestibular sem Segredo”, voltado a professores",
         "Abertas as inscrições para o Vestibular Unicamp 2027, até 31 de agosto. - COMVEST",
+        "A Comissão Permanente para os Vestibulares da Unicamp (Comvest) abriu nessa segunda-feira, 3 de agosto, as inscrições para o",
+        ", a Comvest receberá solicitações de redução parcial da Taxa de Inscrição, prevista no artigo 15 do Edital, no valor de 50%, nos termos da Lei estadual nº12.782, de 20 de dezembro de 2007. A solicitação poderá ser feita em formulário eletrônico,",
         ". Antes da primeira fase, haverá provas de Habilidades Específicas para candidatos aos cursos de Música, em setembro (14 a 30/9). Para os demais cursos que exigem provas específicas (Artes Cênicas, Artes Visuais e Dança), elas ocorrerão entre os dias 02 e 04 de dezembro, ou seja, após a segunda fase. A Comvest vai divulgar a",
         ",no dia 25 de janeiro de 2027, para matrícula online nos dias 26 e 27 de janeiro de 2027. São oferecidas 70 opções de cursos."
       ],
@@ -718,12 +728,12 @@
         "https://www.comvest.unicamp.br/",
         "https://www.comvest.unicamp.br/ingresso-2027/vestibular-2027/",
         "https://www.comvest.unicamp.br/ingresso-2027/vestibular-indigena-2027/",
+        "https://www.comvest.unicamp.br/abertas-as-inscricoes-para-o-vestibular-sem-segredo-voltado-a-professores-o-evento-acontece-no-dia-12-9/",
         "https://www.comvest.unicamp.br/abertas-as-inscricoes-para-o-vestibular-unicamp-2027-ate-31-de-agosto/",
         "https://www.comvest.unicamp.br/vestibular-2027-solicitaacao-de-reducao-parcial-da-taxa-de-5-a-7-de-agosto/",
-        "https://www.comvest.unicamp.br/comvest-divulga-lista-de-contemplados-com-a-isencao-da-taxa-para-o-vestibular-unicamp-2027-foram-beneficiados-7-915-estudantes/",
-        "https://www.comvest.unicamp.br/comvest-comemora-40-anos-inaugura-memorial-e-lanca-documentario-evento-reuniu-ex-diretores-e-colaboradores-do-vestibular/"
+        "https://www.comvest.unicamp.br/comvest-divulga-lista-de-contemplados-com-a-isencao-da-taxa-para-o-vestibular-unicamp-2027-foram-beneficiados-7-915-estudantes/"
       ],
-      "timestamp_utc": "2026-08-10T07:56:15.163404Z",
+      "timestamp_utc": "2026-08-11T07:20:06.307734Z",
       "erro": null
     },
     {
@@ -734,7 +744,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-10T07:56:34.169586Z",
+      "timestamp_utc": "2026-08-11T07:20:26.969773Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -842,7 +852,7 @@
         "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao/ead",
         "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao/brasilia"
       ],
-      "timestamp_utc": "2026-08-10T07:56:35.952634Z",
+      "timestamp_utc": "2026-08-11T07:20:28.675612Z",
       "erro": null
     },
     {
@@ -1002,16 +1012,14 @@
           "relevante_por_palavra_chave": false
         }
       ],
-      "trechos_com_data": [
-        "03 a 17/03/2026 (Chamadas)"
-      ],
+      "trechos_com_data": [],
       "paginas_visitadas": [
         "https://nucvest.com.br",
         "https://nucvest.com.br/pucsp/vestibular/2027/verao/index.html",
         "https://nucvest.com.br/vestibular/unisalesiano/2026/inverno/index.html",
         "https://nucvest.com.br/vestibular/faculdade-direito-franca/2026/index.html"
       ],
-      "timestamp_utc": "2026-08-10T07:56:55.343531Z",
+      "timestamp_utc": "2026-08-11T07:20:50.007619Z",
       "erro": null
     }
   ]
