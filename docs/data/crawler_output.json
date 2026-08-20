@@ -1,8 +1,8 @@
 {
-  "gerado_em_utc": "2026-08-19T06:58:15.697789Z",
+  "gerado_em_utc": "2026-08-20T06:59:06.436549Z",
   "total_instituicoes": 20,
-  "ok": 7,
-  "com_erro": 13,
+  "ok": 6,
+  "com_erro": 14,
   "resultados": [
     {
       "id": "ufmg",
@@ -12,75 +12,19 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-19T06:56:25.155159Z",
+      "timestamp_utc": "2026-08-20T06:57:02.250866Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
       "id": "ufjf",
       "sigla": "UFJF",
       "url_vestibular_consultada": "https://www2.ufjf.br/copese/",
-      "status": "ok",
-      "pdfs_encontrados": [
-        {
-          "url": "https://www2.ufjf.br/copese/wp-content/uploads/sites/42/2026/06/11_2026-Edital-Vestibular-de-Musica-2027_Retificado-13-2026.pdf",
-          "texto_ancora": "Edital 11/2026 – Vestibular de Música – Retificado",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www2.ufjf.br/copese/wp-content/uploads/sites/42/2026/06/13_Edital-13-2026_Retifica-edital-11-2026_Vestibular-de-Musica-2027.pdf",
-          "texto_ancora": "Edital 13/2026 – Retifica 11/2026",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www2.ufjf.br/copese/wp-content/uploads/sites/42/2026/08/14_Edital_IngressoSeletivoEspecial_LetrasLibras_2026.pdf",
-          "texto_ancora": "Edital 14/2026",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www2.ufjf.br/consu/wp-content/uploads/sites/33/2021/09/Resolu%C3%A7%C3%A3o-54.2021_SEI-_Assinada.pdf",
-          "texto_ancora": "Resolução CONSU n° 54/2021",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www2.ufjf.br/copese/wp-content/uploads/sites/42/2026/06/10_Edital_10_2026_PISM_2027_retificado-pelo-12-2026.pdf",
-          "texto_ancora": "Edital 10/2026 – Edital do PISM 2027 – Retificado",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www2.ufjf.br/copese/wp-content/uploads/sites/42/2026/06/12_Edital-12-2026_Retifica-edital-10-2026_PISM-2027.pdf",
-          "texto_ancora": "Edital 12/2026 – Retifica Edital 10/2026",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www2.ufjf.br/copese/wp-content/uploads/sites/42/2026/08/RESULTADO_Sele%C3%A7%C3%A3oEspecial2026-1.pdf",
-          "texto_ancora": "Resultado Final",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://www2.ufjf.br/copese/wp-content/uploads/sites/42/2025/05/Conte%C3%BAdo-Program%C3%A1tico-PISM-UFJF.pdf",
-          "texto_ancora": "Conteúdo programático para os candidatos que farão os módulos: I (Triênio 2026-2028), II (Triênio 2025-2027) e III (Triênio 2024-2026)",
-          "relevante_por_palavra_chave": false
-        }
-      ],
-      "trechos_com_data": [
-        ">>> Provas de todos os módulos: 05 e 06 de dezembro de 2026 <<<",
-        "As provas do Pism serão aplicadas nos dias 5 e 6 de dezembro.",
-        "Os candidatos que necessitam de atendimento especial para a realização das provas devem fazer a solicitação também até 14 de agosto, às 18h. O pedido deve ser realizado no ato da inscrição, com o envio da documentação comprobatória exigida pelo edital.",
-        "O resultado da solicitação de atendimento especial e do pedido de uso do nome social será divulgado em 4 de setembro, a partir das 15h, na",
-        "Em caso de indeferimento, os candidatos poderão apresentar recurso em 8 de setembro, das 9h às 16h. O resultado dos recursos será divulgado em 15 de setembro, a partir das 15h.",
-        "As provas do Pism serão aplicadas nos dias 5 e 6 de dezembro, em cinco cidades: Juiz de Fora, Governador Valadares, Muriaé, Petrópolis e Três Rios.",
-        "O comprovante definitivo de inscrição estará disponível para consulta a partir de 20 de outubro. Candidatos que solicitaram atendimento especializado ou condições específicas para a realização das provas devem acompanhar o resultado do pedido, previsto para 4 de setembro."
-      ],
-      "paginas_visitadas": [
-        "https://www2.ufjf.br/copese/",
-        "https://www2.ufjf.br/copese/vestibular-pism-2/",
-        "https://www2.ufjf.br/copese/vestibular-pism-2/vestibular-de-musica-2027/",
-        "https://www2.ufjf.br/copese/selecao-especial-2026/",
-        "https://www2.ufjf.br/copese/vestibular-pism-2/pism-2027/",
-        "https://www2.ufjf.br/noticias/2026/08/11/inscricoes-para-o-pism-e-vestibular-de-musica-terminam-nesta-sexta-14/"
-      ],
-      "timestamp_utc": "2026-08-19T06:56:27.210475Z",
-      "erro": null
+      "status": "erro",
+      "pdfs_encontrados": [],
+      "trechos_com_data": [],
+      "paginas_visitadas": [],
+      "timestamp_utc": "2026-08-20T06:57:04.974559Z",
+      "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
       "id": "ufv",
@@ -90,7 +34,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-19T06:56:41.373685Z",
+      "timestamp_utc": "2026-08-20T06:57:31.337260Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -101,7 +45,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-19T06:56:43.167987Z",
+      "timestamp_utc": "2026-08-20T06:57:33.018319Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -112,7 +56,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-19T06:56:45.298158Z",
+      "timestamp_utc": "2026-08-20T06:57:35.632359Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -123,7 +67,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-19T06:56:48.786499Z",
+      "timestamp_utc": "2026-08-20T06:57:39.482551Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -134,7 +78,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-19T06:56:50.922721Z",
+      "timestamp_utc": "2026-08-20T06:57:41.770207Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -145,7 +89,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-19T06:56:53.471902Z",
+      "timestamp_utc": "2026-08-20T06:57:44.388360Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -220,7 +164,7 @@
         "https://www.fumec.br/vestibular-fumec/",
         "https://www.fumec.br/extensao/editais/"
       ],
-      "timestamp_utc": "2026-08-19T06:56:55.160696Z",
+      "timestamp_utc": "2026-08-20T06:57:46.112597Z",
       "erro": null
     },
     {
@@ -231,7 +175,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-19T06:57:03.075642Z",
+      "timestamp_utc": "2026-08-20T06:57:51.660690Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -242,7 +186,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-19T06:57:04.941399Z",
+      "timestamp_utc": "2026-08-20T06:57:54.713362Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -253,7 +197,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-19T06:57:06.724599Z",
+      "timestamp_utc": "2026-08-20T06:57:56.369639Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -264,7 +208,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-19T06:57:08.775753Z",
+      "timestamp_utc": "2026-08-20T06:57:58.366372Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -292,7 +236,7 @@
       "paginas_visitadas": [
         "https://portal.ufrrj.br/vestibular-2016-do-cederj-oferece-mais-de-7-mil-vagas-pra-graduacao-a-distancia/"
       ],
-      "timestamp_utc": "2026-08-19T06:57:10.640008Z",
+      "timestamp_utc": "2026-08-20T06:58:00.026051Z",
       "erro": null
     },
     {
@@ -340,7 +284,7 @@
         "https://www.puc-rio.br/vestibular/202612/",
         "https://www.puc-rio.br/vestibular/202607/"
       ],
-      "timestamp_utc": "2026-08-19T06:57:15.259991Z",
+      "timestamp_utc": "2026-08-20T06:58:05.408973Z",
       "erro": null
     },
     {
@@ -501,6 +445,7 @@
         }
       ],
       "trechos_com_data": [
+        "Concursos USP (Técnico de Radiologia) – Inscrições efetivadas serão divulgadas em 18/08",
         "Concursos USP (Técnico de Manutenção) – Em 18/08, será publicado o aviso das inscrições efetivadas",
         "Concursos USP (Auxiliar de Manutenção) – Aviso das inscrições efetivadas sairá em 18/08",
         "Concursos USP – Educador (Obstetrícia) – Candidatos devem conferir o aviso das inscrições efetivadas em 18/08",
@@ -539,8 +484,7 @@
         "Resultado dos Recursos da Isenção/Redução de taxa de inscrição – Publicado em 03/11/2025",
         "Lista de Inscritos – Publicado em 24/11/2025",
         "Retificações do Edital – Publicado em 24/11/2025",
-        "Resultado dos Recursos da Lista de Inscritos – Publicado em 28/11/2025",
-        "Prova, Gabarito e Respostas Esperadas – Publicado em 08/12/2025"
+        "Resultado dos Recursos da Lista de Inscritos – Publicado em 28/11/2025"
       ],
       "paginas_visitadas": [
         "https://www.fuvest.br/",
@@ -551,7 +495,7 @@
         "https://www.fuvest.br/auxiliar-manutencao-obras-2026",
         "https://www.fuvest.br/auxiliar-manutencao-obras-2025-2"
       ],
-      "timestamp_utc": "2026-08-19T06:57:25.266186Z",
+      "timestamp_utc": "2026-08-20T06:58:15.197533Z",
       "erro": null
     },
     {
@@ -713,7 +657,7 @@
         "https://www.comvest.unicamp.br/abertas-as-inscricoes-para-o-vestibular-unicamp-2027-ate-31-de-agosto/",
         "https://www.comvest.unicamp.br/vestibular-2027-solicitaacao-de-reducao-parcial-da-taxa-de-5-a-7-de-agosto/"
       ],
-      "timestamp_utc": "2026-08-19T06:57:42.107262Z",
+      "timestamp_utc": "2026-08-20T06:58:32.075104Z",
       "erro": null
     },
     {
@@ -724,7 +668,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-19T06:58:02.104655Z",
+      "timestamp_utc": "2026-08-20T06:58:52.240079Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -735,7 +679,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-19T06:58:03.915249Z",
+      "timestamp_utc": "2026-08-20T06:58:54.008384Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -902,7 +846,7 @@
         "https://nucvest.com.br/vestibular/unisalesiano/2026/inverno/index.html",
         "https://nucvest.com.br/vestibular/faculdade-direito-franca/2026/index.html"
       ],
-      "timestamp_utc": "2026-08-19T06:58:06.295585Z",
+      "timestamp_utc": "2026-08-20T06:58:56.523538Z",
       "erro": null
     }
   ]
