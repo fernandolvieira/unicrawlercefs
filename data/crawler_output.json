@@ -1,8 +1,8 @@
 {
-  "gerado_em_utc": "2026-08-27T17:36:37.161497Z",
+  "gerado_em_utc": "2026-08-28T18:32:19.815498Z",
   "total_instituicoes": 20,
-  "ok": 7,
-  "com_erro": 13,
+  "ok": 6,
+  "com_erro": 14,
   "resultados": [
     {
       "id": "ufmg",
@@ -12,7 +12,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-27T17:33:38.854628Z",
+      "timestamp_utc": "2026-08-28T18:30:34.372152Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -84,7 +84,7 @@
         "https://www2.ufjf.br/copese/vestibular-pism-2/pism-2027/",
         "https://www2.ufjf.br/noticias/2026/08/11/inscricoes-para-o-pism-e-vestibular-de-musica-terminam-nesta-sexta-14/"
       ],
-      "timestamp_utc": "2026-08-27T17:33:41.078459Z",
+      "timestamp_utc": "2026-08-28T18:30:36.433845Z",
       "erro": null
     },
     {
@@ -95,7 +95,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-27T17:33:57.558091Z",
+      "timestamp_utc": "2026-08-28T18:30:50.421545Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -106,7 +106,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-27T17:33:59.427298Z",
+      "timestamp_utc": "2026-08-28T18:30:52.176111Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -117,7 +117,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-27T17:34:01.528778Z",
+      "timestamp_utc": "2026-08-28T18:30:54.329814Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -128,7 +128,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-27T17:34:05.444018Z",
+      "timestamp_utc": "2026-08-28T18:30:57.726651Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -139,7 +139,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-27T17:34:27.307470Z",
+      "timestamp_utc": "2026-08-28T18:31:00.015726Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -150,7 +150,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-27T17:34:29.743482Z",
+      "timestamp_utc": "2026-08-28T18:31:02.139257Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -225,7 +225,7 @@
         "https://www.fumec.br/vestibular-fumec/",
         "https://www.fumec.br/extensao/editais/"
       ],
-      "timestamp_utc": "2026-08-27T17:34:31.468949Z",
+      "timestamp_utc": "2026-08-28T18:31:03.840153Z",
       "erro": null
     },
     {
@@ -236,7 +236,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-27T17:34:37.626707Z",
+      "timestamp_utc": "2026-08-28T18:31:09.432551Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -247,7 +247,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-27T17:34:39.555267Z",
+      "timestamp_utc": "2026-08-28T18:31:11.254508Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -258,7 +258,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-27T17:34:41.393503Z",
+      "timestamp_utc": "2026-08-28T18:31:13.309026Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -269,7 +269,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-27T17:34:43.617482Z",
+      "timestamp_utc": "2026-08-28T18:31:15.417573Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -280,7 +280,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-27T17:34:45.985287Z",
+      "timestamp_utc": "2026-08-28T18:31:17.159522Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -307,7 +307,7 @@
         "https://www.puc-rio.br/vestibular/index.html",
         "https://www.puc-rio.br/vestibular/202612/"
       ],
-      "timestamp_utc": "2026-08-27T17:35:08.043728Z",
+      "timestamp_utc": "2026-08-28T18:31:23.956694Z",
       "erro": null
     },
     {
@@ -516,9 +516,9 @@
         "https://www.fuvest.br/auxiliar-laboratorio-2025-2/",
         "https://www.fuvest.br/acervo-concursos-2025-auxiliar-de-laboratorio/",
         "https://www.fuvest.br/auxiliar-manutencao-obras-2026",
-        "https://www.fuvest.br/auxiliar-manutencao-obras-2025-2/"
+        "https://www.fuvest.br/auxiliar-manutencao-obras-2025-2"
       ],
-      "timestamp_utc": "2026-08-27T17:35:16.278409Z",
+      "timestamp_utc": "2026-08-28T18:31:30.978271Z",
       "erro": null
     },
     {
@@ -683,7 +683,7 @@
         "https://www.comvest.unicamp.br/abertas-as-inscricoes-para-o-vestibular-unicamp-2027-ate-31-de-agosto/",
         "https://www.comvest.unicamp.br/vestibular-2027-solicitaacao-de-reducao-parcial-da-taxa-de-5-a-7-de-agosto/"
       ],
-      "timestamp_utc": "2026-08-27T17:35:38.189429Z",
+      "timestamp_utc": "2026-08-28T18:31:47.344961Z",
       "erro": null
     },
     {
@@ -694,65 +694,19 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-08-27T17:35:59.374722Z",
+      "timestamp_utc": "2026-08-28T18:32:06.705266Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
       "id": "mackenzie",
       "sigla": "Mackenzie",
       "url_vestibular_consultada": "https://vestibular.mackenzie.br/",
-      "status": "ok",
-      "pdfs_encontrados": [
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/OI-DG_15-2026_Edital_Vestibular_Agendado_2026.2__1_.pdf",
-          "texto_ancora": "Edital",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/OI-DG_12-2026_Edital_ENEM_2026.2__2_.pdf",
-          "texto_ancora": "Edital",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/OI-DG_14-2026_Edital_Transf_2_Grad_2026.2__1_.pdf",
-          "texto_ancora": "Edital",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/OI-DG_13-2026_Edital_Passaporte_Mackenzie_2026.2__1_.pdf",
-          "texto_ancora": "Edital",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/top/biblioteca/2018/documentos/Regulamento_biblioteca.pdf",
-          "texto_ancora": "Regulamento",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/1-mackenzie/faculdades/curitiba/institucional/CODIGO_ETICA_IPM.pdf",
-          "texto_ancora": "Código de Ética",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/1-mackenzie/codigo-de-etica/C%c3%b3digo_de_%c3%89tica_2024.pdf",
-          "texto_ancora": "Código de Ética",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/user_upload/ebook_extensao.pdf",
-          "texto_ancora": "Projetos de Extensão - Caderno",
-          "relevante_por_palavra_chave": false
-        }
-      ],
+      "status": "erro",
+      "pdfs_encontrados": [],
       "trechos_com_data": [],
-      "paginas_visitadas": [
-        "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao/",
-        "https://www.mackenzie.br/faculdades/rio",
-        "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao/ead",
-        "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao/brasilia"
-      ],
-      "timestamp_utc": "2026-08-27T17:36:00.979366Z",
-      "erro": null
+      "paginas_visitadas": [],
+      "timestamp_utc": "2026-08-28T18:32:08.381483Z",
+      "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
       "id": "puc-sp",
@@ -918,7 +872,7 @@
         "https://nucvest.com.br/vestibular/unisalesiano/2026/inverno/index.html",
         "https://nucvest.com.br/vestibular/faculdade-direito-franca/2026/index.html"
       ],
-      "timestamp_utc": "2026-08-27T17:36:26.669313Z",
+      "timestamp_utc": "2026-08-28T18:32:10.622778Z",
       "erro": null
     }
   ]
