@@ -1,8 +1,8 @@
 {
-  "gerado_em_utc": "2026-09-01T11:33:30.468044Z",
+  "gerado_em_utc": "2026-09-02T11:08:45.004192Z",
   "total_instituicoes": 20,
-  "ok": 7,
-  "com_erro": 13,
+  "ok": 6,
+  "com_erro": 14,
   "resultados": [
     {
       "id": "ufmg",
@@ -12,7 +12,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-01T11:31:02.438719Z",
+      "timestamp_utc": "2026-09-02T11:06:10.617393Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -84,7 +84,7 @@
         "https://www2.ufjf.br/copese/vestibular-pism-2/pism-2027/",
         "https://www2.ufjf.br/noticias/2026/08/11/inscricoes-para-o-pism-e-vestibular-de-musica-terminam-nesta-sexta-14/"
       ],
-      "timestamp_utc": "2026-09-01T11:31:04.525206Z",
+      "timestamp_utc": "2026-09-02T11:06:12.896592Z",
       "erro": null
     },
     {
@@ -95,7 +95,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-01T11:31:19.016544Z",
+      "timestamp_utc": "2026-09-02T11:06:27.400233Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -106,7 +106,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-01T11:31:20.812530Z",
+      "timestamp_utc": "2026-09-02T11:06:29.239980Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -117,7 +117,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-01T11:31:22.986810Z",
+      "timestamp_utc": "2026-09-02T11:06:31.419820Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -128,7 +128,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-01T11:31:26.726900Z",
+      "timestamp_utc": "2026-09-02T11:06:35.107399Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -139,7 +139,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-01T11:31:28.828042Z",
+      "timestamp_utc": "2026-09-02T11:06:37.251619Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -150,83 +150,19 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-01T11:31:31.115219Z",
+      "timestamp_utc": "2026-09-02T11:06:39.723130Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
       "id": "fumec",
       "sigla": "FUMEC",
       "url_vestibular_consultada": "https://www.fumec.br/vestibular",
-      "status": "ok",
-      "pdfs_encontrados": [
-        {
-          "url": "http://www.fumec.br/wp-content/uploads/2023/07/EDITAL-EXTENSAO-FUMEC-No-01-2023.pdf",
-          "texto_ancora": "Edital ProExt N° 01/2023",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.fumec.br/wp-content/uploads/2023/04/Edital_ProExt_01_2019.pdf",
-          "texto_ancora": "Edital ProExt Nº 01/2019​",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.fumec.br/wp-content/uploads/2023/04/edital_01-2017_1.pdf",
-          "texto_ancora": "Edital ProExt Nº 01/2017",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.fumec.br/wp-content/uploads/2023/04/EDITAL_ProExt_N._01-2016r.pdf",
-          "texto_ancora": "Edital ProExt​ Nº 01 /201​6​",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.fumec.br/wp-content/uploads/2023/04/Termo_aditivo_ao_edital_01-2016.pdf",
-          "texto_ancora": "Termo Aditivo ao Edital Nº 01/2016",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.fumec.br/wp-content/uploads/2023/04/edital_alunos_02-2016_anexos_I-II-III.pdf",
-          "texto_ancora": "Edital dos alunos 02-2016 e anexos I, II e III",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "http://www.fumec.br/wp-content/uploads/2024/01/MANUAL-BOLSAS-1-2024.pdf",
-          "texto_ancora": "Manual Unificado",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://www.fumec.br/wp-content/uploads/2026/04/Manua_FUMEC_2025.pdf",
-          "texto_ancora": "Manual de Aplicação da Marca",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://www.fumec.br/wp-content/uploads/2023/04/Portaria_N_011_2020_CoEXT.pdf",
-          "texto_ancora": "Portaria 011/2020​ (Projetos Integradores)",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://www.fumec.br/wp-content/uploads/2023/04/Financiar_Premio_3M_para_Estudantes.pdf",
-          "texto_ancora": "Prêmio 3M para estudantes",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://www.fumec.br/wp-content/uploads/2023/04/Financiar_Natura.pdf",
-          "texto_ancora": "Financiar Natura",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://www.fumec.br/wp-content/uploads/2023/04/Financiar_Premio_Hugo_Werneck.pdf",
-          "texto_ancora": "Financiar Premio Hugo Werneck",
-          "relevante_por_palavra_chave": false
-        }
-      ],
+      "status": "erro",
+      "pdfs_encontrados": [],
       "trechos_com_data": [],
-      "paginas_visitadas": [
-        "https://www.fumec.br/vestibular-fumec/",
-        "https://www.fumec.br/extensao/editais/"
-      ],
-      "timestamp_utc": "2026-09-01T11:31:32.819275Z",
-      "erro": null
+      "paginas_visitadas": [],
+      "timestamp_utc": "2026-09-02T11:06:41.437940Z",
+      "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
       "id": "uniptan-afya",
@@ -236,7 +172,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-01T11:31:38.676016Z",
+      "timestamp_utc": "2026-09-02T11:07:03.151113Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -247,7 +183,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-01T11:31:40.679120Z",
+      "timestamp_utc": "2026-09-02T11:07:05.296516Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -258,7 +194,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-01T11:31:42.492644Z",
+      "timestamp_utc": "2026-09-02T11:07:07.116674Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -269,7 +205,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-01T11:31:44.764795Z",
+      "timestamp_utc": "2026-09-02T11:07:09.234676Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -280,7 +216,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-01T11:31:46.666863Z",
+      "timestamp_utc": "2026-09-02T11:07:11.212436Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -307,7 +243,7 @@
         "https://www.puc-rio.br/vestibular/index.html",
         "https://www.puc-rio.br/vestibular/202612/"
       ],
-      "timestamp_utc": "2026-09-01T11:31:50.652751Z",
+      "timestamp_utc": "2026-09-02T11:07:15.803416Z",
       "erro": null
     },
     {
@@ -518,7 +454,7 @@
         "https://www.fuvest.br/auxiliar-manutencao-obras-2026",
         "https://www.fuvest.br/auxiliar-manutencao-obras-2025-2"
       ],
-      "timestamp_utc": "2026-09-01T11:31:58.420991Z",
+      "timestamp_utc": "2026-09-02T11:07:24.057324Z",
       "erro": null
     },
     {
@@ -664,6 +600,7 @@
         "8 de Setembro de 2026 – Último dia para pagamento da Taxa de Inscrição. (VESTIBULAR UNICAMP 2027)",
         "16 de Setembro de 2026 – Resultados dos recursos PCD e condições específicas. (VESTIBULAR UNICAMP 2027)",
         "14 a 30 de Setembro de 2026 – Provas de Habilidades Específicas do curso de Música (envio de vídeos).",
+        "04 de Novembro de 2026 – Divulgação dos aprovados na prova de Habilidades Específicas para os cursos de Música",
         "02, 03 e 04 de Dezembro de 2026 – Provas de Habilidades Específicas (exceto Música)",
         "25 de Janeiro de 2027 – Divulgação dos aprovados em 1ª chamada",
         "27 de Janeiro de 2027 – Banca Recursal da Averiguação dos convocados para vagas reservadas às cotas étnico-raciais da 1ª chamada",
@@ -687,7 +624,7 @@
         "https://www.comvest.unicamp.br/abertas-as-inscricoes-para-o-vestibular-sem-segredo-voltado-a-professores-o-evento-acontece-no-dia-12-9/",
         "https://www.comvest.unicamp.br/abertas-as-inscricoes-para-o-vestibular-unicamp-2027-ate-31-de-agosto/"
       ],
-      "timestamp_utc": "2026-09-01T11:32:16.060912Z",
+      "timestamp_utc": "2026-09-02T11:07:43.167315Z",
       "erro": null
     },
     {
@@ -698,7 +635,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-01T11:32:37.014036Z",
+      "timestamp_utc": "2026-09-02T11:08:04.365213Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -761,6 +698,26 @@
           "url": "https://www.mackenzie.br/fileadmin/user_upload/ebook_extensao.pdf",
           "texto_ancora": "Projetos de Extensão - Caderno",
           "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.mackenzie.br/fileadmin/user_upload/Ensino_Fundamental_I.pdf",
+          "texto_ancora": "Ensino Fundamental I",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.mackenzie.br/fileadmin/user_upload/Ensino_Fundamental_II.pdf",
+          "texto_ancora": "Ensino Fundamental II",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.mackenzie.br/fileadmin/user_upload/Ensino_Medio.pdf",
+          "texto_ancora": "Ensino Médio",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.mackenzie.br/fileadmin/Editais-Colegios/DC-COJUR-474_-_Edital_de_novas_matrícula_-_2_semestre_de_2026.pdf",
+          "texto_ancora": "Matrícula 2026 - Alunos novos",
+          "relevante_por_palavra_chave": false
         }
       ],
       "trechos_com_data": [
@@ -771,11 +728,12 @@
         "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao/",
         "https://www.mackenzie.br/faculdades/rio",
         "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao",
+        "https://www.mackenzie.br/colegios/aeja/processo-seletivo",
         "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao/medicina",
         "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao/ead",
         "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao/brasilia"
       ],
-      "timestamp_utc": "2026-09-01T11:32:38.915868Z",
+      "timestamp_utc": "2026-09-02T11:08:06.149297Z",
       "erro": null
     },
     {
@@ -942,7 +900,7 @@
         "https://nucvest.com.br/vestibular/unisalesiano/2026/inverno/index.html",
         "https://nucvest.com.br/vestibular/faculdade-direito-franca/2026/index.html"
       ],
-      "timestamp_utc": "2026-09-01T11:33:20.744114Z",
+      "timestamp_utc": "2026-09-02T11:08:34.789139Z",
       "erro": null
     }
   ]
