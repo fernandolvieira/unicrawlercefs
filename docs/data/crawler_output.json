@@ -1,8 +1,8 @@
 {
-  "gerado_em_utc": "2026-09-06T10:46:30.450617Z",
+  "gerado_em_utc": "2026-09-07T12:16:59.937493Z",
   "total_instituicoes": 20,
-  "ok": 6,
-  "com_erro": 14,
+  "ok": 7,
+  "com_erro": 13,
   "resultados": [
     {
       "id": "ufmg",
@@ -12,7 +12,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-06T10:44:39.627868Z",
+      "timestamp_utc": "2026-09-07T12:14:45.328552Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -84,7 +84,7 @@
         "https://www2.ufjf.br/copese/vestibular-pism-2/pism-2027/",
         "https://www2.ufjf.br/noticias/2026/08/11/inscricoes-para-o-pism-e-vestibular-de-musica-terminam-nesta-sexta-14/"
       ],
-      "timestamp_utc": "2026-09-06T10:44:41.686014Z",
+      "timestamp_utc": "2026-09-07T12:14:47.460759Z",
       "erro": null
     },
     {
@@ -95,7 +95,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-06T10:44:55.917021Z",
+      "timestamp_utc": "2026-09-07T12:15:02.238961Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -106,7 +106,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-06T10:44:57.692693Z",
+      "timestamp_utc": "2026-09-07T12:15:04.065721Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -117,7 +117,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-06T10:44:59.813444Z",
+      "timestamp_utc": "2026-09-07T12:15:06.269941Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -128,7 +128,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-06T10:45:03.409848Z",
+      "timestamp_utc": "2026-09-07T12:15:09.684054Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -139,7 +139,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-06T10:45:05.466558Z",
+      "timestamp_utc": "2026-09-07T12:15:11.842876Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -150,7 +150,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-06T10:45:07.673086Z",
+      "timestamp_utc": "2026-09-07T12:15:14.156522Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -225,7 +225,7 @@
         "https://www.fumec.br/vestibular-fumec/",
         "https://www.fumec.br/extensao/editais/"
       ],
-      "timestamp_utc": "2026-09-06T10:45:09.335537Z",
+      "timestamp_utc": "2026-09-07T12:15:15.886594Z",
       "erro": null
     },
     {
@@ -236,7 +236,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-06T10:45:14.838348Z",
+      "timestamp_utc": "2026-09-07T12:15:22.109325Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -247,7 +247,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-06T10:45:16.655657Z",
+      "timestamp_utc": "2026-09-07T12:15:24.147692Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -258,7 +258,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-06T10:45:18.409136Z",
+      "timestamp_utc": "2026-09-07T12:15:25.969166Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -269,7 +269,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-06T10:45:20.568748Z",
+      "timestamp_utc": "2026-09-07T12:15:28.111380Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -280,7 +280,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-06T10:45:22.490016Z",
+      "timestamp_utc": "2026-09-07T12:15:29.942106Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -307,7 +307,7 @@
         "https://www.puc-rio.br/vestibular/index.html",
         "https://www.puc-rio.br/vestibular/202612/"
       ],
-      "timestamp_utc": "2026-09-06T10:45:26.607815Z",
+      "timestamp_utc": "2026-09-07T12:15:34.122578Z",
       "erro": null
     },
     {
@@ -518,7 +518,7 @@
         "https://www.fuvest.br/auxiliar-manutencao-obras-2026",
         "https://www.fuvest.br/auxiliar-manutencao-obras-2025-2"
       ],
-      "timestamp_utc": "2026-09-06T10:45:34.069140Z",
+      "timestamp_utc": "2026-09-07T12:15:41.964292Z",
       "erro": null
     },
     {
@@ -688,7 +688,7 @@
         "https://www.comvest.unicamp.br/abertas-as-inscricoes-para-o-vestibular-sem-segredo-voltado-a-professores-o-evento-acontece-no-dia-12-9/",
         "https://www.comvest.unicamp.br/abertas-as-inscricoes-para-o-vestibular-unicamp-2027-ate-31-de-agosto/"
       ],
-      "timestamp_utc": "2026-09-06T10:45:51.668397Z",
+      "timestamp_utc": "2026-09-07T12:16:00.430325Z",
       "erro": null
     },
     {
@@ -699,19 +699,106 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-06T10:46:11.064903Z",
+      "timestamp_utc": "2026-09-07T12:16:21.486579Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
       "id": "mackenzie",
       "sigla": "Mackenzie",
       "url_vestibular_consultada": "https://vestibular.mackenzie.br/",
-      "status": "erro",
-      "pdfs_encontrados": [],
-      "trechos_com_data": [],
-      "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-06T10:46:12.727242Z",
-      "erro": "Não foi possível acessar a página principal do vestibular."
+      "status": "ok",
+      "pdfs_encontrados": [
+        {
+          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/2-processos-seletivos/upm/VESTIBULAR_REGULAR/2026/IN_RE_082_2026_Edital_Processo_Seletivo_Transfer%C3%AAncia_Externa_2.0_2026_2_sem_MEDICINA_SCA_Assinada.pdf",
+          "texto_ancora": "EDITAL IN-RE-082/2026",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/2-processos-seletivos/upm/VESTIBULAR_REGULAR/2026/2026_1/Prova_-_Medicina_-_2026_1__semestre_-_30.10.25.pdf",
+          "texto_ancora": "PROVA VESTIBULAR MEDICINA 2026/1º - 30/10/2025",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/2-processos-seletivos/upm/VESTIBULAR_REGULAR/2026/2026_1/Gabarito_-_Medicina_-_2026_1__semestre_-_30.10.25.pdf",
+          "texto_ancora": "GABARITO VESTIBULAR MEDICINA 2026/1º - 30/10/2025",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/OI-DG_15-2026_Edital_Vestibular_Agendado_2026.2__1_.pdf",
+          "texto_ancora": "Edital",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/OI-DG_12-2026_Edital_ENEM_2026.2__2_.pdf",
+          "texto_ancora": "Edital",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/OI-DG_14-2026_Edital_Transf_2_Grad_2026.2__1_.pdf",
+          "texto_ancora": "Edital",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/OI-DG_13-2026_Edital_Passaporte_Mackenzie_2026.2__1_.pdf",
+          "texto_ancora": "Edital",
+          "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/top/biblioteca/2018/documentos/Regulamento_biblioteca.pdf",
+          "texto_ancora": "Regulamento",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/1-mackenzie/faculdades/curitiba/institucional/CODIGO_ETICA_IPM.pdf",
+          "texto_ancora": "Código de Ética",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/1-mackenzie/codigo-de-etica/C%c3%b3digo_de_%c3%89tica_2024.pdf",
+          "texto_ancora": "Código de Ética",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.mackenzie.br/fileadmin/user_upload/ebook_extensao.pdf",
+          "texto_ancora": "Projetos de Extensão - Caderno",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.mackenzie.br/fileadmin/user_upload/Ensino_Fundamental_I.pdf",
+          "texto_ancora": "Ensino Fundamental I",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.mackenzie.br/fileadmin/user_upload/Ensino_Fundamental_II.pdf",
+          "texto_ancora": "Ensino Fundamental II",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.mackenzie.br/fileadmin/user_upload/Ensino_Medio.pdf",
+          "texto_ancora": "Ensino Médio",
+          "relevante_por_palavra_chave": false
+        },
+        {
+          "url": "https://www.mackenzie.br/fileadmin/Editais-Colegios/DC-COJUR-474_-_Edital_de_novas_matrícula_-_2_semestre_de_2026.pdf",
+          "texto_ancora": "Matrícula 2026 - Alunos novos",
+          "relevante_por_palavra_chave": false
+        }
+      ],
+      "trechos_com_data": [
+        "PROVA VESTIBULAR MEDICINA 2026/1º - 30/10/2025",
+        "GABARITO VESTIBULAR MEDICINA 2026/1º - 30/10/2025"
+      ],
+      "paginas_visitadas": [
+        "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao/",
+        "https://www.mackenzie.br/faculdades/rio",
+        "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao",
+        "https://www.mackenzie.br/colegios/aeja/processo-seletivo",
+        "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao/medicina",
+        "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao/ead",
+        "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao/brasilia"
+      ],
+      "timestamp_utc": "2026-09-07T12:16:23.370108Z",
+      "erro": null
     },
     {
       "id": "puc-sp",
@@ -881,7 +968,7 @@
         "https://nucvest.com.br/pucsp/residencia-medica/2027/abad/index.html",
         "https://nucvest.com.br/pucsp/residencia-medica/2027/especialidades/index.html"
       ],
-      "timestamp_utc": "2026-09-06T10:46:16.465842Z",
+      "timestamp_utc": "2026-09-07T12:16:45.021654Z",
       "erro": null
     }
   ]
