@@ -1,8 +1,8 @@
 {
-  "gerado_em_utc": "2026-09-08T11:06:50.689877Z",
+  "gerado_em_utc": "2026-09-09T11:11:21.916050Z",
   "total_instituicoes": 20,
-  "ok": 8,
-  "com_erro": 12,
+  "ok": 7,
+  "com_erro": 13,
   "resultados": [
     {
       "id": "ufmg",
@@ -119,7 +119,7 @@
         "https://site.copeve.ufmg.br/",
         "https://site.copeve.ufmg.br/concursos/231"
       ],
-      "timestamp_utc": "2026-09-08T11:04:24.167763Z",
+      "timestamp_utc": "2026-09-09T11:09:18.147422Z",
       "erro": null
     },
     {
@@ -149,33 +149,12 @@
           "relevante_por_palavra_chave": true
         },
         {
-          "url": "https://www2.ufjf.br/copese/wp-content/uploads/sites/42/2026/06/10_Edital_10_2026_PISM_2027_retificado-pelo-12-2026.pdf",
-          "texto_ancora": "Edital 10/2026 – Edital do PISM 2027 – Retificado",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www2.ufjf.br/copese/wp-content/uploads/sites/42/2026/06/12_Edital-12-2026_Retifica-edital-10-2026_PISM-2027.pdf",
-          "texto_ancora": "Edital 12/2026 – Retifica Edital 10/2026",
-          "relevante_por_palavra_chave": true
-        },
-        {
           "url": "https://www2.ufjf.br/copese/wp-content/uploads/sites/42/2026/08/RESULTADO_Sele%C3%A7%C3%A3oEspecial2026-1.pdf",
           "texto_ancora": "Resultado Final",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://www2.ufjf.br/copese/wp-content/uploads/sites/42/2026/08/RESULTADO.pdf",
-          "texto_ancora": "Resultado do Recurso",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://www2.ufjf.br/copese/wp-content/uploads/sites/42/2025/05/Conte%C3%BAdo-Program%C3%A1tico-PISM-UFJF.pdf",
-          "texto_ancora": "Conteúdo programático para os candidatos que farão os módulos: I (Triênio 2026-2028), II (Triênio 2025-2027) e III (Triênio 2024-2026)",
           "relevante_por_palavra_chave": false
         }
       ],
       "trechos_com_data": [
-        ">>> Provas de todos os módulos: 05 e 06 de dezembro de 2026 <<<",
         "As provas do Pism serão aplicadas nos dias 5 e 6 de dezembro.",
         "Os candidatos que necessitam de atendimento especial para a realização das provas devem fazer a solicitação também até 14 de agosto, às 18h. O pedido deve ser realizado no ato da inscrição, com o envio da documentação comprobatória exigida pelo edital.",
         "O resultado da solicitação de atendimento especial e do pedido de uso do nome social será divulgado em 4 de setembro, a partir das 15h, na",
@@ -188,10 +167,9 @@
         "https://www2.ufjf.br/copese/vestibular-pism-2/",
         "https://www2.ufjf.br/copese/vestibular-pism-2/vestibular-de-musica-2027/",
         "https://www2.ufjf.br/copese/selecao-especial-2026/",
-        "https://www2.ufjf.br/copese/vestibular-pism-2/pism-2027/",
         "https://www2.ufjf.br/noticias/2026/08/11/inscricoes-para-o-pism-e-vestibular-de-musica-terminam-nesta-sexta-14/"
       ],
-      "timestamp_utc": "2026-09-08T11:04:29.273510Z",
+      "timestamp_utc": "2026-09-09T11:09:22.485546Z",
       "erro": null
     },
     {
@@ -202,7 +180,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-08T11:04:44.510698Z",
+      "timestamp_utc": "2026-09-09T11:09:33.890442Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -213,7 +191,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-08T11:04:46.375276Z",
+      "timestamp_utc": "2026-09-09T11:09:35.832756Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -224,7 +202,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-08T11:04:48.628817Z",
+      "timestamp_utc": "2026-09-09T11:09:37.768366Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -235,7 +213,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-08T11:04:52.531216Z",
+      "timestamp_utc": "2026-09-09T11:09:41.058894Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -246,7 +224,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-08T11:04:54.932641Z",
+      "timestamp_utc": "2026-09-09T11:09:43.055202Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -257,7 +235,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-08T11:04:58.358627Z",
+      "timestamp_utc": "2026-09-09T11:09:45.157665Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -332,7 +310,7 @@
         "https://www.fumec.br/vestibular-fumec/",
         "https://www.fumec.br/extensao/editais/"
       ],
-      "timestamp_utc": "2026-09-08T11:05:00.123138Z",
+      "timestamp_utc": "2026-09-09T11:09:46.812573Z",
       "erro": null
     },
     {
@@ -343,7 +321,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-08T11:05:06.554608Z",
+      "timestamp_utc": "2026-09-09T11:09:52.117914Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -354,7 +332,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-08T11:05:08.529164Z",
+      "timestamp_utc": "2026-09-09T11:09:53.852023Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -365,7 +343,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-08T11:05:10.692474Z",
+      "timestamp_utc": "2026-09-09T11:09:55.587667Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -376,7 +354,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-08T11:05:13.426919Z",
+      "timestamp_utc": "2026-09-09T11:09:57.687379Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -387,7 +365,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-08T11:05:15.778042Z",
+      "timestamp_utc": "2026-09-09T11:09:59.532757Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -403,7 +381,7 @@
         }
       ],
       "trechos_com_data": [
-        "InscriÃ§Ãµes abertas de 27 de julho a 07 de setembro. Provas: dias 11 e 15 de outubro.",
+        "Provas: dias 11 e 15 de outubro.",
         "InscriÃ§Ãµes de 27/07 a 07/09/2026.",
         "PoderÃ¡ ser baixado no site da inscriÃ§Ã£o a partir de 25/09/2026.",
         "No dia 06/11/2026 estarÃ£o disponÃ­veis as notas das provas.",
@@ -414,7 +392,7 @@
         "https://www.puc-rio.br/vestibular/index.html",
         "https://www.puc-rio.br/vestibular/202612/"
       ],
-      "timestamp_utc": "2026-09-08T11:05:20.131484Z",
+      "timestamp_utc": "2026-09-09T11:10:03.931210Z",
       "erro": null
     },
     {
@@ -575,12 +553,11 @@
         }
       ],
       "trechos_com_data": [
-        "Concursos USP (Auxiliar de Manutenção) – Locais da prova estarão disponíveis em 03/09",
-        "Concursos USP – Educador (Obstetrícia) – Locais das provas estarão disponíveis em 03/09",
-        "Concursos USP (Físico) – Locais das provas serão conhecidos em 03/09",
-        "Concursos USP (Técnico de Manutenção) – Em 03/09, candidatos devem ficar atentos à divulgação dos locais da prova",
-        "Concursos USP (Técnico de Radiologia) – Locais da prova serão publicados em 03/09",
-        "Proficiência em Línguas Estrangeiras – Inscrições ficarão abertas até 15/09",
+        "FMRP/USP – Candidatos aos Programas de Pós podem solicitar a redução da taxa de inscrição entre 09 e 11/09",
+        "FFLCH USP – Inscrições para o Doutorado em Sociologia devem ser feitas entre 08/09 e 22/09",
+        "FFLCH USP – FUVEST divulga em 04/09 o horário da prova para o Mestrado em Sociologia",
+        "IPUSP – FUVEST divulga em 04/09 a lista de habilitados para a realização da prova da Pós em Psicologia Clínica",
+        "IRI 2027 – Lista de candidatos habilitados para a prova sai em 04/09",
         "Inscrição: das 12h de 17/08/2026 até as 12h de 09/10/2026",
         "Regulamento para Isenção ou Redução de Taxa de Inscrição – Publicado em 04/05/2026",
         "Guia de Provas (versão em PDF) – Publicado em 17/08/2026",
@@ -614,7 +591,8 @@
         "Resultado da Isenção/Redução de Taxa de Inscrição – Publicado em 22/10/2025",
         "Resultado dos Recursos da Isenção/Redução de taxa de inscrição – Publicado em 03/11/2025",
         "Lista de Inscritos – Publicado em 24/11/2025",
-        "Retificações do Edital – Publicado em 24/11/2025"
+        "Retificações do Edital – Publicado em 24/11/2025",
+        "Resultado dos Recursos da Lista de Inscritos – Publicado em 28/11/2025"
       ],
       "paginas_visitadas": [
         "https://www.fuvest.br/",
@@ -625,7 +603,7 @@
         "https://www.fuvest.br/auxiliar-manutencao-obras-2026",
         "https://www.fuvest.br/auxiliar-manutencao-obras-2025-2"
       ],
-      "timestamp_utc": "2026-09-08T11:05:28.369411Z",
+      "timestamp_utc": "2026-09-09T11:10:10.827121Z",
       "erro": null
     },
     {
@@ -795,7 +773,7 @@
         "https://www.comvest.unicamp.br/abertas-as-inscricoes-para-o-vestibular-sem-segredo-voltado-a-professores-o-evento-acontece-no-dia-12-9/",
         "https://www.comvest.unicamp.br/abertas-as-inscricoes-para-o-vestibular-unicamp-2027-ate-31-de-agosto/"
       ],
-      "timestamp_utc": "2026-09-08T11:05:47.972817Z",
+      "timestamp_utc": "2026-09-09T11:10:27.298122Z",
       "erro": null
     },
     {
@@ -806,7 +784,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-08T11:06:10.559866Z",
+      "timestamp_utc": "2026-09-09T11:10:45.655097Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -904,179 +882,19 @@
         "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao/ead",
         "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao/brasilia"
       ],
-      "timestamp_utc": "2026-09-08T11:06:12.335978Z",
+      "timestamp_utc": "2026-09-09T11:10:47.332290Z",
       "erro": null
     },
     {
       "id": "puc-sp",
       "sigla": "PUC-SP",
       "url_vestibular_consultada": "https://www.pucsp.br/vestibular",
-      "status": "ok",
-      "pdfs_encontrados": [
-        {
-          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2027/verao/xxx.pdf",
-          "texto_ancora": "RelaÃ§Ã£o Vestibular de VerÃ£o 2027",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2025/verao/relacao_candidato_vaga_VestibularPUC2025verao.pdf",
-          "texto_ancora": "RelaÃ§Ã£o Vestibular de VerÃ£o 2026",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2027/verao/EDITAL-01-2026-PROCESSO-SELETIVO-DE-VERAO-VESTIBULAR-PRESENCIAL-01-SEMESTRE-DE-2-0207.pdf",
-          "texto_ancora": "Edital 01/2026(leitura obrigatÃ³ria)",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2027/verao/1o-Termo-Aditivo-Edital-Vestibular-PUCSP-Verao-2027.pdf",
-          "texto_ancora": "1Âº Termo Aditivo - Edital 01/2026(leitura obrigatÃ³ria)",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2027/verao/02-Termo-Aditivo-Edital-01-2026-Processo-Seletivo-de-Verao-Vestibular-Presencial-01sem-2027.pdf",
-          "texto_ancora": "2Âº Termo Aditivo - Edital 01/2026(leitura obrigatÃ³ria)",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2027/verao/Manual-Candidato-Vestibular-Verao-2027.pdf",
-          "texto_ancora": "Manual do Candidato(leitura obrigatÃ³ria)",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www5.pucsp.br/fundasp/downloads/politica_privacidade_vestibular.pdf",
-          "texto_ancora": "PolÃ­tica de Privacidade - Vestibular",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/vestibulares-externos/unisalesiano/2026/inverno/Relacao-candidato-e-vaga-UniSalesiano-Processo-Seletivo-do-curso-de-Medicina-2o-2026.pdf",
-          "texto_ancora": "Vestibular UniSALESIANO - Medicina Inverno 2026",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/vestibulares-externos/unisalesiano/2026/inverno/Edital-no-08-2026-Proc-Seletivo-Medicina-2o-Semestre-2026.pdf",
-          "texto_ancora": "Edital 08/2026(leitura obrigatÃ³ria)",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/vestibulares-externos/faculdade-direito-franca/2026/relacao-candidato-vaga-franca2026-em-22122025.pdf",
-          "texto_ancora": "RelaÃ§Ã£o Vestibular FDF 2026",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/vestibulares-externos/faculdade-direito-franca/2026/Edital-054-2025-VESTIBULAR-2026-FDF.pdf",
-          "texto_ancora": "Edital 54/2025(leitura obrigatÃ³ria)",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/vestibulares-externos/faculdade-direito-franca/2026/RerratificacaoN02Edital_0542025.pdf",
-          "texto_ancora": "RerratificaÃ§Ã£o do Edital nÂº02 do edital nÂº054/2025(leitura obrigatÃ³ria)",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/vestibulares-externos/faculdade-direito-franca/2026/1_RERRATIFICACAO_DE_EDITAL_01.pdf",
-          "texto_ancora": "RerratificaÃ§Ã£o do Edital nÂº 054/2025(leitura obrigatÃ³ria)",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/pucsp/residencia-medica/2027/abad/Edital-RM-2027-ABAD.pdf",
-          "texto_ancora": "Edital NÂº 01/2026(leitura obrigatÃ³ria)",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/pucsp/residencia-medica/2027/abad/Manual-RM-2027-ABAD.pdf",
-          "texto_ancora": "Manual do Candidato(leitura obrigatÃ³ria)",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/pucsp/residencia-medica/2027/especialidades/Edital-RM-2027-Especialidades.pdf",
-          "texto_ancora": "Edital nÂº01/2026(leitura obrigatÃ³ria)",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/pucsp/residencia-medica/2027/especialidades/Manual-Candidato-2027-Especialidades.pdf",
-          "texto_ancora": "Manual do Candidato(leitura obrigatÃ³ria)",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2027/verao/Quadro-de-Cursos-e-Vagas-Vestibular-PUCSP-Verao-2027.pdf",
-          "texto_ancora": "Clique aqui",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://matricula.pucsp.br/doc/chamadas/8a-chamada/8chamada_PUC2026verao.pdf",
-          "texto_ancora": "Clique aqui",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2026/inverno/gabarito-e-prova/PUCSP-inverno-2026-A4-v2-direito-autoral-dig.pdf",
-          "texto_ancora": "",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2026/inverno/gabarito-e-prova/PUC-Inverno-2026-Gabarito.pdf",
-          "texto_ancora": "",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2026/verao/gabarito-e-prova/PUC-SP-Verao-2026-A4-v2-direito-autoral-digital.pdf",
-          "texto_ancora": "",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2026/verao/gabarito-e-prova/PUC-Verao-2026-Gabarito.pdf",
-          "texto_ancora": "",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2025/inverno/PUCSP-inverno-2025-A4-v2-direito-autoral-digital.pdf",
-          "texto_ancora": "",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2025/inverno/PUC-Inverno-2025-Gabarito.pdf",
-          "texto_ancora": "",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2025/verao/gabarito-e-prova/PUC-SP-verao-2025-A4-DIREITO-AUTORAL.pdf",
-          "texto_ancora": "",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2025/verao/gabarito-e-prova/PUC-Verao-2025-Gabarito-Republicado.pdf",
-          "texto_ancora": "",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2024/inverno/PUCSP-INVERNO-2024-A4-v1-direito-autoral.pdf",
-          "texto_ancora": "",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2024/inverno/PUCSP-Inverno-2024-Gabarito-Retificado.pdf",
-          "texto_ancora": "",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://nucvest.com.br/downloads/pucsp/vestibular/2024/verao/PUC-SP-Verao-2024-A4-v1.pdf",
-          "texto_ancora": "",
-          "relevante_por_palavra_chave": false
-        }
-      ],
-      "trechos_com_data": [
-        "Data da prova: 08/01/2024, segunda-feira"
-      ],
-      "paginas_visitadas": [
-        "https://nucvest.com.br",
-        "https://nucvest.com.br/pucsp/vestibular/2027/verao/index.html",
-        "https://nucvest.com.br/vestibular/unisalesiano/2026/inverno/index.html",
-        "https://nucvest.com.br/vestibular/faculdade-direito-franca/2026/index.html",
-        "https://nucvest.com.br/pucsp/residencia-medica/2027/abad/index.html",
-        "https://nucvest.com.br/pucsp/residencia-medica/2027/especialidades/index.html"
-      ],
-      "timestamp_utc": "2026-09-08T11:06:35.530171Z",
-      "erro": null
+      "status": "erro",
+      "pdfs_encontrados": [],
+      "trechos_com_data": [],
+      "paginas_visitadas": [],
+      "timestamp_utc": "2026-09-09T11:11:19.312033Z",
+      "erro": "Não foi possível acessar a página principal do vestibular."
     }
   ]
 }
