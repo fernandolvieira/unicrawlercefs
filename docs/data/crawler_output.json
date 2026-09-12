@@ -1,5 +1,5 @@
 {
-  "gerado_em_utc": "2026-09-11T11:06:25.474815Z",
+  "gerado_em_utc": "2026-09-12T10:35:19.420750Z",
   "total_instituicoes": 20,
   "ok": 7,
   "com_erro": 13,
@@ -24,6 +24,11 @@
           "url": "https://backend.copeve.ufmg.br/uploads/TAE_3428_2025_Resultado_Final_Classificados_Provisoriamente_Tecnico_Assuntos_Educacionais_Pc_D_9d82b3d099.pdf",
           "texto_ancora": "Retificação do Resultado Final dos Candidatos Classificados Provisoriamente - Pessoas com Deficiência (publicado em 26/06/2026 às 17:20)",
           "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://backend.copeve.ufmg.br/uploads/TAE_3438_2025_Resultado_Final_Classificao_Pc_D_Assist_Administracao_Sub_Judice_de6b949594.pdf",
+          "texto_ancora": "Resultado Final - Assistente em Administração - Pessoas com Deficiência - Decisão Judicial (publicado em 11/09/2026 às 11:15)",
+          "relevante_por_palavra_chave": false
         },
         {
           "url": "https://backend.copeve.ufmg.br/uploads/TAE_3428_2025_Classificacao_Tec_Contabilidade_Retificacao_01539d5a2f.pdf",
@@ -107,6 +112,7 @@
         }
       ],
       "trechos_com_data": [
+        "Resultado Final - Assistente em Administração - Pessoas com Deficiência - Decisão Judicial (publicado em 11/09/2026 às 11:15)",
         "Retificação do Resultado Preliminar - Candidatos PcD - Decisão Judicial (publicado em 10/09/2026 às 16:34)",
         "Retificação do Resultado Preliminar - Ampla Concorrência - Decisão Judicial (publicado em 10/09/2026 às 16:32)",
         "Resultado Final - Técnico em Contabilidade - Pessoas com Deficiência (publicado em 03/08/2026 às 13:15)",
@@ -131,7 +137,7 @@
         "https://site.copeve.ufmg.br/",
         "https://site.copeve.ufmg.br/concursos/231"
       ],
-      "timestamp_utc": "2026-09-11T11:04:23.164766Z",
+      "timestamp_utc": "2026-09-12T10:33:12.932281Z",
       "erro": null
     },
     {
@@ -173,7 +179,7 @@
         "https://www2.ufjf.br/copese/vestibular-pism-2/vestibular-de-musica-2027/",
         "https://www2.ufjf.br/copese/selecao-especial-2026/"
       ],
-      "timestamp_utc": "2026-09-11T11:04:28.002355Z",
+      "timestamp_utc": "2026-09-12T10:33:18.000338Z",
       "erro": null
     },
     {
@@ -184,7 +190,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-11T11:04:37.030454Z",
+      "timestamp_utc": "2026-09-12T10:33:28.076454Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -195,7 +201,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-11T11:04:38.798019Z",
+      "timestamp_utc": "2026-09-12T10:33:29.926633Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -206,7 +212,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-11T11:04:40.737476Z",
+      "timestamp_utc": "2026-09-12T10:33:32.174921Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -217,7 +223,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-11T11:04:44.041816Z",
+      "timestamp_utc": "2026-09-12T10:33:36.025819Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -228,7 +234,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-11T11:04:46.045977Z",
+      "timestamp_utc": "2026-09-12T10:33:38.233796Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -239,7 +245,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-11T11:04:48.177408Z",
+      "timestamp_utc": "2026-09-12T10:33:40.638253Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -314,7 +320,7 @@
         "https://www.fumec.br/vestibular-fumec/",
         "https://www.fumec.br/extensao/editais/"
       ],
-      "timestamp_utc": "2026-09-11T11:04:49.849338Z",
+      "timestamp_utc": "2026-09-12T10:33:42.387188Z",
       "erro": null
     },
     {
@@ -325,7 +331,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-11T11:04:55.175367Z",
+      "timestamp_utc": "2026-09-12T10:33:48.277422Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -336,7 +342,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-11T11:04:56.911868Z",
+      "timestamp_utc": "2026-09-12T10:33:50.258891Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -347,7 +353,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-11T11:04:58.652475Z",
+      "timestamp_utc": "2026-09-12T10:33:51.928918Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -358,7 +364,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-11T11:05:00.648944Z",
+      "timestamp_utc": "2026-09-12T10:33:54.130682Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -369,7 +375,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-11T11:05:02.501446Z",
+      "timestamp_utc": "2026-09-12T10:33:56.104304Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -396,7 +402,7 @@
         "https://www.puc-rio.br/vestibular/index.html",
         "https://www.puc-rio.br/vestibular/202612/"
       ],
-      "timestamp_utc": "2026-09-11T11:05:06.583174Z",
+      "timestamp_utc": "2026-09-12T10:34:00.766320Z",
       "erro": null
     },
     {
@@ -607,7 +613,7 @@
         "https://www.fuvest.br/auxiliar-manutencao-obras-2026",
         "https://www.fuvest.br/auxiliar-manutencao-obras-2025-2"
       ],
-      "timestamp_utc": "2026-09-11T11:05:13.725578Z",
+      "timestamp_utc": "2026-09-12T10:34:09.039651Z",
       "erro": null
     },
     {
@@ -777,7 +783,7 @@
         "https://www.comvest.unicamp.br/abertas-as-inscricoes-para-o-vestibular-sem-segredo-voltado-a-professores-o-evento-acontece-no-dia-12-9/",
         "https://www.comvest.unicamp.br/abertas-as-inscricoes-para-o-vestibular-unicamp-2027-ate-31-de-agosto/"
       ],
-      "timestamp_utc": "2026-09-11T11:05:29.964501Z",
+      "timestamp_utc": "2026-09-12T10:34:29.056439Z",
       "erro": null
     },
     {
@@ -788,7 +794,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-11T11:05:48.664708Z",
+      "timestamp_utc": "2026-09-12T10:34:49.753945Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -958,7 +964,7 @@
         "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao/brasilia",
         "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao/curitiba"
       ],
-      "timestamp_utc": "2026-09-11T11:05:50.358141Z",
+      "timestamp_utc": "2026-09-12T10:34:51.548300Z",
       "erro": null
     },
     {
@@ -969,7 +975,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-11T11:06:22.807360Z",
+      "timestamp_utc": "2026-09-12T10:35:16.313338Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     }
   ]
