@@ -1,5 +1,5 @@
 {
-  "gerado_em_utc": "2026-09-12T10:35:19.420750Z",
+  "gerado_em_utc": "2026-09-13T11:38:36.049824Z",
   "total_instituicoes": 20,
   "ok": 7,
   "com_erro": 13,
@@ -137,7 +137,7 @@
         "https://site.copeve.ufmg.br/",
         "https://site.copeve.ufmg.br/concursos/231"
       ],
-      "timestamp_utc": "2026-09-12T10:33:12.932281Z",
+      "timestamp_utc": "2026-09-13T11:36:33.948615Z",
       "erro": null
     },
     {
@@ -179,7 +179,7 @@
         "https://www2.ufjf.br/copese/vestibular-pism-2/vestibular-de-musica-2027/",
         "https://www2.ufjf.br/copese/selecao-especial-2026/"
       ],
-      "timestamp_utc": "2026-09-12T10:33:18.000338Z",
+      "timestamp_utc": "2026-09-13T11:36:38.851663Z",
       "erro": null
     },
     {
@@ -190,7 +190,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-12T10:33:28.076454Z",
+      "timestamp_utc": "2026-09-13T11:36:48.452352Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -201,7 +201,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-12T10:33:29.926633Z",
+      "timestamp_utc": "2026-09-13T11:36:50.271467Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -212,7 +212,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-12T10:33:32.174921Z",
+      "timestamp_utc": "2026-09-13T11:36:52.439588Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -223,7 +223,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-12T10:33:36.025819Z",
+      "timestamp_utc": "2026-09-13T11:36:56.099326Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -234,7 +234,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-12T10:33:38.233796Z",
+      "timestamp_utc": "2026-09-13T11:36:58.233347Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -245,7 +245,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-12T10:33:40.638253Z",
+      "timestamp_utc": "2026-09-13T11:37:00.689701Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -320,7 +320,7 @@
         "https://www.fumec.br/vestibular-fumec/",
         "https://www.fumec.br/extensao/editais/"
       ],
-      "timestamp_utc": "2026-09-12T10:33:42.387188Z",
+      "timestamp_utc": "2026-09-13T11:37:02.395788Z",
       "erro": null
     },
     {
@@ -331,7 +331,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-12T10:33:48.277422Z",
+      "timestamp_utc": "2026-09-13T11:37:08.405142Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -342,7 +342,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-12T10:33:50.258891Z",
+      "timestamp_utc": "2026-09-13T11:37:10.383202Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -353,7 +353,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-12T10:33:51.928918Z",
+      "timestamp_utc": "2026-09-13T11:37:12.587494Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -364,7 +364,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-12T10:33:54.130682Z",
+      "timestamp_utc": "2026-09-13T11:37:14.827501Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -375,7 +375,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-12T10:33:56.104304Z",
+      "timestamp_utc": "2026-09-13T11:37:16.636360Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -402,7 +402,7 @@
         "https://www.puc-rio.br/vestibular/index.html",
         "https://www.puc-rio.br/vestibular/202612/"
       ],
-      "timestamp_utc": "2026-09-12T10:34:00.766320Z",
+      "timestamp_utc": "2026-09-13T11:37:20.446423Z",
       "erro": null
     },
     {
@@ -613,7 +613,7 @@
         "https://www.fuvest.br/auxiliar-manutencao-obras-2026",
         "https://www.fuvest.br/auxiliar-manutencao-obras-2025-2"
       ],
-      "timestamp_utc": "2026-09-12T10:34:09.039651Z",
+      "timestamp_utc": "2026-09-13T11:37:27.925641Z",
       "erro": null
     },
     {
@@ -783,7 +783,7 @@
         "https://www.comvest.unicamp.br/abertas-as-inscricoes-para-o-vestibular-sem-segredo-voltado-a-professores-o-evento-acontece-no-dia-12-9/",
         "https://www.comvest.unicamp.br/abertas-as-inscricoes-para-o-vestibular-unicamp-2027-ate-31-de-agosto/"
       ],
-      "timestamp_utc": "2026-09-12T10:34:29.056439Z",
+      "timestamp_utc": "2026-09-13T11:37:45.471390Z",
       "erro": null
     },
     {
@@ -794,7 +794,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-12T10:34:49.753945Z",
+      "timestamp_utc": "2026-09-13T11:38:06.235136Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -964,7 +964,7 @@
         "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao/brasilia",
         "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao/curitiba"
       ],
-      "timestamp_utc": "2026-09-12T10:34:51.548300Z",
+      "timestamp_utc": "2026-09-13T11:38:07.963088Z",
       "erro": null
     },
     {
@@ -975,7 +975,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-12T10:35:16.313338Z",
+      "timestamp_utc": "2026-09-13T11:38:33.092770Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     }
   ]
