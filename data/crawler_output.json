@@ -1,8 +1,8 @@
 {
-  "gerado_em_utc": "2026-09-13T11:38:36.049824Z",
+  "gerado_em_utc": "2026-09-14T12:32:31.932802Z",
   "total_instituicoes": 20,
-  "ok": 7,
-  "com_erro": 13,
+  "ok": 6,
+  "com_erro": 14,
   "resultados": [
     {
       "id": "ufmg",
@@ -137,7 +137,7 @@
         "https://site.copeve.ufmg.br/",
         "https://site.copeve.ufmg.br/concursos/231"
       ],
-      "timestamp_utc": "2026-09-13T11:36:33.948615Z",
+      "timestamp_utc": "2026-09-14T12:30:18.106623Z",
       "erro": null
     },
     {
@@ -179,7 +179,7 @@
         "https://www2.ufjf.br/copese/vestibular-pism-2/vestibular-de-musica-2027/",
         "https://www2.ufjf.br/copese/selecao-especial-2026/"
       ],
-      "timestamp_utc": "2026-09-13T11:36:38.851663Z",
+      "timestamp_utc": "2026-09-14T12:30:23.659183Z",
       "erro": null
     },
     {
@@ -190,7 +190,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-13T11:36:48.452352Z",
+      "timestamp_utc": "2026-09-14T12:30:33.869505Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -201,7 +201,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-13T11:36:50.271467Z",
+      "timestamp_utc": "2026-09-14T12:30:35.723693Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -212,7 +212,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-13T11:36:52.439588Z",
+      "timestamp_utc": "2026-09-14T12:30:38.006580Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -223,7 +223,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-13T11:36:56.099326Z",
+      "timestamp_utc": "2026-09-14T12:30:49.522261Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -234,7 +234,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-13T11:36:58.233347Z",
+      "timestamp_utc": "2026-09-14T12:30:52.358191Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -245,7 +245,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-13T11:37:00.689701Z",
+      "timestamp_utc": "2026-09-14T12:30:54.765638Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -320,7 +320,7 @@
         "https://www.fumec.br/vestibular-fumec/",
         "https://www.fumec.br/extensao/editais/"
       ],
-      "timestamp_utc": "2026-09-13T11:37:02.395788Z",
+      "timestamp_utc": "2026-09-14T12:30:56.489630Z",
       "erro": null
     },
     {
@@ -331,7 +331,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-13T11:37:08.405142Z",
+      "timestamp_utc": "2026-09-14T12:31:02.417443Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -342,7 +342,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-13T11:37:10.383202Z",
+      "timestamp_utc": "2026-09-14T12:31:04.401826Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -353,7 +353,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-13T11:37:12.587494Z",
+      "timestamp_utc": "2026-09-14T12:31:06.593889Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -364,7 +364,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-13T11:37:14.827501Z",
+      "timestamp_utc": "2026-09-14T12:31:08.980401Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -375,7 +375,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-13T11:37:16.636360Z",
+      "timestamp_utc": "2026-09-14T12:31:10.965622Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -402,7 +402,7 @@
         "https://www.puc-rio.br/vestibular/index.html",
         "https://www.puc-rio.br/vestibular/202612/"
       ],
-      "timestamp_utc": "2026-09-13T11:37:20.446423Z",
+      "timestamp_utc": "2026-09-14T12:31:16.771738Z",
       "erro": null
     },
     {
@@ -613,7 +613,7 @@
         "https://www.fuvest.br/auxiliar-manutencao-obras-2026",
         "https://www.fuvest.br/auxiliar-manutencao-obras-2025-2"
       ],
-      "timestamp_utc": "2026-09-13T11:37:27.925641Z",
+      "timestamp_utc": "2026-09-14T12:31:25.235024Z",
       "erro": null
     },
     {
@@ -748,6 +748,8 @@
         "Abertas as inscrições para o Vestibular sem Segredo, voltado a professores. O evento acontece no dia 12/9.",
         "Abertas as inscrições para o Vestibular Unicamp 2027, até 31 de agosto.",
         "A primeira fase será realizada no dia 18 de outubro. Os locais de prova serão divulgados nesta página, no dia 05 de outubro.",
+        ", com início às 9 horas. Os locais de prova poderão ser consultados nesta página a partir de 05 de outubro. Antes da primeira fase, haverá provas de Habilidades Específicas para candidatos aos cursos de Música (com",
+        "pela internet, entre os dias 14 e 30 de setembro). Para os demais cursos que exigem provas específicas (Artes Cênicas, Artes Visuais e Dança), elas ocorrerão em dezembro, entre os dias 2 e 4/12.  O",
         "11 de maio de 2026 – Abertura para Isenções de Taxa de Inscrição para o Vestibular Unicamp 2027 até 05 de junho 202",
         "05 de junho de 2026 – Prazo final para solicitação de Isenções da Taxa de Inscrição do Vestibular Unicamp 202",
         "03 de agosto de 2026 – Abertura para inscrições e pagamento da Taxa de Inscrição do Vestibular Unicamp 2027",
@@ -783,7 +785,7 @@
         "https://www.comvest.unicamp.br/abertas-as-inscricoes-para-o-vestibular-sem-segredo-voltado-a-professores-o-evento-acontece-no-dia-12-9/",
         "https://www.comvest.unicamp.br/abertas-as-inscricoes-para-o-vestibular-unicamp-2027-ate-31-de-agosto/"
       ],
-      "timestamp_utc": "2026-09-13T11:37:45.471390Z",
+      "timestamp_utc": "2026-09-14T12:31:43.721424Z",
       "erro": null
     },
     {
@@ -794,178 +796,19 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-13T11:38:06.235136Z",
+      "timestamp_utc": "2026-09-14T12:32:04.959865Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
       "id": "mackenzie",
       "sigla": "Mackenzie",
       "url_vestibular_consultada": "https://vestibular.mackenzie.br/",
-      "status": "ok",
-      "pdfs_encontrados": [
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/OI-DG_15-2026_Edital_Vestibular_Agendado_2026.2__1_.pdf",
-          "texto_ancora": "Edital",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/OI-DG_12-2026_Edital_ENEM_2026.2__2_.pdf",
-          "texto_ancora": "Edital",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/OI-DG_14-2026_Edital_Transf_2_Grad_2026.2__1_.pdf",
-          "texto_ancora": "Edital",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/OI-DG_13-2026_Edital_Passaporte_Mackenzie_2026.2__1_.pdf",
-          "texto_ancora": "Edital",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/1-mackenzie/faculdades/curitiba/2026/Editais/172_-_28__Chamada_do_PS_2026.pdf",
-          "texto_ancora": "EDITAL 28ª CHAMADA PS 2026",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/1-mackenzie/faculdades/curitiba/2026/Editais/169_-_27__Chamada_do_PS_2026.pdf",
-          "texto_ancora": "EDITAL 27ª CHAMADA PS 2026",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/1-mackenzie/faculdades/curitiba/2026/Editais/147_-_26__Chamada_do_PS_2026.pdf",
-          "texto_ancora": "EDITAL 26ª CHAMADA PS 2026",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/1-mackenzie/faculdades/curitiba/2026/Editais/146_-_25__Chamada_do_PS_2026.pdf",
-          "texto_ancora": "EDITAL 25ª CHAMADA PS 2026",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/1-mackenzie/faculdades/curitiba/2026/Editais/144_-_24__Chamada_do_PS_2026.pdf",
-          "texto_ancora": "EDITAL 24ª CHAMADA PS 2026",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/1-mackenzie/faculdades/curitiba/2026/Editais/141_-_23__Chamada_do_PS_2026.pdf",
-          "texto_ancora": "EDITAL 23ª CHAMADA PS 2026",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/1-mackenzie/faculdades/curitiba/2026/Editais/140_-_22__Chamada_do_PS_2026.pdf",
-          "texto_ancora": "EDITAL 22ª CHAMADA PS 2026",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/1-mackenzie/faculdades/curitiba/2026/Editais/139_-_21__Chamada_do_PS_2026.pdf",
-          "texto_ancora": "EDITAL 21ª CHAMADA PS 2026",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/1-mackenzie/faculdades/curitiba/2026/Editais/138_-_20__Chamada_do_PS_2026.pdf",
-          "texto_ancora": "EDITAL 20ª CHAMADA PS 2026",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/1-mackenzie/faculdades/curitiba/2026/Editais/135_-_19__Chamada_do_PS_2026.pdf",
-          "texto_ancora": "EDITAL 19ª CHAMADA PS 2026",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/1-mackenzie/faculdades/curitiba/2026/Editais/128_-_18__Chamada_do_PS_2026.pdf",
-          "texto_ancora": "EDITAL 18ª CHAMADA PS 2026",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/1-mackenzie/faculdades/curitiba/2026/Editais/126_-_17__Chamada_do_PS_2026.pdf",
-          "texto_ancora": "EDITAL 17ª CHAMADA PS 2026",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/1-mackenzie/faculdades/curitiba/2026/Editais/125_-_16__Chamada_do_PS_2026.pdf",
-          "texto_ancora": "EDITAL 16ª CHAMADA PS 2026",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/1-mackenzie/faculdades/curitiba/2026/Editais/123_-_15__Chamada_do_PS_2026.pdf",
-          "texto_ancora": "EDITAL 15ª CHAMADA PS 2026",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/1-mackenzie/faculdades/curitiba/2026/Editais/121_-_14__Chamada_do_PS_2026.pdf",
-          "texto_ancora": "EDITAL 14ª CHAMADA PS 2026",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/1-mackenzie/faculdades/curitiba/2026/Editais/119_-_13__Chamada_do_PS_2026.pdf",
-          "texto_ancora": "EDITAL 13ª CHAMADA PS 2026",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/1-mackenzie/faculdades/curitiba/2026/Editais/113_-_12__Chamada_do_PS_2026.pdf",
-          "texto_ancora": "EDITAL 12ª CHAMADA PS 2026",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/1-mackenzie/faculdades/curitiba/2026/Editais/106_-_11__Chamada_do_PS_2026.pdf",
-          "texto_ancora": "EDITAL 11ª CHAMADA PS 2026",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/1-mackenzie/faculdades/curitiba/2026/Editais/089-_10__Chamada_do__PS_2026.pdf",
-          "texto_ancora": "EDITAL 10ª CHAMADA PS 2026",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/1-mackenzie/faculdades/curitiba/2026/Editais/070-_9__Chamada_do__PS_2026.pdf",
-          "texto_ancora": "EDITAL 9ª CHAMADA PS 2026",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/1-mackenzie/faculdades/curitiba/2026/Editais/027-_8__Chamada_do__PS_2026.pdf",
-          "texto_ancora": "EDITAL 8ª CHAMADA PS 2026",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/1-mackenzie/faculdades/curitiba/2026/Editais/022-_7__Chamada_do__PS_2026.pdf",
-          "texto_ancora": "EDITAL 7ª CHAMADA PS 2026",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/1-mackenzie/faculdades/curitiba/2026/Editais/015-_6__Chamada_do__PS_2026.1.pdf",
-          "texto_ancora": "EDITAL 6ª CHAMADA PS 2026",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/1-mackenzie/faculdades/curitiba/2026/Editais/011-_5__Chamada_do__PS_2026.pdf",
-          "texto_ancora": "EDITAL 5ª CHAMADA PS 2026",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/1-mackenzie/faculdades/curitiba/2026/Editais/007-_4__Chamada_do__PS_2026.pdf",
-          "texto_ancora": "EDITAL 4ª CHAMADA PS 2026",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/1-mackenzie/faculdades/curitiba/vestibular/2025/002-_3__Chamada_do__PS_2026.pdf",
-          "texto_ancora": "EDITAL 3ª CHAMADA PS 2026",
-          "relevante_por_palavra_chave": true
-        }
-      ],
+      "status": "erro",
+      "pdfs_encontrados": [],
       "trechos_com_data": [],
-      "paginas_visitadas": [
-        "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao/",
-        "https://www.mackenzie.br/faculdades/rio",
-        "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao",
-        "https://www.mackenzie.br/colegios/aeja/processo-seletivo",
-        "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao/ead",
-        "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao/brasilia",
-        "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao/curitiba"
-      ],
-      "timestamp_utc": "2026-09-13T11:38:07.963088Z",
-      "erro": null
+      "paginas_visitadas": [],
+      "timestamp_utc": "2026-09-14T12:32:06.753446Z",
+      "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
       "id": "puc-sp",
@@ -975,7 +818,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-13T11:38:33.092770Z",
+      "timestamp_utc": "2026-09-14T12:32:28.979713Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     }
   ]
