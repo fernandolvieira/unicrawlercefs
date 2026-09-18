@@ -1,5 +1,5 @@
 {
-  "gerado_em_utc": "2026-09-17T11:30:44.678316Z",
+  "gerado_em_utc": "2026-09-18T11:03:40.303570Z",
   "total_instituicoes": 20,
   "ok": 7,
   "com_erro": 13,
@@ -9,135 +9,12 @@
       "sigla": "UFMG",
       "url_vestibular_consultada": "https://site.copeve.ufmg.br/",
       "status": "ok",
-      "pdfs_encontrados": [
-        {
-          "url": "https://backend.copeve.ufmg.br/uploads/TAE_3428_2025_Retificacao_Resultado_Preliminar_Candidatos_Pc_D_Decisao_Judicial_fb87a90cdf.pdf",
-          "texto_ancora": "Retificação do Resultado Preliminar - Candidatos PcD - Decisão Judicial (publicado em 10/09/2026 às 16:34)",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://backend.copeve.ufmg.br/uploads/TAE_3428_2025_Retificacao_Resultado_Preliminar_Ampla_Concorrencia_Decisao_Judicial_d6cc533a0e.pdf",
-          "texto_ancora": "Retificação do Resultado Preliminar - Ampla Concorrência - Decisão Judicial (publicado em 10/09/2026 às 16:32)",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://backend.copeve.ufmg.br/uploads/TAE_3428_2025_Resultado_Final_Classificados_Provisoriamente_Tecnico_Assuntos_Educacionais_Pc_D_9d82b3d099.pdf",
-          "texto_ancora": "Retificação do Resultado Final dos Candidatos Classificados Provisoriamente - Pessoas com Deficiência (publicado em 26/06/2026 às 17:20)",
-          "relevante_por_palavra_chave": true
-        },
-        {
-          "url": "https://backend.copeve.ufmg.br/uploads/TAE_3438_2025_Resultado_Final_Classificao_Pc_D_Assist_Administracao_Sub_Judice_de6b949594.pdf",
-          "texto_ancora": "Resultado Final - Assistente em Administração - Pessoas com Deficiência - Decisão Judicial (publicado em 11/09/2026 às 11:15)",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://backend.copeve.ufmg.br/uploads/TAE_3428_2025_Classificacao_Tec_Contabilidade_Retificacao_01539d5a2f.pdf",
-          "texto_ancora": "Resultado Final - Técnico em Contabilidade - Pessoas com Deficiência (publicado em 03/08/2026 às 13:15)",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://backend.copeve.ufmg.br/uploads/TAE_3428_2025_Resultado_Final_Classificados_cd95da1e9a.pdf",
-          "texto_ancora": "Resultado Final - Candidatos Classificados (publicado em 22/05/2026 às 11:35)",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://backend.copeve.ufmg.br/uploads/TAE_3428_2025_Resultado_Final_Cargos_sem_Classificados_por_Modalidade_fd790b226b.pdf",
-          "texto_ancora": "Resultado Final - Cargos sem Classificados por Modalidade (publicado em 22/05/2026 às 11:35)",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://backend.copeve.ufmg.br/uploads/RESULTADO_FINAL_QUILOMBOLAS_80d2abbc4b.pdf",
-          "texto_ancora": "Resultado Final das pessoas Quilombolas após Análise dos Recursos (publicado em 20/05/2026 às 11:30)",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://backend.copeve.ufmg.br/uploads/RESULTADO_FINAL_INDIGENAS_2d0d497c53.pdf",
-          "texto_ancora": "Resultado Final das pessoas Indígenas após Análise dos Recursos (publicado em 20/05/2026 às 11:30)",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://backend.copeve.ufmg.br/uploads/TAE_3428_Resultado_Heteroidentificacao_Pos_Recursos_99789f7985.pdf",
-          "texto_ancora": "Resultado Final da Análise da Heteroidentificação após Banca Recursal (publicado em 19/05/2026 às 15:55)",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://backend.copeve.ufmg.br/uploads/TAE_3428_Resultado_Pericia_Medica_Apos_Recursos_f7b89b63d3.pdf",
-          "texto_ancora": "Resultado da Perícia Médica após Análise dos Recursos (publicado em 19/05/2026 às 15:50)",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://backend.copeve.ufmg.br/uploads/TAE_3428_Resultado_Analise_Candidatos_Pretos_Pardos_b1b0ba9930.pdf",
-          "texto_ancora": "Resultado da Análise da Heteroidentificação dos Autodeclarados Negros (pretos ou pardos) (publicado em 05/05/2026 às 12:50)",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://backend.copeve.ufmg.br/uploads/TAE_3428_Resultado_Pericia_Medica_b2f8c3b1ad.pdf",
-          "texto_ancora": "Resultado da Perícia Médica (publicado em 05/05/2026 às 12:50)",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://backend.copeve.ufmg.br/uploads/TAE_3428_Relatorio_Analise_Documental_Indigenas_226e1ce243.pdf",
-          "texto_ancora": "Resultado da Análise Documental das Pessoas Indígenas (publicado em 05/05/2026 às 12:45)",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://backend.copeve.ufmg.br/uploads/TAE_3428_Relatorio_Analise_Documental_Quilombolas_b5ea00fd09.pdf",
-          "texto_ancora": "Resultado da Análise Documental das Pessoas Quilombolas (publicado em 05/05/2026 às 12:45)",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://backend.copeve.ufmg.br/uploads/TAE_3428_2025_A_Relacao_Geral_Modalidade_Preliminar_af90be86c6.pdf",
-          "texto_ancora": "Resultado Preliminar - Ampla Concorrência (publicado em 17/04/2026 às 17:45)",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://backend.copeve.ufmg.br/uploads/TAE_3428_2025_D_Relacao_Geral_Modalidade_Preliminar_82a89558a4.pdf",
-          "texto_ancora": "Resultado Preliminar - Candidatos PCD (publicado em 17/04/2026 às 17:45)",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://backend.copeve.ufmg.br/uploads/TAE_3428_2025_N_Relacao_Geral_Modalidade_Preliminar_b0edb55240.pdf",
-          "texto_ancora": "Resultado Preliminar - Negros (Preto ou Pardo) (publicado em 17/04/2026 às 17:44)",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://backend.copeve.ufmg.br/uploads/TAE_3428_2025_I_Relacao_Geral_Modalidade_Preliminar_abcd2981e1.pdf",
-          "texto_ancora": "Resultado Preliminar - Indígenas (publicado em 17/04/2026 às 17:42)",
-          "relevante_por_palavra_chave": false
-        },
-        {
-          "url": "https://backend.copeve.ufmg.br/uploads/TAE_3428_2025_Q_Relacao_Geral_Modalidade_Preliminar_c78fb465cf.pdf",
-          "texto_ancora": "Resultado Preliminar - Quilombolas (publicado em 17/04/2026 às 17:40)",
-          "relevante_por_palavra_chave": false
-        }
-      ],
-      "trechos_com_data": [
-        "Resultado Final - Assistente em Administração - Pessoas com Deficiência - Decisão Judicial (publicado em 11/09/2026 às 11:15)",
-        "Retificação do Resultado Preliminar - Candidatos PcD - Decisão Judicial (publicado em 10/09/2026 às 16:34)",
-        "Retificação do Resultado Preliminar - Ampla Concorrência - Decisão Judicial (publicado em 10/09/2026 às 16:32)",
-        "Resultado Final - Técnico em Contabilidade - Pessoas com Deficiência (publicado em 03/08/2026 às 13:15)",
-        "Retificação do Resultado Final dos Candidatos Classificados Provisoriamente - Pessoas com Deficiência (publicado em 26/06/2026 às 17:20)",
-        "Resultado Final - Candidatos Classificados (publicado em 22/05/2026 às 11:35)",
-        "Resultado Final - Cargos sem Classificados por Modalidade (publicado em 22/05/2026 às 11:35)",
-        "Resultado Final das pessoas Quilombolas após Análise dos Recursos (publicado em 20/05/2026 às 11:30)",
-        "Resultado Final das pessoas Indígenas após Análise dos Recursos (publicado em 20/05/2026 às 11:30)",
-        "Resultado Final da Análise da Heteroidentificação após Banca Recursal (publicado em 19/05/2026 às 15:55)",
-        "Resultado da Perícia Médica após Análise dos Recursos (publicado em 19/05/2026 às 15:50)",
-        "Resultado da Análise da Heteroidentificação dos Autodeclarados Negros (pretos ou pardos) (publicado em 05/05/2026 às 12:50)",
-        "Resultado da Perícia Médica (publicado em 05/05/2026 às 12:50)",
-        "Resultado da Análise Documental das Pessoas Indígenas (publicado em 05/05/2026 às 12:45)",
-        "Resultado da Análise Documental das Pessoas Quilombolas (publicado em 05/05/2026 às 12:45)",
-        "Resultado Preliminar - Ampla Concorrência (publicado em 17/04/2026 às 17:45)",
-        "Resultado Preliminar - Candidatos PCD (publicado em 17/04/2026 às 17:45)",
-        "Resultado Preliminar - Negros (Preto ou Pardo) (publicado em 17/04/2026 às 17:44)",
-        "Resultado Preliminar - Indígenas (publicado em 17/04/2026 às 17:42)",
-        "Resultado Preliminar - Quilombolas (publicado em 17/04/2026 às 17:40)"
-      ],
+      "pdfs_encontrados": [],
+      "trechos_com_data": [],
       "paginas_visitadas": [
-        "https://site.copeve.ufmg.br/",
-        "https://site.copeve.ufmg.br/concursos/231"
+        "https://site.copeve.ufmg.br/"
       ],
-      "timestamp_utc": "2026-09-17T11:28:41.238635Z",
+      "timestamp_utc": "2026-09-18T11:01:21.225873Z",
       "erro": null
     },
     {
@@ -165,6 +42,11 @@
           "url": "https://www2.ufjf.br/consu/wp-content/uploads/sites/33/2021/09/Resolu%C3%A7%C3%A3o-54.2021_SEI-_Assinada.pdf",
           "texto_ancora": "Resolução CONSU n° 54/2021",
           "relevante_por_palavra_chave": true
+        },
+        {
+          "url": "https://www2.ufjf.br/copese/wp-content/uploads/sites/42/2026/09/RESULTADO_FINAL.pdf",
+          "texto_ancora": "RESULTADO FINAL DA PROVA PRÁTICA – APÓS RECURSO",
+          "relevante_por_palavra_chave": false
         },
         {
           "url": "https://www2.ufjf.br/copese/wp-content/uploads/sites/42/2026/09/Ficha_de_avaliacao_Prova_Pratica_THE_Musica_2027_1_assinado_2_assinado.pdf",
@@ -209,7 +91,7 @@
         "https://www2.ufjf.br/copese/vestibular-pism-2/vestibular-de-musica-2027/",
         "https://www2.ufjf.br/copese/selecao-especial-2026/"
       ],
-      "timestamp_utc": "2026-09-17T11:28:46.170871Z",
+      "timestamp_utc": "2026-09-18T11:01:23.656167Z",
       "erro": null
     },
     {
@@ -220,7 +102,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-17T11:28:55.194859Z",
+      "timestamp_utc": "2026-09-18T11:01:33.337068Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -231,7 +113,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-17T11:28:56.933625Z",
+      "timestamp_utc": "2026-09-18T11:01:35.156791Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -242,7 +124,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-17T11:28:58.992595Z",
+      "timestamp_utc": "2026-09-18T11:01:37.331745Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -253,7 +135,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-17T11:29:02.614468Z",
+      "timestamp_utc": "2026-09-18T11:01:48.847026Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -264,7 +146,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-17T11:29:04.618353Z",
+      "timestamp_utc": "2026-09-18T11:01:51.001077Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -275,7 +157,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-17T11:29:06.764889Z",
+      "timestamp_utc": "2026-09-18T11:01:53.319809Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -350,7 +232,7 @@
         "https://www.fumec.br/vestibular-fumec/",
         "https://www.fumec.br/extensao/editais/"
       ],
-      "timestamp_utc": "2026-09-17T11:29:08.420069Z",
+      "timestamp_utc": "2026-09-18T11:01:55.029664Z",
       "erro": null
     },
     {
@@ -361,7 +243,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-17T11:29:13.838997Z",
+      "timestamp_utc": "2026-09-18T11:02:01.054100Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -372,7 +254,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-17T11:29:15.667094Z",
+      "timestamp_utc": "2026-09-18T11:02:03.064708Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -383,7 +265,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-17T11:29:17.589028Z",
+      "timestamp_utc": "2026-09-18T11:02:04.857360Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -394,7 +276,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-17T11:29:19.677516Z",
+      "timestamp_utc": "2026-09-18T11:02:06.988981Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -405,7 +287,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-17T11:29:21.499677Z",
+      "timestamp_utc": "2026-09-18T11:02:08.786584Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -432,7 +314,7 @@
         "https://www.puc-rio.br/vestibular/index.html",
         "https://www.puc-rio.br/vestibular/202612/"
       ],
-      "timestamp_utc": "2026-09-17T11:29:25.269379Z",
+      "timestamp_utc": "2026-09-18T11:02:13.781834Z",
       "erro": null
     },
     {
@@ -640,10 +522,10 @@
         "https://www.fuvest.br/auxiliar-laboratorio-2026/",
         "https://www.fuvest.br/auxiliar-laboratorio-2025-2/",
         "https://www.fuvest.br/acervo-concursos-2025-auxiliar-de-laboratorio/",
-        "https://www.fuvest.br/auxiliar-manutencao-obras-2026",
-        "https://www.fuvest.br/auxiliar-manutencao-obras-2025-2"
+        "https://www.fuvest.br/auxiliar-manutencao-obras-2026/",
+        "https://www.fuvest.br/auxiliar-manutencao-obras-2025-2/"
       ],
-      "timestamp_utc": "2026-09-17T11:29:32.745544Z",
+      "timestamp_utc": "2026-09-18T11:02:21.597959Z",
       "erro": null
     },
     {
@@ -815,7 +697,7 @@
         "https://www.comvest.unicamp.br/abertas-as-inscricoes-para-o-vestibular-sem-segredo-voltado-a-professores-o-evento-acontece-no-dia-12-9/",
         "https://www.comvest.unicamp.br/abertas-as-inscricoes-para-o-vestibular-unicamp-2027-ate-31-de-agosto/"
       ],
-      "timestamp_utc": "2026-09-17T11:29:50.025323Z",
+      "timestamp_utc": "2026-09-18T11:02:45.843144Z",
       "erro": null
     },
     {
@@ -826,7 +708,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-17T11:30:09.804067Z",
+      "timestamp_utc": "2026-09-18T11:03:06.208788Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     },
     {
@@ -996,7 +878,7 @@
         "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao/brasilia",
         "https://www.mackenzie.br/processos-seletivos/vestibular-graduacao/curitiba"
       ],
-      "timestamp_utc": "2026-09-17T11:30:11.566289Z",
+      "timestamp_utc": "2026-09-18T11:03:08.036302Z",
       "erro": null
     },
     {
@@ -1007,7 +889,7 @@
       "pdfs_encontrados": [],
       "trechos_com_data": [],
       "paginas_visitadas": [],
-      "timestamp_utc": "2026-09-17T11:30:42.039271Z",
+      "timestamp_utc": "2026-09-18T11:03:37.351712Z",
       "erro": "Não foi possível acessar a página principal do vestibular."
     }
   ]
